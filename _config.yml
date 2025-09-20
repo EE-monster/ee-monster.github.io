@@ -16,7 +16,7 @@ timezone:
 
 title: EE # the main title
 
-tagline: Have a nice journey! # it will display as the subtitle
+tagline: 学饱了睡，睡饱了学！ # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
