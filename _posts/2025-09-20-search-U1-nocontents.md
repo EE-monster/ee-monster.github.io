@@ -1,0 +1,5807 @@
+---
+title: U1 no contents
+date: 2024-01-12
+categories:
+tags:
+author: Knight
+---
+
+
+Welcome to a new project for me in 2024. Like so many people I have set myself a New Year's goal of finally capturing and sharing with the wider world everything tech related I am interested in, or things I just find shareworthy (is that even a word?). I follow a number of people, groups and organisations across platforms that have inspired my own growth over the years, and want this to be my way of paying it forward.
+
+## **Lesson 1 - A puma at large**
+### **课文原文**
+<font color=gray size=4>Pumas are large, cat-like animals which are found in America. When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously. However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
+
+The hunt for the puma began in a small village where a woman picking blackberries saw ‘a large cat’ only five yards away from her. It immediately ran away when she saw it, and experts confirmed that a puma will not attack a human being unless it is cornered. The search proved difficult, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening. Wherever it went, it left behind it a trail of dead deer and small animals like rabbits. Paw prints were seen in a number of places and puma fur was found clinging to bushes. Several people complained of ‘cat-like noises’ at night and a businessman on a fishing trip saw the puma up a tree. The experts were now fully convinced that the animal <i>was</i> a puma, but where had it come from? As no pumas had been reported missing from any zoo in the country, this one must have been in the possession of a private collector and somehow managed to escape. The hunt went on for several weeks, but the puma was not caught. It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside.</font>
+
+
+### 🌻 **单词讲解**
++ **puma** n. 美洲狮
++ **spot** v. 看出，发现；n. 斑点，地点，少量
+  + **n. 斑点，地点，少量**
+    ✎ a big red <u>spot</u> 大红斑  
+    ✎ a <u>spot</u> on one’s reputation 某人名声上的一个污点  
+    ✎ A leopard won’t change its <u>spots</u>. 江山易改本性难移（直译：豹子不会改变它身上的斑点）（谚语）
+    **spot of sth** 有点……（习语）（偏英式）
+    ✎ **a spot of bother** 一点小麻烦（L58）
+    ✎ You seem to be having <u>a spot of bother</u> with your car, can I help? 你的车似乎遇到了点小毛病，需要帮忙吗？
+  + **n. 地点**
+    ✎ a **scenic spot** 一处旅游景点
+    ✎ A great many of <u>scenic spot</u> are being spoilt by the ill-behaved tourists. 许多旅游景点正在被许多品行不端的游客破坏。  
+    **hot spot** 热点地区
+    ✎ the Middle East is a <u>hot spot</u>. 中东是个热点地区。
+    **on the spot** 在现场/ 到现场
+    ✎ Ten minutes after calling 911, a police car arrived <u>on the spot</u>. 在报警十分钟后，一辆警车抵达了现场。
+  + **v. 看出，发现**  
+    ✎ Dr. Marcy and Dr. Butler also <u>spotted</u> the first "family" of three planets. 马西博士和巴特勒博士也发现了由三颗行星组成的第一个“家族”。（高考阅读真题） 
+    ✎ Chick Webb <u>spotted</u> her in an amateur competition when she was sixteen. 奇克·韦伯在一次业余比赛中发现了时年16岁的她。（托福阅读真题）
+    ✎ Four days after setting out, while the *Titanic* was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly <u>spotted</u> by a look-out.（L10）
+    ✎ He had <u>spotted</u> a tiny bottle at the bottom of my case and he pounced on it with delight.（L11）
+    + 近义替换：
+      **see/ find/ observe**
+    + 易混词辨析：
+    ◇ **recognize** 认出来
+    **recognize sb. as……** 认出来某人是……
+    ✎ In the torchlight, he caught sight of a figure whom he immediately <u>recognized as</u> Bill Wilkins, our local grocer.（L2）
+    ◇ **identify** v. 识别（某人某物的身份）
+    **identity** n.
+    ✎ ID card: identity card ✎ UFO: unidentified flying object
++ **evidence** n.[U] 证据
+  ✎ a piece of <u>evidence</u> 一条证据  
+  + 同根词：
+    **evident** a. 清楚的，明显的  
+    **self-evident** a. 不言自明的，显而易见的  
+    ✎ ‘All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being <u>self-evident</u>.’ 所有真理一定会经历三个阶段，第一个阶段，受到嘲弄；第二个阶段，受到激烈地反对；第三个阶段，被广泛接受为是不言自明的。（Arthur Schopenhauer 叔本华）
+    ✎ We hold these truths to be <u>self-evident</u>, that all men are created equal, that they are endowed by the Creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness. （Thomas Jefferson《Declaration of Independence》）
+    我们认为这些真理是不言而喻的，即人人生而平等，他们被造物主赋予了某些不可剥夺的权利，其中包括生命权、自由权和追求幸福的权利。（汤姆斯·杰斐逊《独立宣言》）
+  + 延伸词及其搭配：
+    **court** n. 法庭；**judge** 法官；**jury** 陪审团；**witness** 目击者、证人；**testimony** 证词
+    **go to court** 去打官司；**go to the court** 去法院工作等（表示功能时不加“the”）  
+    **settle sth. out of court** 私下解决某事/私了
+    **accuse sb. of (doing) sth.** 因为（做）某事控告/指责某人
+    ✎ I <u>accused</u> him <u>of</u> stealing my sheep. 我控告他偷了我的羊。  
+    **charge sb. with (doing) sth.** 因为（做）某事控告/指责某人
+    ✎ I <u>charged</u> him <u>with</u> stealing my sheep. 我控告他偷了我的羊。
++ **accumulate** v. 积累，积聚
+  ✎ <u>accumulate</u> <u>knowledge/ possessions</u> 积累知识/财富
+  ✎ I <u>accumulated</u> a large vocabulary. 我积累了大量的词汇。
+  + 同义替换：
+    **amass** vt.积聚，积累（比accumulate更正式）
+    ✎ <u>amass</u> a fortunate 积累一笔财富
+    ✎ People tend to <u>amass</u> possessions.（L59）
+    **pile** v. 堆积，积累 **pile up** 堆积，积累  
+    ✎ Meanwhile, the traffic <u>piled up</u> behind. 与此同时，车子在后面越积越多。（L33）
+  + 近义词：
+    **collect** v. 收集，聚集 ✎ <u>collect</u> stamps 集邮  
+    **gather** v. 收集，聚集 ✎ <u>gather</u> crops 收割庄稼  
+    **hoard** v. 囤积（尤指没有必要这么做）；n.贮藏  
+    ✎ Shenzhen real estate developers <u>hoard</u> large amounts of land. 深圳房地产开发商囤积了大量土地。
++ **oblige** v. 使某人感到必须做某事 
+  **obligation** n. 责任，义务  
+  **<u>be/ feel</u> obliged to do** 有责任/义务做某事，觉得不得不做某事
+  ✎ Dear Mr.Wang,
+  Thank you very much for having offered me such a golden opportunity to work as an editor for Designs & Fashions, a best-selling magazine renowned for its extraordinary quality and taste. I was thrilled by the news and have tried my utmost, but after two months’ work I <u>feel obliged to</u> resign, which is truly a tough decision for me.（2005年考研小作文范文节选 - 辞职信）
+  + 同义替换： 
+    **must do；have to do**（这俩太基础）
+    **<u>be/ feel</u> compelled to do** 不得不做某事，必须做某事（迫于外力）  
+    ✎ President Nixon <u>felt compelled to</u> resign. 尼克松总统觉得必须要辞职。
+    **<u>be/ feel</u> impelled to do sth.** 不得不做某事，必须做某事（出于内心）  
+    ✎ He <u>felt impelled to</u> point out that they were making a dangerous mistake. 他觉得必须指出他们正在犯一个危险的错误。
++ **hunt** n.追猎；寻找
+  **hunt for**
++ **blackberry** n.黑莓
++ **human being** n.[C]人类
+  a human being, human beings  
+  + 表示“人类”的词补充：
+    **man**（不可数，复数men只能表示男人，不能表示人类）
+    **mankind**（不可数）；**humankind**（不可数）；
+    **human race**（不可数）；**humanity**（不可数）人类；人性；人道（humanities 人文学科）
+    ✎ a crime against <u>humanity</u> 反人类罪
+  + **being** ① 作系动词：是……；② 作普通动词：存在，活着
+    ✎ alien <u>being</u> 外星生物 ✎ intelligent <u>being</u> 智慧生物
+    ✎ To <u>be</u>, or not to <u>be</u>: that is the question. 生存还是死亡，这是一个问题。活着（《哈姆雷特》）
+    ✎ I think therefore I <u>am</u>. 我思故我在。存在（笛卡尔）
++ **corner** v. 使走投无路，使陷入困境；n. 角落
+  + v. 使走投无路，使陷入困境
+    ✎ Don’t <u>corner</u> me! 不要逼我！  
+    ✎ A <u>cornered</u> beast will do something desperate. 狗急跳墙。（直译：一头陷入困境的野兽将会做一些不顾一切的事。）（谚语）
+  + n.角落
+    **<u>on/ in/ at/ around</u> the corner** 在角落（around the corner 常表示时间概念，指某个日期、时刻就快来了）
+    ✎ My birthday is just <u>around the corner</u>. 我的生日就快到了。
++ **trail** n.一串，一系列（量词）
++ **print** n.印痕
++ **cling** v.粘
+  **cling to**
++ **convince** v. 使某人相信/信服
+  **convincing** a. 令人信服的
+  + **convince sb. of sth.** 使某人相信某事（被动：**be convinced of sth.** 某人对某事相信）  
+    ✎ He failed to <u>convince</u> the jury <u>of</u> his innocence. 他未能使陪审团相信他是清白的。  
+  + 类似结构：
+    **cure sb. of sth.** 治好了某人的某个病  
+    ✎ The doctor <u>cured</u> him <u>of</u> his lung cancer. 医生治好了他的肺癌。
+    **inform sb. of sth.** 通知某人某事  
+    ✎ My ex-wife <u>informed</u> me <u>of</u> her marriage. 我的前妻通知我她结婚了。
+    **remind sb. of sth.** 使某人回忆起某事
+    ✎ You <u>remind</u> me <u>of</u> one of my classmates. 你使我回忆起了我的一个同学。
+    **rob sb. of sth.** 抢劫某人的某物
+    ✎ The robber <u>robbed</u> me <u>of</u> my wallet. 强盗抢走了我的钱包。
+    **deprive sb. of sth.** 剥夺某人的权力
+    ✎ Some criminals <u>were deprived of</u> political rights. 一些罪犯被剥夺了政治权利。
+    **assure sb. of sth.** 使某人对某事放心
+    ✎ The dealer <u>assured</u> me <u>of</u> its quality. 商人让我放心商品的质量。
++ **somehow** ad.不知怎么搞地，不知什么原因
+  ✎ And I couldn’t remember what it felt like when I could not walk down the street without holding her hand. I mean she was the same woman I fell in love with, she hadn’t changed. But <u>somehow</u> everything’s different. We’d lost something along the way.（《遗愿清单》）
+  + 相同构词：
+    **somewhat** 有一些/有一点……  
+    ✎ He was <u>somewhat</u> hungry. 他有点饿。  
+    ✎ He was <u>somewhat</u> embarrassed. 他有点尴尬。  
+    **somewhere** 某处，在某个地方
+    **somewhere around here** 附近这一片地方
+    ✎ I’ve lost my wallet <u>somewhere around here</u>. 我在这附近弄丢了我的钱包。
++ **disturb** v. 打扰，令某人不安
+  ✎ Do not <u>disturb</u>. 请勿打扰。（酒店房间门牌）（不及物）  
+  ✎ I hope I’m not <u>disturbing</u> you. 我希望没有打扰到您。（电话通话）（及物） 
+  **Sorry to disturb you, but……** 很抱歉打搅您，但是……（口语，客套话，非紧急情况）
+  ✎ <u>Sorry to disturb you, but</u> I really need you help. 
+
+
+### 🕹️ **课文讲解**
++ **at large** 在逃的，未被控制住的，未被捕获的
+  a puma (which was) at large.
+  定语从句中，关系代词which作主语，其后紧跟be动词的话，可将which和be动词省略。本文出现多次，如第一句的which are，同理，也可省略。
+  ✎ a prisoner/ suspect <u>at large</u> 一个在逃的囚犯/嫌疑犯
+  ✎ The disease is still <u>at large</u>. 疾病依然在四处蔓延（肆虐）。
++ **cat-like** 像猫一样的
+  + 相同结构的复合形容词举例：
+    <u>bear-like</u> animals 像熊一样的动物
+    <u>lady-like</u> behavior 女人般的举止
+    <u>child-like</u> simplicity 孩子般的单纯/率真
+    an <u>angel-like</u> girl 一个天使般的女孩
+    <u>crystal-like</u> eyes 水晶般的双眸
+    <u>flu-like</u> symptoms 类似于流感的症状
+    ✎ As is shown in the picture, there is a <u>cobweb-like</u> structure with separate compartments packed in it. 如图所示，有一个类似于蜘蛛网的结构，里面有单独的隔间。（2009年考研英语大作文范文-看图写作）
+    ✎ Foxes and farmers have never got on well. These small <u>dog-like</u> animals have long been accused of killing farm animals. 狐狸和农民从来没不能融洽相处。这些小型的像一样狗的动物长期以来一直被指责杀死农场里的动物。（四级阅读真题）
++ **be found in ……** 产于/存在于某处（尤指动植物）
+  ✎ Many plant and animal species <u>are found</u> only <u>in</u> the rainforests. 许多动植物物种仅仅产于雨林。
+  ✎ Vitamin C <u>is found in</u> citrus fruit. 维生素C存在于柑橘类的果实中。（托福阅读真题）
+> 仿写第1句
+  大熊猫 (giant panda) 是一种大型的，类似于熊的动物，产于中国四川省。
+  Giant pandas are large, bear-like animals which are found in Sichuan province, China.
++ **came into**  
+  ✎ He <u>came into</u> the classroom.（人称主语“he”）
+  ✎ However, a new type of <u>humor</u>, which stems largely from the US has recently <u>come into</u> fashion.（物称主语“humor”）（L29）
+  ✎ The dealer told him that <u>it</u> had just <u>come in</u>, but that he could not be bothered to open it.（L34）
+
+#### 👾 **inanimate subject 无灵主语/物称主语**
+在英语，尤其书面语中较常见。
+对应课文：When reports came into London Zoo. 
+┏ I thought of a good idea. 我想到了一个好主意。(人称主语)  
+┗ A good idea came into my mind. 一个好主意出现在了我的脑海中。(物称主语)  
+┗ A good idea flashed my mind. 一个好主意闪现在了我的脑海中。(物称主语)
+┏ He went to the town on business. 他进城办事去了。(人称主语)  
+┗ Business took him to the town. （可按人称主语翻译）(物称主语)
+✎ A warm and sunny Sunday found my whole family going for an outing at the beach. 我们全家人在一个风和日丽的星期天去海滨远足。(物称主语)
+
+#### 👾 **同位语从句和定语从句的区别**
+同位语从句对应课文第二句：When reports came into London Zoo <u>that a wild puma had been spotted forty-five miles south of London</u>, they were not taken seriously.（此从句原本跟在reports后面，为句式平衡，进行了后移）
+1. 从**定义**上看：
+  同位语从句解释前面名词的具体内容；  
+  而定语从句仅起到后置定语的作用，常译为“……的”；
+2. 从**形式**上看：
+  同位语从句中的“that”仅起到连接符号的作用，不充当语法成分，（去掉后仍是成分完整的句子）；
+  而定语从句中的“that”是关系代词，在从句定充当主语、宾语或表语。
+  ┏ The proposal <u>that John should be dismissed</u> is unacceptable.（同位语从句）
+  ┗ The proposal <u>that John put forward</u> is unacceptable.（定语从句）
++  …… a wild puma <u>had been spotted/ seen/ found/ observed</u> forty-five miles south of London……（原文及替换）（本文还有多处替换）
++ **方位介词的使用：<u>in/ on/ to</u> the south of ……**
+  Shanghai is **in** the south of China. **位于内部，不可省略**
+  Vietnam is **on** the south of China. **位于外部且相邻，不可省略**
+  Indonesia is **to** the south of China. **位于外部且不相邻，可省略，如本文**
+  ✎ …… forty-five miles <u>(to the) south of</u> London……（本文）
+  ✎ 100 kilometers <u>(to the) south of</u> Xi’an 在西安以南100公里处
++ ┏ **take …… seriously** 重视……
+  ┗ **take …… lightly** 轻视……
+> 仿写第2句
+  当消息(news)传到了国家博物馆(the national museum)，说是在西安以南100公里处发现了一座古墓(an ancient tomb)的时候，这则消息受到了重视。
+  When news came into the national museum that an ancient tomb had been found 100 kilometers south of Xi’an, it was taken seriously. 
++ **investigate** 调查  
+  ✎ <u>investigate</u> the market 调研市场  
+  ✎ <u>investigate</u> the case 调查案件  
+  ✎ the Federal Bureau of <u>Investigation</u> (FBI) 联邦调查局
+
+#### 👾 **引导原因状语从句的连词：**
+
+|词汇|语气|位置|
+|:---|:---|:---|
+|because|最强|主句前、中、后皆可|
+|since|略弱|主句前、中、后皆可|
+|as|略弱|主句前、中、后皆可|
+|for|更弱|主句中、后，作补充说明，一般用逗号与主句隔开|
+|in that|更弱|主句中、后，作补充说明|
+|now (that)|/|主句前、中、后皆可|
+
+now (that) 既可以译作“因为”，引导原因状语从句；也可以译作“现在”，引导时间状语从句。故此从句不可与过去式搭配。
+✎ <u>Now that</u> a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty.（L8）
+
+#### 👾 **非谓语动词作后置定语：**
+ …… the descriptions (which were) given by people（英语中一般将比较长的定语放至名词后）  
+ 如果不省略“which were”，则定语从句作后置定语，来修饰中心名词“descriptions”；  
+ 如果省略，则从形式上看是非谓语动词作后置定语，来修饰中心名词“descriptions” 。  
++ 什么是非谓语动词  
+  分为2大形式：1、分词（①现在分词doing；②过去分词done）；2、动词不定式（to do）。
++ 非谓语动词在句中充当的成分  
+  6大句子成分——主谓宾定状补中，除了不可充当谓语，其它皆可充当。
++ 用法：表达“要做但未做的事”，多数用“to do”；表达“正在做或做过的事”，多用分词，主动时用“doing”，被动时用“done”。
+
+✎ make descriptions → …… descriptions made by people …… 人们做出的描述  
+✎ The hunt for the puma began in a small village where <u>a woman picking blackberries</u> saw ‘a large cat’ only five yards away from her.（本文）
+✎ John had a very good day and put his <u>wallet containing £3,000</u> into the microwave oven for safekeeping. 装着3千英镑的钱包（L7）
+✎ For hundreds of years, St. Bernard dogs have saved the lives of <u>travellers crossing the dangerous Pass</u>. 穿越危险山口的游客（L8）
+✎ novels <u>(written) by Lu Xun</u> 鲁迅写的小说
+✎ movies <u>directed by Zhang Yimou</u> 张艺谋执导的电影
+✎ The man <u>leaning against the wall</u> <u>named George</u> is my brother. 靠在墙上，名字叫做“乔治”的人是我哥哥。
+
+#### 👾 **动词不定式的完成时（to have done）**
+“claim to have done……” 强调在“声称”前发生  
++ 使用场景：固定搭配必须用动词不定式to do，且同时要表达“先发生”。如不强调“先发生”，则使用“claim to do……” 即可。
+  ✎ So far, no organization has <u>claimed to be responsible</u> for the accident. 迄今为止，没有任何组织声称对此事件负责。
+  ✎ Everyone went to the funeral, for the ‘ghost’ was none other than Eric Cox, a third brother who was supposed <u>to have died</u> as a young man.（L30）
+  ✎ When I was a boy,my grandfather told me how a German taxi driver, Franz Bussman, found a brother who was thought <u>to have been killed</u> twenty years before.（L36）
+
++ **extraordinarily** ad. 特别地，不一般地  
+  + 其它的在日常口语中重音后移的词（多见于美音）：
+    **primarily** ad. 主要地；**absolutely** ad. 绝对地；**necessarily** ad. 必要地，必然地；**temporarily** ad. 暂时地
+  + **were extraordinarily similar** 特别相似  
+    同义替换：
+    **were particularly alike**
+    **had a lot in common**（in common 共同的 (习语-常作后置定语)）
+    **had considerable commonalities**（偏正式）
+    ✎ —— well, I saw the ad on the back of the bus stop today. And, uh…… though it was not exactly like looking in the mirror, you can’t deny that <u>there is a certain commonality in our visages</u>.
+    —— I guess <u>we do look a little bit alike</u>.（《越狱》）
+> 仿写第3句
+  随着病例(case)开始慢慢增多，医学专家们(specialist)觉得必须要调查了，因为得了这种病的人的症状(symptom)特别地相似。
+  As the cases began to accumulate, specialists felt obliged to investigate, for the symptoms of people who had caught the disease were extraordinarily similar. 
++ **hunt for……** 打猎、寻找（无论“hunt”作动词还是名词，其后介词都是“for”）  
+    ✎ I’m <u>hunting for</u> a job now. 我现在正在找工作。（动词hunt）
+    ✎ The <u>hunt for</u> a job will begin tomorrow. 明天开始找工作。（名词hunt）
+  + **“的” 未必对应 “of”**
+    the winter **in** America 在美国的冬天
+    the entrance **to** the parking lot 停车场的入口
+    a witness **to** the accident 事件的目击者
+    a longing **for** love 对爱情的渴望
+    the reason **for** the disaster 大灾难的原因
++ **only** 仅仅
+  同义替换：
+  **just，merely，no more than……**
+  （no more than…… 只有……(其后跟精确的数量，强调数量之少。辨析：**not more than……** 不多于……)）
+  ✎ The woman saw ‘a large cat’ <u>no more than</u> five yards away from her.（课后题-9）
++ **confirm** 证实说
+  ✎ President Hu Jintao <u>confirmed</u> that he would visit the United States next month. 胡锦涛书记证实说他下个月将访问美国。  
+  ✎ I don’t know whether what she said is true, but I’ll try to <u>（B）</u> it. 我不知道她说的是不是真的，但我要努力去证实它。
+  (A) conform 与……相一致； (B) confirm； (C) confess 坦白、供认； (D) confine 限制、局限（四级单选真题）
++ **prove (to be) + <u>a./n.</u>** 被证明是……
+  “prove”在此是连系动词，后接形容词或名词作表语。连系动词不能用被动。
+  ✎ His injury <u>proved (to be)</u> fatal. 他的伤被证明是致命的。（形容词作表语）（一般过去式的主动）  
+  ┏ The operation <u>proved (to be)</u> a success. 这次手术被证明是成功的。（名词作表语）
+  ┗ The operation <u>proved (to be)</u> successful.（形容词作表语）
+  + 类似结构：**turn out to be + a./n.** 原来是……（强调出乎意料）  
+  ✎ When the archaeologists reconstructed the fragments, they were amazed to find that the goddess <u>turned out to be</u> a very modern-looking woman.（L3）
+  ✎ Eric’s girlfriend <u>turned out to be</u> his half-sister. 埃里克的女朋友竟然是他同父异母的妹妹。
+
+#### 👾 **疑问词 + ever (whenever，wherever，whoever，whichever，whatever……)**
+有两个含义：  
+1. **表示“无论……”，引导让步状语从句。= no matter + 疑问词**
+  ┏ <u>Wherever</u> it went,……（本文）
+  ┗ <u>No matter where</u> it went……（同义替换）
+  ✎ <u>No matter where</u> you live, you would find it difficult not to laugh at, say, Charlie Chaplin’s early films.（L29）
+2. **表示“到底……”，仅用于疑问句中，加强疑问语气。**
+  ✎ ‘<u>Whatever</u> are you doing up here Bill?’ asked the vicar in surprise. 牧师惊讶地问：“你到底在钟楼上干嘛呢？” （L2）
+  ✎ <u>Wherever</u> did you go yesterday? 你昨天到底去哪了？  
+  ✎ <u>When ever</u> am I going to see you again? 我到底什么时候才能再次见到你？（表示“到底”的疑问句中“When ever”可分开可不分）
+  ✎ <u>When</u> will you <u>ever</u> learn?
+  Answer: Why do you keep on making the same mistakes?（托福听力真题）
+
++ Wherever it went, it left <u>behind it</u> a trail of dead deer and small animals like rabbits.（原文：为保持句式平衡，地点状语提前）
++ **a trail of** 一连串的（trail 小路、小径）
+  **Whenever he went, he left a trail of …… behind him.** 无论他走到哪里，他身后都留下一连串的……。  
+  ✎ <u>Wherever he went, he left a trail of</u> unpaid bills <u>behind him</u>. 无论他走到哪里，身后都留下一连串未付的账单。
+  ✎ <u>Wherever he went, he left a trail of</u> broken hearts <u>behind him</u>. 无论他走到哪里，身后都留下一连串破碎的心（伤心人）。
+
+> 仿写第2段第5句（将事物看作重点，放句首做主语，形成被动句）  
+  ┏ 人们对下岗工人的生活状况越来越关注了。  
+  ┗ People have paid more and more attention to the condition of the laid-off workers.（主动。中式惯常译法，正确但平庸）  
+  ┗ Increasing attention has been paid to the condition of the laid-off workers.（被动。调整后重点更加清晰明了，句子更简洁）  
+
++ **fur** 毛皮（动物）
+  ✎ a <u>fur</u> coat 一件毛皮大衣
+  **feather** 羽毛（鸟类）
+  ✎ fur and feather 飞禽走兽（固定搭配，**借代修辞+首韵**(即开头发音一样)）；
+  ✎ fin, fur and feather 各种各样的动物（固定搭配，借代修辞+首韵）（fin 鱼鳍）
+  ✎ The <u>crown</u> should not yield to the <u>cross</u>. 王权（王冠）不应该屈服于神权（十字架）。（借代举例）
+
+#### 👾 **主语补足语**
+作用：使语言变得更简洁。
+✎ As no pumas had been reported <u>missing</u> from any zoo in the Country ……（本文）
+┏ The fire was reported <u>controlled</u>. 大火被报告已经控制住了。（主语补足语，简洁）  
+┗ It is reported that the fire was controlled.（复合句，啰嗦）
+
++ **complain <u>of/ about</u> sth.** 抱怨说……  
+  + **“说”** 的表达：
+    **claim** 声称说（本文）
+    **confirm** 证实说（本文）；
+    **add** 补充说、接着说 ✎ Then I <u>added</u> with a smile, ‘It’s a strange mixture I make myself.’（L11）
+    **put it** 措辞说 ✎ …… as one of them <u>put it</u> ‘ate like kings’.（L12）
+    **state** 声明说 ✎ The writer <u>stated</u> that Rastus was in safe hands……（L19）
++ **on** 在……途中，在路上  
+  ✎ <u>on</u> a business/ honeymoon trip 在出差/蜜月旅行的途中  
+  ✎ <u>on</u> a journey/ a voyage/ an expedition/ a tour…… 在旅行/航行/考察/周游中
+  ✎ President Xi Jinping is <u>on</u> a five-nation tour. 习近平书记正在进行五国游。
++ **be convinced that ……** 完全相信某事
+  与“convince sb. of sth.” 相比，缺少“of”。原因：理论上应该有“of”，但其后跟了that引导的从句。由于that引导的从句不用在介词后边，故删去“of”。然而有几个特例：**in that……** 因为；**<u>except/ but</u> that……** 除了……情况之外；要不是……的话。
+  After telling several of his friends about the theft, Dimitri <u>found out that</u> his neighbour, Aleko, had suddenly acquired a new lamb.（L16）（此处的out作副词而非介词，故不删。）
++ **was** 印刷字体变化
+  一般为了使之更醒目，重读即可。常见形式有：加粗、全大写等。
+  ✎ He was a <u>WOMAN</u>!
+
+#### 👾 **情态动词表推测**
++ **must have done 表示对过去发生事情的推测（语气较肯定）**
+  ✎ You <u>must have been</u> ill yesterday. You looked so pale. 你昨天肯定是病了。你看上去脸色苍白。
++ **must do 表示对现在发生事情的推测（语气较肯定）**
+  ✎ She knew that it <u>must be</u> the baker. 她知道这人（正在敲门的人）一定是面包师。（L13）
++ **<u>may/ might</u> have done 表示对过去发生事情的推测（语气较弱）**
++ **<u>can not/ could not</u> have done 表示对过去的否定推测**
+  ✎ You <u>can’t have been</u> ill yesterday. I saw you going shopping with your wife. 你昨天不可能是病了。我看到你跟你老婆逛街了。
+  ✎ The girl asked to see a timetable, feeling sure that her father <u>could not have made</u> such a mistake.（L60）
++ **<u>should/ ought to</u> have done 责备应该做而未做的事**
+  **<u>should not/ ought not to</u> have done 责备不该做而已做的事**
+  ✎ You <u>should have finished</u> your work yesterday. 你昨天应该把工作完成的。
+  ✎ I <u>shouldn’t have shouted</u> at you yesterday. 我昨天不该跟你大喊大叫。
+  ✎ —— She looks very happy. She <u>must</u> have passed the exam. —— I guess so. It’s not difficult at all.
+  A) should；B) could；C) must；D) might（高考真题）
+  ✎ —— I can’t find my purse anywhere. —— You <u>may</u> have lost it while shopping.
+  A) may；B) can；C) should；D) would
+  ✎ —— I’m sorry. I <u>shouldn’t have shouted</u> at you the other day.—— Forget it. I was a bit out of control myself
+  A) shouldn’t shout；B) shouldn’t have shouted；C) mustn’t shout；D) mustn’t have shouted
+  ✎ The policeman declared that the blow on the victim’s head <u>must have been made</u> from behind.
+  A) should have been made；B) must have been made；C) would have been made；D) ought to have been made（四级真题）
+
++ **in the possession of sb. / in one’s possession** 归某人所有
+  **in possession of sth.** 某人拥有某物
+  ✎ The book is <u>in the possession of Professor Smith</u>. 这本书是史密斯教授的。
+  ✎ The book is <u>in my possession</u>. 这本书是我的。
+  ✎ I’m <u>in possession of</u> the book. 我拥有这本书。
+  + 类似搭配：  
+    **in the charge of sb. / in one’s charge** 归某人掌管  
+    **in charge of……** 某人掌管某物  
+    ✎ The bookstore is <u>in the charge of Mr. Smith</u>. 这家书店归史密斯先生掌管。  
+    ✎ The bookstore <u>is in my charge</u>. 这家书店归我管。  
+    ✎ I’m <u>in charge of</u> the bookstore. 我管理这家书店。
++ **manage to do** 设法完成了某事（强调结果）
+  辨：**try to do** 想方设法去做（强调过程）
+  ✎ Our vicar is always raising money for one cause or another, but he has never <u>managed to get</u> enough money to have the church clock repaired.（L2）  
+  + 反义搭配：
+    **fail to do** 未能完成某事
+    ✎ When the journalist again <u>failed to reply</u>, the editor reluctantly published the article as it had originally been written.（L5）
++ **go on** 持续
++ **It is…… to think that……**  一想到……就令人……
+  <u>It is</u> worrying <u>to think that ……</u> 一想到……就令人担忧  
+  <u>It is</u> exciting <u>to think that ……</u> 一想到……就令人兴奋  
+  <u>It is</u> comforting <u>to think that ……</u> 一想到……就令人欣慰  
+  <u>It is</u> amusing <u>to think that ……</u> 一想到……就令人觉得好笑  
+  <u>It is</u> irritating <u>to think that ……</u> 一想到……就令人气愤
+
+---
+
+## **Lesson 2 - Thirteen equals one**
+### **课文原文**
+<font color=gray size=4>Our vicar is always raising money for one cause or another, but he has never managed to get enough money to have the church clock repaired. The big clock which used to strike the hours day and night was damaged many years ago and has been silent ever since.
+
+One night, however, our vicar woke up with a start: the clock was striking the hours! Looking at his watch, he saw that it was one o’clock, but the bell struck thirteen times before it stopped. Armed with a torch, the vicar went up into the clock tower to see what was going on. In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer.
+
+‘Whatever are you doing up here Bill?’ asked the vicar in surprise.
+
+‘I’m trying to repair the bell,’ answered Bill. ‘I’ve been coming up here night after night for weeks now. You see, I was hoping to give you a surprise.’
+
+‘You certainly did give me a surprise!’ said the vicar. ‘You’ve probably woken up everyone in the village as well. Still, I’m glad the bell is working again.’
+
+‘That’s the trouble, vicar,’ answered Bill. ‘It’s working all right, but I’m afraid that at one o’clock it will strike thirteen times and there’s nothing I can do about it.’
+
+‘We’ll get used to that, Bill,’ said the vicar. ‘Thirteen is not as good as one, but it’s better than nothing. Now let’s go downstairs and have a cup of tea.’</font>
+
+
+### 🌻 **单词讲解**
++ **equal** v. 等于；n. 相匹敌者；a. 相等的
+  + **v. 等于**
+    ✎ He <u>equaled</u> the world record. 他持平了世界纪录。
+    ┏ Nobody <u>equals</u> him in strength. 没人能在力量上与他相匹敌。
+    ┗ Nobody <u>matches</u> him in strength.
+  + **n. 相匹敌者**
+    ✎ In English she has no <u>equal</u> in her class. 在英语方面班里没有人能与她相匹敌。（no + 单数）
+    + 近义：
+    **<u>be/ stand</u> head and shoulders above sb.**：be much better than others 明显超过他人，鹤立鸡群（习语）
+    ✎ In computer programming, Susan <u>is head and shoulders above</u> the rest of us. 在计算机编程方面，苏珊比其他人强得多。
+    Answer: Susan is much better than we are in this subject.（听力真题）
+  + **a. 相等的**
+    ✎ Women demand <u>equal</u> pay for <u>equal</u> work. 女性要求同工同酬。（作定语）
+  **A is equal to B** A与B相等（作表语）
+  + **equality** n.[u] 平等
+    ✎ racial <u>equality</u> 种族平等
+    ✎ sexual <u>equality</u> 性别平等
+    ✎ We wish to inform you that we specialize in garments for more than twenty years, and shall be pleased to establish business relations with you on the basis of <u>equality</u> and mutual benefits.
+    我们想通知您，我们专注于成衣已有二十多年，很高兴在平等互利的基础上与您建立商业关系。（商务信函节选）
++ **raise** v.募集，筹措；举起来
+  + **v.1 举起**
+    ✎ <u>raise</u> one’s hand 举手
+    ✎ <u>raise</u> one’s voice 提高音量
+    ✎ <u>raise</u> one’s hat to sb. 向某人举帽致意（固定搭配）
+    ✎ <u>raise</u> one’s glass to sb. 向某人敬酒/祝酒（固定搭配）
+    ✎ <u>raise</u> the roof 大怒，大吵，大闹（习语）
+  + **v.2 养活，饲养**
+    ✎ <u>raise</u> pigs 养猪
+    ✎ He has a big family to <u>raise</u>. 他有一大家子人要去养活。
+  + **v.3 募集**（本文）
+    ✎ We’re <u>raising</u> a fund for orphans. 我们正在为孤儿募集一笔基金。
+  + **n.1 涨工资**
+  ✎ —— You look happy today. —— Yes. I got a <u>raise</u>.
+  ✎ We pay two thousand Yuan monthly to start. It’s our policy to hire on a trial basis. If you work out all right after three months you will be put on the permanent payroll and be given a <u>raise</u>.
+  我们起步是每月两千元。我们的政策是以试用为基础。如果你三个月后工作不错，你将被列入永久工资单并加薪。（面试场景）
+  + 动词词义的形近词：
+    **rise** 升起来
+    ✎ *The Sun Also <u>Rises</u>* 《太阳照样升起》（海明威）
+    **arise** arose arisen （问题，困难）出现了
+    ✎ Problems <u>arose</u>. 问题出现了。
+    **arouse** 激起某人的某种情绪
+    ✎ <u>arouse</u> one’s pity/ anger…… 激起某人的同情/愤怒……
+
+
+### 🕹️ **课文讲解**
++ **be always doing sth.** 总是做某事（含厌烦意）
+  ✎ He <u>is always being</u> late. 他总是迟到。
+  ✎ People <u>are always talking</u> about the problems of youth. 人们老是谈论年轻人的问题。（B4L5）
+  ✎ W: Mary <u>is always complaining</u> about her job.
+  M: Maybe if you try typing letters every day, you’d see what it's like.
+  Q: What does the man mean?
+  Answer: The woman would understand if she did Mary’s job.（四级听力真题）
+  ✎ The boys are constantly/ continually arguing. 这些男孩总是在争执。
+  + 同义替换（都有厌烦意）：
+    **be forever doing sth.**（相同含义，略正式）
+    ✎ He <u>is forever talking</u> about the friendly people, the clean atmosphere, the closeness to nature and gentle pace of living.（L41）
+    **be <u>constantly/ continually</u> doing sth.**
+    —— Your behavior reflects on me, and I can’t do my job if you<u>’re constantly humiliating</u> me. —— Constantly? Aside from today, give me one example.（《绝望主妇》）
+    ✎ The boy are constantly/ continually arguing. 这些男孩总是争吵。
+    **keep (on) doing sth.**
+    ✎ From the moment he arrived there, he <u>kept on pestering</u> his doctor to tell him when he would be able to go home.（L29）
+    ✎ In the process, he enjoyed himself thoroughly and <u>kept telling</u> everybody how much he hated hospitals.（L29）
+    **do sth. all the time**
+    ✎ W: I thought the doctor said you should stay off your foot until the swelling goes down.（stay off one’s foot 卧床，不能下地(习语)）
+    M: She did. It just makes me uncomfortable to <u>ask my friends to wait on me all the time</u>.（wait on 伺候；wait for 等）
+    Q: What does the man mean?
+    Answer: He doesn’t like to bother people.（托福听力真题）
+  + 练习
+    ↓ Sam, mess up the kitchen（always）
+    ↳ Sam is always messing up the kitchen.
+    ↓ Bruce, leave his dirty dishes on the table（forever）
+    ↳ Bruce is forever leaving his dirty dishes on the table.
+    ↓ Peter try to show me he’s smarter than me（constantly）
+    ↳ Peter is constantly trying to show me he is smarter than me.
+    ↓ Mary, borrow my clothes without asking me（continually）
+    ↳ Mary is continually borrowing my clothes without asking me.
+    ↓ Why, you, make the Same mistakes（keep on doing）
+    ↳ why do you keep on making the same mistakes?
+    ↓ Jane, forget to give me my phone messages（do sth. all the time）
+    ↳ Jane forgets to give me my phone messages all the time.
++ **cause** (做某事的)理由（本文）；事业
+  ✎ One would expect them to know their parts by heart and never have <u>cause</u> to falter. 理由（L22）
++ **one…… or another** 各种各样的……
+  <u>one</u> cause <u>or another</u> 各种各样的理由
+  ✎ He <u>is always asking</u> me for money for <u>one</u> cause <u>or another</u>. 他总是以各种理由管我要钱。
+  ✎ Beginners will err at <u>one</u> time <u>or another</u>. 初学者经常会犯错。
+  ✎ Everyone can contribute to society in <u>one</u> way <u>or another</u>. 每个人都可以以各种各样的方式为社会做贡献。
+  + 类似搭配：
+    **one…… after another** 一个又一个的
+    ✎ <u>one</u> day <u>after another</u> 日复一日的
+    ✎ encounter <u>one</u> difficulty <u>after another</u> 遭遇了一个又一个困难
+    ✎ achieve <u>one</u> success <u>after another</u> 取得了一次又一次成功
++ **have sth. done** ① 请某人做某事（本文）；② 表示某种(不愉快的)遭遇/经历
+  ✎ I’m going to <u>have my hair cut</u> this weekend. 我周末要去理发。
+  ✎ …… people would rather pay large sums of money than <u>have their life work destroyed</u> by gangsters.（L14）
+  ✎ King Charles Ⅰ <u>had his head cut off</u>. 国王查理一世被砍头了。
+  ✎ The house <u>had its window broken</u> in the explosion. 这座房子的窗户在爆炸时碎了。（无灵主语）
++ 无灵主语再举例：
+  ✎ When reports <u>came into</u> London Zoo that……（L1）
+  ✎ The sea bed was scoured with powerful nets and <u>there was tremendous excitement on board</u> when a chest was raised from the bottom.（L32）
+  ┏ He lost his confidence.
+  ┗ Confidence deserted him.
+  ┏ I couldn’t sleep that night.
+  ┗ That night sleep eluded me.
+  ┏ We only travelled half the distance at sunset.
+  ┗ Sunset met us halfway.
+  ✎ The past few years witnessed the great influx of foreigners to China, for travelling, studies or business. 过去几年，大量外国人涌入中国旅游、学习或经商。（中国日报）
+> 仿写第1句
+  我的小女儿总是抱怨(complain of)各种各样的病，但她从未成功地得到允许(get permission)呆在家里。
+  My little daughter is always complaining of one illness or another, but she has never managed to get permission to be at home.
++ **used to do** 过去常常（现在不这样了）（to为动词不定式）
+  ✎ I <u>used to get up</u> early. 我以前常常早起。 
+  + **<u>be/ become/ get</u> used to n./doing** 习惯于做某事（to为介词）
+    ✎ I<u>’m used to getting up</u> early. 我习惯早起。
+    ✎ ‘We’ll <u>get used to that</u>, Bill,’ said the vicar.（本文）
+    ✎ Life is not fair, <u>get used to it</u>.（比尔盖茨“给年轻人的十条忠告”）
+  + **be accustomed to (doing) sth.** 习惯于做某事
+    ✎ For men <u>accustomed to eating</u> Seven course dinners and sleeping between fine linen sheets at home, the change to the Alps must have been very hard indeed.（B4L3）
++ **strike the hours** 钟打点报时（固定搭配）
+  **strike + num.** 钟打响了几点的钟声
+  ✎ It would <u>strike twelve</u> in twenty minutes.（B2L9）
++ **ever since** adv./prep./conj. 从那以后一直……（用完成时）（比since语气更重些）（习语）
+  ✎ The big clock which used to strike the hours day and night was damaged many years ago and has been silent <u>ever since</u>.（本文作副词）
+  ✎ There are countless people who, <u>ever since</u> their early years, <u>have learned</u> to associate snails with food.（L23）（作介词）
+  ✎ You know how she feels about you. lt<u>’s been</u> the same way <u>ever since</u> we were kids. 你知道她对你的感情。从我们小时候起就一直如此。（《越狱》）（作连词）
+> 仿写第2句
+  过去日夜辛苦工作的老王两年前下岗(be laid off)了，从那以后就变得懒了。
+  Lao Wang who used to work hard day and night was laid off two years ago and has been lazy ever since.
++ **wake (up)** vi&vt. 醒了；唤醒……
+  ✎ The doorbell rang loud enough to <u>wake</u> the dead. 门铃响得足以把死人吵醒。（B2L54）
+  + 相关表达：
+    **<u>go/ get</u> to sleep** 入睡，睡着了
+    **= fall asleep**（系表结构）
+    **toss and turn** 辗转反侧
+    ✎ I was <u>tossing and turning</u> all night.
+    **insomnia** 失眠症
+    ✎ He suffered from <u>insomnia</u>. 他有失眠症。
+    **sit up = stay up** 熬夜
+    ✎ He <u>sat up</u> all night, preparing for the exam.
+    **night owl** 夜猫子（爱熬夜的人）
+    ✎ He is a <u>night owl</u>.
++ **start** n.激灵（由于恐惧或惊讶身体突然的一动）；机动车的发动/启动
+  **wake (up) with a start** 一激灵惊醒了
+  ✎ She <u>woke</u> from the dream <u>with a start</u>. 她一激灵，从梦中惊醒了。
+
+#### 👾 **with + 名词：作状语修饰谓语动词**
+  ✎ The officer went through the case <u>with great care</u>. 官员非常仔细地检查了箱子。（L11）
+  ✎ He had spotted a tiny bottle at the bottom of my case and he pounced on it <u>with delight</u>. 他在我的箱子底下发现了丁点小的瓶子，然后高高兴兴地扑了上去。（L11）
+  ✎ Then I added <u>with a smile</u>. 我微笑着补充说。（L11）
+  ✎ His few material possessions make it possible for him to move from place to place <u>with ease</u>. 他匮乏的物质财产使他能够轻松地从一个地方到另一个地方。（L27）
+  ┏ She faced the difficulty <u>calmly</u>. 她平静地面对困难。
+  ┗ She faced the difficulty <u>with calmness</u>.
+  ┏ I looked at her <u>curiously</u>. 我好奇地看着她。
+  ┗ I looked at her <u>with curiosity</u>.
+  ┏ She spoke to me <u>tenderly</u>. 她温柔地跟我讲话。
+  ┗ She spoke to me <u>with tenderness</u>.
+  ┏ I greeted Philip <u>enthusiastically</u>. 我热情地向菲利浦问候。
+  ┗ I greeted Philip <u>with enthusiasm</u>.
+
+#### 👾 **非谓语动词作时间状语**
+  ┏ <u>Looking at his watch</u>, he saw that it Was one o’clock…… 非谓语动词作时间状语（本文）
+  ┗ <u>When he looked at his watch</u>, he saw that it was one o’clock.  **如果状语从句的主语跟主句的主语一致，那么状语就可用非谓语动词表达，更加简洁。**
+  非谓语(doing; done; to do)作状语时，一般情况下其隐含的主语应该与主句主语保持一致。
+  【✘】Looking at his watch, it was one o’clock.（主语不统一）
+
++ **before的译法**
+  **强调主句的时间很长时，译为“才”**
+  ✎ It will be a long time <u>before</u> we meet again. 要过很久之后，我们才能再次相见。
+  **强调主句的时间很短时，译为“就”**
+  ✎ I hadn’t waited long <u>before</u> he came. 我还没等多久，他就来了。
++ **arm**
+  **arm sb. with sth.** 用某物将某人武装起来
+  ✎ <u>Armed with a torch</u>, the vicar went up into the clock tower……（被动）
+  **sb. carry sth.**
+  ✎ <u>Carrying a torch</u>, the vicar went up into the clock tower……（主动）
+  **主动被动要看动词本身的搭配**
++ **go on** v. 某事发生（多用进行时表示正在发生的事）
+  ✎ What<u>’s going on</u> here? 这怎么了？
+  + 表示发生的词：
+    **意料之外：happen, occur, come up, come about**
+    **意料之中：take place**
+    ✎ The funeral will <u>take place</u> on Monday.
+    **表示不幸之事的发生：strike**
+    ✎ Most people were fast asleep when the earthquake <u>struck</u>. 当地震突发，大多数人尚在沉睡之中。
+    **随之发生：ensue**
+    ✎ I objected to his advice and a heated argument <u>ensued</u>. 我反对他的建议，一场激烈的争执随之发生了。
+    **两件事碰巧同时发生：Coincide (with……)**
+    ┏ When I came, he was just about to leave.（较口语）我来的时候，他刚好要走。
+    ┗ My arrival <u>coincided with</u> his departure.（较正式）
++ **catch sight of……** 一眼看见
+  近义替换：
+  **catch a glimpse of……**（习语）
+  **glimpse……**
++ **figure** 数字；模糊的人影；体型；重要人物
+  ✎ A farm worker, who stayed up all night, claimed to have seen a <u>figure</u> cutting corn in the moonlight. 模糊的人影（L30）
+  ✎ One of the most colorful <u>figures</u> in boxing history was Daniel Mendoza, who was born in 1764. 著名人物（L21）
++ **recognize A as B** 认出A是B（参见L1笔记）
+  ✎ I <u>recognized</u> her <u>as</u> one of my classmates. 我认出来她是我的一个同学。
++ **四种常见音变**
+  1. **【s+j=ʃ】**
+    thi**s** **y**ear
+    Ble**ss** **y**ou.
+    I promi**se** **y**ou.
+  2. **【t+j=tʃ】**
+    las**t** **y**ear
+    don’**t** **y**ou
+    won’**t** **y**ou
+    sta**tu**e
+    si**tu**ation
+  3. **【d+j=dʒ】**
+    di**d** **y**ou
+    woul**d** **y**ou
+    gra**du**ate
+    cre**du**lous
+  4. **【z+j=ʒ】**
+    May I u**se** **y**our book?
+    How’**s** **y**our father?
++ **疑问词 + ever**作“到底”，加强疑问句的语气。（参见L1笔记）
+  + 同义词：
+    **on earth**
+    ✎ What <u>on earth</u> has happened to trouble you so? 到底出了什么事让你有这么大的麻烦？
+    **in the world**
+    ✎ What <u>in the world</u> are you doing here at seven in the morning? 早上七点你到底在这干嘛呢？
+    **in <u>God’s/ heaven’s</u> name**（口语）
+    ✎ What <u>in God’s name</u> was that huge bang? 那个“邦”地一声到底是什么？
+    ✎ Where <u>in heaven’s name</u> have you been? 你到底去哪了？
+    **the hell**（粗话）
+    ✎ What <u>the hell</u> was that noise? 这他妈的是什么声音？
+    ✎ How <u>the hell</u> are we going to do that? 我们到底他妈怎么做这件事？
++ **have been doing** 现在完成进行时：表示持续性的动作一直到现在，而且还有可能继续下去。
++ **night after night** 夜复一夜
+  **= night by night**
+  **= every night**
+  **= one night after another**
+  日复一日：night换成day，其他不变。
+  ✎ ‘I’ve been coming here <u>every night</u> for weeks now.’（课后题-11）
++ **for weeks** 好几周了
+  for hours 好几小时了
+  for months 好几个月了
+  for years 好几年了
+  for centuries 好几百年了
++ **<u>was/ were</u> hoping……** 表达一种试探性的，委婉的语气，而非“正在希望”。
+  ✎ I <u>was hoping</u> you could marry me. 我希望你能嫁给我。
++ **emphatic positive 强调肯定式**
+ 在肯定句和析使句中，在谓语动词前加上助动词do以加强语气。只用于一般现在时（do，does）和一般过去时（did）中。
+  ✎ I <u>do</u> need a car. 我的确需要一辆车。
+  ✎ He <u>does</u> speak English well. 他英语说得确实不错。
+  ✎ So you <u>did</u> come after all. 所以你终究还是来了。
+  ✎ Come in. → <u>Do</u> come in.
+  ✎ Shut up! → <u>Do</u> shut up!
++ **as well……** 也……
+  **as well as……** 除了……之外，也……
+  ✎ You’ve probably woken up everyone in the village <u>as well (as me)</u>.（原文） 除了我之外，你肯定也把别人也吵醒了。（介词后边必须跟宾语，所以如果想去掉“me”，那需要一并去掉“as”）
++ **still** 尽管如此，还是……
+  + 近义词：
+    **nevertheless, nonetheless, all the same, just the same**
+    ✎ The girl is not beautiful. <u>Still/ Nevertheless/ ……</u>,I like her very much. 
+    ✎ ‘<u>Just the same</u>, I’m glad the bell is working again.’（课后题-12）
++ Still, I’m glad **(that) the bell is working again**. 形容词补足语
+  ✎ ‘……, but I’m afraid <u>that at one o’clock it will strike thirteen times and there’s nothing I can do about it</u>.’（本文）
++ **there is nothing I can do about it** 对此我无能为力（自译：爱莫能助）
+  ✎ The telephone is out of order, and <u>there is nothing I can do about it</u>. 电话出了故障，对此我无能为力。
+  ✎ I know you are not satisfied, <u>but there is nothing I can do about it</u>. 我知道你不满意，但是对此我无能为力。
+  ✎ We apologize for this, but <u>there is nothing we can do about it</u>. 我们对此表示歉意，但是对此我无能为力。
++ **as good as** ① 和……一样好（本文）；② ad. 几乎……；和……差不多（近义词：almost）
+  ✎ The injured man is <u>as good as</u> dead. 这个病人奄奄一息。②
+  ✎ Everything is <u>as good as</u> settled. 每件事都差不多解决了。②
+  ✎ As far as I could see,it needed only a minor adjustment: a turn of a screw here, a little tightening up there, a drop of oil and it would be <u>as good as</u> new. ②（L46）
++ **tea**
+  **be not one’s cup of tea** 是某人不喜欢的事（直译：不是某人的那杯茶——不是某人的菜）（习语）
+  ✎ Swimming <u>is not my cup of tea</u>. 我不喜欢游泳。
+  ✎ Mountain hiking <u>is not my cup of tea</u>. 我不喜欢爬山。
+  辨：make tea 沏茶；make water 撒尿
+
+---
+
+## **Lesson 3 - An unknown goddess**
+### **课文原文**
+<font color=gray size=4>Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea. An American team explored a temple which stands in an ancient city on the promontory of Ayia Irini. The city at one time must have been prosperous, for it enjoyed a high level of civilization. Houses — often three storeys high — were built of stone. They had large rooms with beautifully decorated walls. The city was even equipped with a drainage system, for a great many clay pipes were found beneath the narrow streets.
+
+The temple which the archaeologists explored was used as a place of worship from the fifteenth century B.C. until Roman times. In the most sacred room of the temple, clay fragments of fifteen statues were found. Each of these represented a goddess and had, at one time, been painted. The body of one statue was found among remains dating from the fifteenth century B.C. Its missing head happened to be among remains of the fifth century B.C. This head must have been found in Classical times and carefully preserved. It was very old and precious even then. When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman. She stood three feet high and her hands rested on her hips. She was wearing a full-length skirt which swept the ground. Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity.</font>
+
+
+### 🌻 **单词讲解**
++ **archaeologist [英]/ archeologist [美]** n. 考古学家
+  + 同根词：
+    **archaeology/ archeology** 考古学
+    词根1：**arch(a)** = ancient 古代的
+    **archa**ic a.古代的，古老的 ✎ archaic words 古文字 ✎ archaic civilizations 古文明
+    词根2：**(o)logy** = to study
+    词根3：**-ist** “人”
+  + 同构词：
+  ◇ archae**ology** - archaeolog**ist** 考古学 - 考古学家
+  ◇ bio**logy** - biolog**ist** 生物学 - 生物学家（**bio** = life 生命）
+  ◇ geo**logy** - geolog**ist** 地质学 - 地质学家（**geo** = earth 大地）
+  ◇ psych**ology** - psycholog**ist** 心理学 - 心理学家，心理学医生（**psych** = mind 精神，心智）
+  ◇ physi**ology** - physiolog**ist** 生理学 - 生理学家（**physical** a.身体的；物理的）
+  ◇ anthrop**ology** - anthropolog**ist** 人类学 - 人类学家（**anthrop** n.人类）
++ **promontory** n. 岬角
+  英文释义：(headland) a long narrow area of high land that sticks out into the sea
+  辨：**cape** 海角
+  英文释义：a very large piece of land sticking out into the sea
+  ✎ the <u>Cape</u> of Good Hope 好望角
++ **prosperous** a.（经济上）繁荣的
+  ✎ a <u>prosperous</u> country/ businessman 一个繁荣的国家/生意兴隆的商人
+  **prosperity** n.[u] 繁荣
+  ✎ economic <u>prosperity</u> 经济的繁荣
+  ✎ We’ll keep the <u>prosperity</u> and stability of Hong Kong at any cost. 我们将不惜一切代价维护香港的繁荣与稳定。（朱镕基-97年亚洲金融危机）
+  ✎ One hundred years later, the Negro lives on a lonely island of <u>poverty</u> in the midst of a vast ocean of material <u>prosperity</u>. 一百年后，黑人依然生活在物质繁荣的浩瀚海洋中的一个贫困孤岛上。（马丁路德金）
+  **prosper** v.
+  ✎ A company can’t <u>prosper</u> without investment. 公司如果没有投资就难以兴旺繁荣。
+  + 近义词：
+    **thrive/ flourish**（本意指植物枝繁叶茂）
+    ✎ A company can’t <u>thrive/ flourish</u> without investment. 公司如果没有投资就难以兴旺繁荣。
+    ✎ plants that <u>thrive/ flourish</u> in tropical rainforests 在热带雨林中野蛮生长的植物
+    ✎ a <u>thriving/ flourishing</u> tourist industry 繁荣兴旺的旅游业（形容词）
++ **storey[英]/ story[美]** n.楼层（用来描述建筑总共的层数）
+  复数：storeys[英]/ stories[美]
+  ✎ a two-<u>story</u> house 一栋两层楼的房子（名词作定语用单数）
+  ✎ The house is two <u>stories</u> high. 这栋楼有两层高。
+  ✎ a multi-<u>story</u> parking lot 一个多层的停车场
+  辨析：**floor** 表示第几层
+
+  英美楼层辨析表格：
+  |  | 英式 | 美式 |
+  | ---- | ---- | ---- |
+  | 阁楼 | attic | （同左） |
+  | 顶层 | the top floor | （同左） |
+  | …… | …… | …… |
+  | 二层 | the first floor | the second floor |
+  | 一层 | the ground floor | the first floor |
+  | 地下室 | basement | （同左） |
+
++ **sacred** a. 宗教的，神圣的
+  ✎ a <u>sacred</u> holiday 一个宗教节日
+  ✎ <u>sacred</u> music 圣乐
+  ✎ Mecca is a <u>sacred</u> place. 麦加是一处圣地。
+  + 近义词：
+    **holy**
+    ✎ <u>Holy</u> Bible 圣经
+    ✎ <u>holy</u> water 圣水
+    ✎ a <u>holy</u> war 圣战
+    **blessed**
+    ✎ the <u>Blessed</u> Virgin Mary 圣母玛丽
+    ✎ It is more <u>blessed</u> to give than to receive. 失比受更有福。
+    **divine** 神的，上帝的，神性的
+    ✎ To err is human, to forgive <u>divine</u>. 凡人多舛误，唯神能见宥。（Alexander Pope）
++ **remains** n. 遗物，遗迹，废墟（一般用复数）
+  ✎ the <u>remains</u> of a meal 一顿剩饭
+  ✎ the <u>remains</u> of ancient Rome 古罗马遗址
+  ✎ His <u>remains</u> are buried in the churchyard. 他的遗体被埋葬在了教堂墓地。（一个人的遗体也是复数）
+  + 其余的，剩余的：
+    ┏ **the rest of sth.**（较通俗）
+    ┗ **the remainder of sth.**（较文雅）
+    ┏ <u>the rest of</u> the semester 这个学期剩余的部分
+    ┗ <u>the remainder of</u> the semester
+    **what is left of sth.**
+    **what remains of sth.**
+    ✎ Only two stray dogs benefited from all this confusion,for they greedily devoured <u>what was left of the cake</u>.（L33）
+    ✎ It is recounted of Thomas Carlyle that when he heard of the illness of his friend, Henry Taylor, he went off immediately to visit him, carrying with him in his pocket <u>what remained of a bottle of medicine</u> formerly prescribed for an indisposition of Mrs. Carlyle’s.（B4L28）
++ **classical** a. 古代文化的（尤指古希腊和古罗马）
+  ✎ <u>classical</u> studies ~ 研究
+  ✎ <u>classical</u> music 古典乐
+  + 辨析：
+    **classic** a.经典的，最棒的，第一流的
+    ✎ a <u>classic</u> novel 一部经典小说 ~~一部古典小说~~
+  + 扩充：加 **al** 后，含义发生变化的形容词：
+    ┏ **electric** a. 电的，电动的 ✎ an <u>electric</u> light/ razor 一盏电灯/一个电动剃刀
+    ┗ **electrical** a. 电的，与电相关的 ✎ <u>electrical</u> failure 停电
+    ┏ **historic** a. 有历史意义的 ✎ a <u>historic</u> moment 历史性时刻
+    ┗ **historical** a. 历史的 ✎ <u>historical</u> records 历史记录
+    ┏ **economic** a. 经济的，经济方面的 ✎ <u>economic</u> policy 经济政策
+    ┗ **economical** a. 节约的，节省的 ✎ an <u>economical</u> car 节能车/省油车
+    ┏ **politic** a. 策略的，明智的 ✎ a <u>politic</u> decision 一个明智的决定
+    ┗ **political** a. 政治的，政治学的 ✎ <u>political</u> asylum 政治避难
++ **rest** v.倚放，放置
+  ✎ Her elbows <u>rested</u> on the table.（不及物）她的胳臂肘搭在了桌子上。
+  ✎ She <u>rested</u> her head against a cushion.（及物）她把头靠在了一个垫子上。
+  + 相关搭配：
+    **rest <u>on/ upon</u>** 基于，以……为基础（主动）（固定搭配）
+    ✎ Columbus’ decision to sail west <u>rests on</u> his belief that the world is round. 哥伦布向西航行的决定，是基于他相信地球是圆的。
+    **be <u>based/ founded</u> <u>on/ upon</u>**（被动）
+    **depend <u>on/ upon</u>**（主动）
+    **rely <u>on/ upon</u>**（主动）
+    ✎ Don’t always d<u>epend</u> on others. You should learn to <u>rely on</u> yourself.（高考填空）
+    ✎ While the quality of legal journalism varies greatly, there is an undue **reliance** amongst many journalists **on** interpretations supplied to them by lawyers. <u>While comment and reaction from lawyers may enhance stories, it is preferable for journalists to **rely on** their own notions of significance and make their own judgments.</u> 
+    尽管有关法律方面的新闻报道的质量差异很大，很多记者过分地依赖于律师提供给他们的解释。<u>尽管来自于律师的评论和反馈可能会改善新闻报道的质量，但是记者应该依赖于自己对于重要性的理解以及亲自做出判断。</u>（2007考研-英译汉）
+
+
+### 🕹️ **课文讲解**
++ **make a discovery (of……)** 做出了一个发现（相较于动词“discover”，用名词更显正式）
+  ✎ <u>make an</u> interesting <u>discovery (of…… )</u> 做出了一个有趣的发现
+  + 相同变化（v. → n.）举例：
+    ◇ use → make use of (……) → make the best use of (……) 最好地使用……
+    ✎ He made the best use of his talent. 他充分利用了自己的才能。
+    ◇ describe → ~ → make a vivid description of…… 对……做出生动的描述
+    ◇ investigate → ~ → make a thorough investigation of…… 对……做彻底的调查
+    ◇ summarize → ~ → make a comprehensive summary of…… 对……做全面的总结
+    ◇ analyze → ~ → make a detailed analysis of…… 对……做细致的分析
+> 第1句的另一种写法：
+  Some time ago, archaeologists made an interesting discovery on the Aegean island of Kea.
+  评价：英语句子往往把重点内容放前面。该句的重点不是“考古学家”，而是“考古发现”，所以本句用主动结构将“考古学家”放前边，实际上是本末倒置。
+  ✎ <u>A radio message</u> from the mainland had been received by the ship’s captain instructing him to give up the search.（L32）
+
++ **of 引出地点名**
+  ✎ the city <u>of</u> Beijing 这个叫北京的城市
+  ✎ the promontory <u>of</u> Ayia Irini 这个叫阿伊亚·伊里尼的海角（本文）
+  ✎ the tiny village <u>of</u> Perachora 这个叫珀拉克拉的小村子（L16）
+  ✎ the famous monastery <u>of</u> St. Bernard 著名的圣伯纳德修道院（L8）
+  【✘】the novel <u>of</u> Three Kingdoms 这本叫《三国》的书（**of 不可引出书名**）
+  【✔】the novel **<u>entitled</u>** Three Kingdoms
+  【✔】the movie <u>entitled</u> Da Vinci Code 这部叫《达芬奇密码》的电影
+  【✔】the man **<u>named/ called</u>** Vincent 这个叫文森特的男人（引出人名）
++ **stand** 位于，矗立在某地
+  + 同义词：
+    ◇ **be <u>located/ situated/ sited</u>**（被动）
+    ◇ **stand / sit / lie**（lie 一般指大面积的建筑群）（主动）
+    ✎ Strange forms <u>stand</u> in gardens, and outside buildings and shops. 奇形怪状的雕塑品矗立在花园里边，以及建筑、商场的里边。（L18）
+    ✎ The Monument to the People’s Heroes <u>stands</u> in the Center of Tian’anmen Square.人民英雄纪念碑矗立在天安门广场上。
+    ✎ The house <u>stands/ sits</u> on top of a hill overlooking the town. 这座房子坐落在山顶，俯瞰着整个镇子。
+    ✎ The famous monastery of St. Bernard, witch was founded in the eleventh century, <u>lies</u> about a mile away. 位于（L8）
++ **at one time** (习语) **= once** 曾经
+  辨：**at a time** 一次，每一次……
++ **must have been** ⇨ must have <u>seen/ known</u>
+  **seen/ known** 经历过……
+  ✎ The city at one time must have <u>seen/ known</u> prosperity.（原文换用）
+  ✎ China has <u>known</u> many wars. 中国经历过很多起战争。
+  ✎ The city had once known prosperity.（课后题-4）
++ **enjoy** 享有（一般指好东西）
+  ✎ <u>enjoy</u> good health 享有良好的健康
+  ✎ <u>enjoy</u> a high standard of living 享有高水平的生活
+  ✎ The garments are magnificent and tasteful and have long <u>enjoyed</u> great fame both at home and abroad. 这些成衣既非常棒又有品位还长期享誉国内外。
+  + **“有”归纳**
+    ◇ **have；there is**（这俩太基础）
+    ◇ **be blessed with……** （幸福地）拥有……
+    ✎ They <u>were blessed with</u> two children, a boy and a girl. 他们享有两个孩子，一个男孩和一个女孩。（2007湖北高考-阅读理解）
+    ◇ **be endowed with……** 有好的东西（指天生就具备）
+    ✎ She <u>is endowed with</u> both brains and beauty. 她才貌双全。
+    ✎ We hold these truths to be self-evident, that all men are created equal, that they <u>are endowed</u> by the Creator <u>with</u> certain unalienable rights, that among these are life, liberty, and the pursuit of happiness. （Thomas Jefferson《Declaration of Independence》）
+    我们认为这些真理是不言而喻的，即人人生而平等，他们被造物主赋予了某些不可剥夺的权利，其中包括生命权、自由权和追求幸福的权利。（汤姆斯·杰斐逊《独立宣言》）
+    ◇ **boast** （人做主语，意为吹牛、夸海口；物作主语，意为有好的东西）
+    ┏ There is a lot of beautiful scenery in China. 中国有许多美丽的风光。（there be 句型，太普通）
+    ┗ China <u>boasts</u> a lot of beautiful scenery.
++ **with** 表示从属关系
+  ✎ a girl <u>with</u> blue eyes 一个蓝眼睛的女孩
+  ✎ a mug <u>with</u> a broken handle 一个柄碎了的马克杯
++ **decorate** v. 装饰，装点（及物）
+> 仿写第5句同结构
+  ✎ a <u>vastly improved</u> method 一个得到了极大改善的方法。（过去分词“improved”修饰“method”，副词“vastly”限定过去分词“improved”）
+  ✎ a <u>much acclaimed</u> novel 一部备受赞誉的小说
++ They had large rooms with beautifully decorated walls. 这些房间很宽敞，里边的墙壁装饰得很漂亮。
+  这种前后都有定语的情况，拆开比较好翻译。其它英语中嵌套比较复杂的句子，同理。
++ **equip A with B** 给A装配上B/把B装配到A上
+  **be equipped with……** 被装备着……（被动形式）
+  **equipment** n.[U] 设备
+  ✎ a piece of equipment（单数表达）
+  ✎ The classrooms <u>are equipped with</u> modern multimedia teaching <u>equipment</u>. 这些教室配备着现代化多媒体教学设备。
++ drainage 排水（不可数） drain下水道（可数）
++ **很多的**
+  **a great many (of) + 可数**
+  **a great number of + 可数**
+  **a great <u>amount/ deal</u> of + 不可数**
+  **a lot of + 可数不可数皆可**
++ **上下方位**
+  ┏ beneath = underneath 在……下面（紧贴着）
+  ┗ on 在……上面（紧贴着）
+  ┏ under 在……下面（有间隔）
+  ┗ over 在……上面（有间隔）
+  ┏ below 低于（未必在正上正下方）
+  ┗ above 高于（ ~ ）
++ **be used as……** 被当作……使用（被动）
+  ✎ The wooden box <u>is used as</u> a seat. 这个木箱被用作座位使用。
+  **<u>act/ serve/ function</u> as……**（主动）
+  ✎ The wooden box <u>acts/ serves/ functions as</u> a seat.
++ **B.C. (BC)**: Before Christ 公元前
+  **A.D. (AD)**: Anno Domini 公元后（来自拉丁文）
++ **times**
+  + 在某个时代/时期
+    **in modern/ recent/ ancient/ prehistoric times** 在当代/近代/古代/史前
+    **in times of……**
+    ✎ <u>in times of</u> peace/ war 在和平/战争年代（L14）
+    ✎ <u>In times of</u> peace, when business was bad, Hawkwood and his men would march into a city-state……（L14）
+    **age**
+    ✎ the Ice <u>Age</u> 冰川时代（固定搭配）
+    ✎ the Stone <u>Age</u> 石器时代（固定搭配）
+    ✎ the modern <u>age</u> 当代
+    ✎ the computer <u>age</u> 计算机时代
+    **era/ epoch**（偏正式）
+    ✎ the steam-engine <u>era/ epoch</u> 蒸汽时代
+    ✎ **the end of an <u>era/epoch</u>** 一个时代的结束
+    ✎ His death <u>marked</u> <u>the end of an era</u>. 他的陨落标志着一个时代的结束。（mark 做标记，做记号）
+    ✎ **the beginning of a new <u>era/ epoch</u>** 一个新时代的开始
+    ✎ It <u>marked</u> the end of the great tradition of ships with sails and <u>the beginning of a new era</u>.（L25）
+    ✎ The foundation of the People’s Republic of China <u>marked the beginning of a new era</u>. 中华人民共和国的成立标志着一个新时代的开始。
++ **represent = stand for** 代表
+  ✎ Honey, this gold ring <u>stands for/ represents</u> my love for you. 亲爱的，这枚金戒指代表我对你的爱。
+  + 同义词：
+    **on behalf of……** 代表（介词短语，其后加名词作宾语）
+    ┏ Premier Li Kegiang delivered a speech <u>on behalf of</u> the Chinese government during the meeting. 李克强总理在一次会议上代表中国政府发言。
+    ┗ Premier Li Kegiang delivered a speech <u>representing/ standing for</u> the Chinese government during the meeting.
++ **date from……** 追溯到（主动）
+  **= date back to……**（主动）
+  **= can be traced back to……**（被动）
+  ✎ The prosperity of the Silk Road <u>dates from/ dates back to/ can be traced back to</u> the distant Han Dynasty. 丝绸之路的繁荣可以追溯到遥远的汉朝。
++ **happen to do** 碰巧……
+  辨：**sth. happen to sb.** 发生
+  ✎ A car accident <u>happened to</u> him. 他发生了一起车祸。
+  + **“ 碰巧 ”** 的其它表达
+    **① happen to do = it happen that……**
+    ┏ We <u>happened to</u> take the same train. 我们俩碰巧乘同一辆火车。
+    ┗ <u>It happened that</u> we took the same train.
+    **② chance to do = it chance that……**
+    ┏ We <u>chanced to</u> take the same train.
+    ┗ <u>It chanced that</u> we took the same train.
+    **③** do sth. **by chance/ by accident/ accidentally**（状语） 碰巧，巧合，意外地
+    ✎ We took the same train <u>by chance/ by accident/ accidentally</u>.
+    **④ as it happen**（后边一般加逗号）
+    ✎ <u>As it happened</u>, we took the same train.
+    ✎ W: I don’t imagine you would have time to help me with this.
+    M: <u>As it happens</u>, I would.
+    Q: What does the man mean?
+    Answer: He can help the woman.（听力真题）
+    **⑤ as luck would have it**（虽有“luck”，但无感情色彩）
+    ✎ <u>As luck would have it</u>, we took the same train.
+    ✎ W: You do look cold. What happened?
+    M: I’ve been standing outside in Arctic temperature for over an hour waiting for a bus.
+    W: Over an hour, but I thought your apartment was only a ten-minute bus ride to campus.
+    M: Under normal conditions, but the bus was delayed because of the weather and when I stepped into a drugstore to call home for a ride, the bus went by. <u>As luck would have it</u>, there was no one at home, so I had to wait another forty five minutes for the next bus.
+    W: That’s Murphy’s law, isn’t it. What was it said ‘If anything can go wrong, it will.’ Well, we still get twenty minutes to gather our wits together.（drugstore 泛指小超市也卖药，不一定是药店；gather one’s wits 镇静一下，平静下来，~~收集智慧~~（习语））（托福真题）
++ **preserve** 保护，保存
+  把某个东西保存在完好状态，强调**保证质量**不下降
+  ✎ <u>preserve</u> one’s eyesight/ food 保护视力/保存食物
+  + 近义词
+    **conserve** 强调**保持数量**不下降
+    ✎ <u>conserve</u> wildlife/ resources 保护野生动物/资源
+    **reserve** 指保存起来，以备将来使用
+    ✎ <u>Reserve</u> your energy for the climb tomorrow. 为明天爬山保存体力。
+    ✎ All Rights <u>Reserved</u> 版权所有（保留所有权利）
+    ✎ I <u>reserve</u> the right to disagree. 我保留持不同意见的权利。
+    ✎ <u>reserve</u> a table for 2 预定一个二人桌
+    ✎ The head was carefully preserved. It was <u>in good condition</u>.（课后题-10）
+    ✎ The old building is in a good state of <u>preservation</u> except for the wooden floors.（六级真题）
++ to find （本文作原因状语）
+  动词不定式作状语，无外乎4种：目的，原因，结果，条件。
++ **amaze**使惊讶
+  + 表示惊讶的词：
+    **surprise**（最通俗）
+    **astonish**（语气较重，因为难以相信的事而惊讶）
+    ✎ He was <u>astonished</u> at what he found. A man was lying in the box on top of a pile of woolen goods.（B2L46）
+    **amaze**（因为迷惑不解而惊讶）（maze n. 迷宫）
+    **astound**（惊呆了）（词根stound表示石头）
+    ✎ The police were <u>astounded</u> when Mrs. Ramsay told them what she had done.（L19）
++ **modern-looking**  复合形容词（比定语从句简练）
+  + **a. -looking** 看起来怎么样的
+    ✎ an <u>interesting-looking</u> carved dagger 看起来很有趣的（L34）
+  + **a./ad. -doing**
+    ✎ hard-working 工作很努力的
+    ✎ easy-going 随和的，平易近人的
++ **stand (连系动词) + 数量词 (表语)** 有多高
+  ┏ The tower <u>stands</u> 15 meters (high). 这座塔有15米高。（正式）
+  ┗ The tower <u>is</u> 15 meters (high). （非正式）
+  ✎ I stand 1.8 meters (tall). 我有1.8米高。
+  + 其它表示数量且较正式的系动词：
+    **weigh** 表示有多重
+    ✎ The boy <u>weighs/ is</u> 50 kilos. 这个男孩50公斤重。
+    **measure** 表示有多长/宽/高/深
+    ✎ The carpet <u>measures/ is</u> 5 meters long. 这个地毯有5米长。
+    ✎ The carpet <u>measures/ is</u> 3 meters across. 这个地毯有3米宽。
++ **rested on** 搭在……上
+  ✎ …… her hands <u>rested on</u> her hips.（原文）
+  ✎ Her face <u>rested on</u> her hands. 她的脸搭在她的手上。/她手托香腮。
++ **despite** 尽管（介词）
+  + 同义词：
+    ◇ 表“尽管”**介词**：
+    **despite = in spite of = notwithstanding** 介词 + 名词，作宾语
+    ◇ 表“尽管”**连词**：
+    **though, although, even though, while** 连词 + 从句
+    （辨：以上连词 + **事实**；而even if + **假设** 意为“即使，就算”（不知道是否为事实的事 ））
+    ◇ 介词改成的**连词**：
+    **in spite of the fact that……**（后边从句作“fact”的同位语）（限书面语）
+    **despite the fact that……**（限书面语）
+    ✎ <u>Despite the fact that</u> the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, grayish substance.（L52）
++ **so far** 迄今为止
+  与现在完成时搭配。
+
+#### 👾 **如何写出引人入胜的叙事类文章？**
+制造悬念（有趣发现） → 层层深入，迫近主题（古城 → 庙宇 → 殿堂 → 神像） → 揭示谜底，故事高潮（身首异处，摩登女郎） → 尾声，意犹未尽（身份未知）
+
+---
+
+## **Lesson 4 - The double life of Alfred Bloggs**
+### **课文原文**
+<font color=gray size=4>These days, people who do manual work often receive far more money than people who work in offices. People who work in offices are frequently referred to as ‘white-collar workers’ for the simple reason that they usually wear a collar and tie to go to work. Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers. This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.
+
+When he got married, Alf was too embarrassed to say anything to his wife about his job. He simply told her that he worked for the Corporation. Every morning, he left home dressed in a smart black suit. He then changed into overalls and spent the next eight hours as a dustman. Before returning home at night, he took a shower and changed back into his suit. Alf did this for over two years and his fellow dustmen kept his secret. Alf’s wife has never discovered that she married a dustman and she never will, for Alf has just found another job. He will soon be working in an office. He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money. From now on, he will wear a suit all day and others will call him ‘Mr. Bloggs’, not ‘Alf’.</font>
+
+
+### 🌻 **单词讲解**
++ **manual** a. 体力的
+  ✎ <u>manual</u> work/ labour 体力工作/劳动
+  + 反义词：
+    **mental** a.脑力的
+    ✎ <u>mental</u> work/ labour 脑力工作/劳动
+  + 辨：
+    ┏ **spiritual** a. 精神的
+    ┗ **material** a. 物质的 
+  + 词根“**man(u)**” = hand
+    **manu**facture 制造 ✎ biscuit manufacturers 饼干制造商/生产商（L26） ✎ soap manufacturers 肥皂制造商/生产商（L26）
+    **man**acle 镣铐，手铐（cle 词根，表示小个的东西）
+    **manu**script 手稿（script 词根，= write 写字）
+    e**man**cipate 解放（e = out） ✎ emancipate slaves 解放奴隶 ✎ the emancipation of women 妇女的解放 ✎ the Emancipation Proclamation 废奴宣言
+    （liberate既可表示人，也可表示民族或国家；emancipate一般指某种人的解放，如：妇女、奴隶等）
+    
++ **collar**
+  + **n.** 衣领
+    ✎ white-collar workers 白领工人；blue-collar workers 蓝领工人（借代修辞）
+  + **v.** 揪住领子
+    ✎ The policeman <u>collared</u> the thief. 这个警察一把揪住了这个贼的领子。
+  + 分辨：**[ɑ]，[ʌ]，[ə]**
+    above [əˈbʌv]
+    Hi, b**u**ddy!
+    m**u**ch
+    I l**o**ve you, honey.
+    c**o**lour ✎ The c**o**lour of the c**o**llar is white.
+  + 相关词：
+    **tie** ✎ <u>tie</u> a <u>tie</u> 系领带
+  + 类似表达：
+    <u>sigh</u> a <u>sigh</u> 叹了口气
+    <u>wish</u> a <u>wish</u> 许一个心愿 ✎ I wished a wish on the star. 我对着星星许了一个心愿。
+    <u>dream</u> a <u>dream</u> 做了一个梦
+    <u>die</u> a glorious <u>death</u> 死得光荣
+    <u>breath</u> one’s last <u>breath</u> 咽下最后一口气（气绝身亡）
++ **sacrifice** v. 牺牲，献出
+  **sacrifice…… for……** 为了（某个目的-后者）而牺牲/献出（某个宝贵的东西-前者）
+  ✎ Many women <u>sacrifice</u> their careers <u>for</u> their families. 很多妇女为了她们的家庭牺牲了自己的事业。
+  ✎ Such is human nature, that a great many people are often willing to <u>sacrifice</u> higher pay <u>for</u> the privilege of becoming white-collar workers.（本文）
+  ✎ Relatively few people are prepared to <u>sacrifice</u> holiday time <u>for</u> the pleasure of travelling by sea.（L44）
+  + 表 **“放弃”** 的词：
+    **give up**
+    **abandon**（比“give up”更正式）
+    ✎ <u>abandon</u> ship 弃船（L10）
+    **renounce** 正式宣布放弃（宣告放弃）
+    ✎ <u>renounce</u> smoking and drinking 正式宣布戒烟戒酒
+    **cede** 放弃自己的领土（割让）
+    ✎ Hong Kong <u>was ceded to</u> Britain after the Opium War. 香港在鸦片战争之后被割让给了英国。
++ **privilege** n. 特权，特殊的好处
+  ✎ enjoy a <u>privilege</u> 享有特权
+  ✎ abuse a <u>privilege</u> 滥用特权
+  + 辨：**right** 权利
+    ✎ Education is a <u>right</u>, not a <u>privilege</u>. 教育是一种权利，而不是特权。
+  + **have the privilege to do……** 有幸做…… / 很荣幸做……（习语）
+    ✎ Today, I <u>have the privilege to</u> speak at this important international forum on behalf of the Chinese government. 今天，我很荣幸代表中国政府在这个重要的国际论坛发表讲话。（李克强）
++ **corporation** n. 公司
+  ✎ multinational <u>corporation</u> 跨国公司
+  + 表示“**公司**”的词汇
+  + 同义词：
+    **company, firm, business, concern**
+  + 近义词：
+    **enterprise** 企业（意思更宽泛）
+    ✎ foreign funded <u>enterprise</u> 外资企业；
+    ✎ joint-venture <u>enterprise</u> 合资企业；
+    ✎ state-owned <u>enterprise</u>（SOE）国有企业；
+    ✎ private <u>enterprise</u> 私人企业；
+    ✎ township <u>enterprise</u> 乡镇企业
+
+
+### 🕹️ **课文讲解**
++ **these days** 当今，现如今，~~这几天~~
+  + 同义替换：
+    **today, nowadays**
+  + 易混词：
+    **in those days** 在当年，想当初
+    ✎ <u>In those days</u>, boxers fought with bare fists for prize money.（L21）
+    ✎ <u>In those days</u> wandering minstrels were welcome everywhere.（B4L9）
++ **receive money** 赚钱
+  + 同义表达：
+    make money, earn money（这俩口语常用）
++ **far** 多得多（位于比较级前）
+  + 表示“……得多”
+    **far/ much/ even/ still/ yet……**
+  + 表示“一点”
+    **slightly/ a little/ a bit……**
+
+> 仿写第1句  
+  现如今，在娱乐界(the entertainment field)工作的人挣的钱往往比在教育行业(the education sector)工作的人多得多。  
+  These days, people who work in the entertainment field often receive far more money than people who toil in the education sector.  
+
++ anadiplosis 顶真；连珠（一种修辞：用相同的词，进行首尾相连，串起多个句子）
+  ✎ Our grief has turned to <u>anger</u>, and <u>anger</u> to resolution. 我们的悲伤已化为愤怒，愤怒又化为决心。（小布什）
+  ✎ For glances beget <u>ogles</u>, <u>ogles sighs</u>, <u>sighs wishes</u>, <u>wishes words</u>, and <u>words</u> a letter.
+  因瞥视而生秋波，因秋波而生叹息，因叹息而生希冀，因希冀而生绵绵情话，因绵绵情话而生情书一封。（拜伦）（并列句中，重复的谓语动词“beget”被去掉了）
+  ✎ If you dream it, you can <u>do it</u>; if you <u>do it</u>, you can <u>love it</u>; if you <u>love it</u>, you can <u>enjoy it</u>; if you <u>enjoy it</u>, you can make it.（make it = succeed 成功 (习语)）
++ **refer to ……** 提到……；谈及……
+  **= mention…… / speak of……**
+  ✎ Please don’t refer to this matter again. 请不要再提这件事了。
+  + “把A称为B”的表达
+    **refer to A as B**
+    **call A B**
+    **address A as B**
+    **know A as B**
+    ✎ …… and others will <u>call him ‘Mr. Bloggs’</u>, not ‘Alf’.（本文）
+    ✎ He wanted to be <u>addressed as</u> ‘Mr. Bloggs’, not ‘Alf’.（课后题-12）
+    ✎ He soon made a name for himself and came to <u>be known</u> to the Italians <u>as</u> Giovanni Acuto.（L14）
+    ✎ Because of this, they <u>were known as</u> ‘prizefighters’.（L21）
+    ✎ He <u>was known</u> to us all <u>as</u> Dickie and his eccentricity had become legendary long before he died.（L31）
++ ┏ **for the simple reason that……** 只不过是因为……
+  ┗ **simply because……**
+  + 同义替换公式：
+    **介词+名词+同位语从句（名词结构，更显得庄重正式，一般用于文章写作中）**
+    **= 普通从属连词（多用于口语）**
+  同义替换归纳举例：
+  ✎ for the reason that…… (fml.)
+  = because of the fact that…… (fml.)
+  = due to the fact that…… (fml.)
+  = on account of the fact that…… (fml.)
+  = because……
+  ✎ in spite of the fact that…… (fml.)
+  = despite the fact that…… (fml.)
+  = although……
+  ✎ <u>Despite the fact that</u> the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, grayish substance.（L52）
+> 仿写第2句
+  大熊猫常常被称为活化石(living fossils)，只不过因为它们在世界上已经生存了两亿多年了。
+  Giant pandas are frequently referred to as ‘living fossils’ for the simple reason that they have lived on earth for over 200 million years.
++ **nature** n. 本性、天性（文中此处不译作“自然”）
+  ✎ ‘Excuse me, <u>nature calls</u>.’ “抱歉，我得去趟厕所”（本性在召唤）
+  ✎ He is kind <u>by nature</u>. 他本性善良。
+  ┏ **Such is human nature that……** 这是人之常情（有强调意味）
+  ┗ It is human nature that…… （无强调意味）
+  ✎ <u>Such is human nature that</u> we all love to get something for nothing. 我们大家都喜欢免费得到东西，这是人的天性。
+  ✎ <u>Such is human nature that</u> we don’t treasure what we have until we lose it. 直到失去才懂得珍惜，这是人的本性。
+  + 以上例句中的such为**倒装**，正常语序举例如下：
+    <u>Human nature is such that</u> a great many people…… （改正语序后，“such”被放到了句中，不如在句首时有那么强的强调意味）
+    ┏ <u>The conditions of society are such that</u> skills have to be paid for in the same way that goods are paid for at a shop.（L27，不强调）
+    ┗ <u>Such are the conditions of society that</u> skills have to be paid for in the same way that goods are paid for at a shop.（such提前，强调）
++ **be willing to do** 乐意做某事（系表结构 + 动词不定式）
+  **willing** a. 乐意的，愿意的
+  ✎ I shook my head and held up five fingers indicating that I <u>was willing to</u> pay £5.（L28）
+  + 同义结构：
+    **be ready to do**（辨：**be ready for sth.** 准备好去做某事）
+    ✎ If your order is large enough we <u>are ready to</u> reduce our prices by 5%. 如果您的订单量足够大，那么我们愿意将我们的价格下降百分之5。
+    **be prepared to do**（辨：**be prepared for sth.** 准备好去做某事）
+    ✎ Why people <u>are prepared to</u> tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me.（L41）
+  + 反义结构：
+    **be unwilling to do**
+    **be reluctant to do**
+    ✎ Though he <u>was reluctant to do</u> so at first, we eventually persuaded him to take us.（L48）
++ **for the privilege of……** 为了……的好处
+  ✎ Why people are prepared to tolerate a four-hour journey each day <u>for the dubious privilege of</u> living in the country is beyond me.（L41）
++ **give rise to sth.** (fml.) 导致……
+  （fml.: formal, formal written language 正式的书面语）
+  ✎ The president’s absence <u>gave rise to</u> speculations about his health. 总统的缺席导致了对他健康状况的推测。
+  + **“导致”** 的更多表达
+    **cause, effect, result in**
+    **bring about, lead to**
+    **contribute to, account for**
++ **in the case of……** 在这个具体事例里
+  辨：**in case of…… = in the event of……** 以免/万一某事会发生（都是固定结构）
+  ✎ <u>In case of/ In the event of</u> bad weather, the wedding will be held indoors.
+  万一赶上坏天气，婚礼可以在室内举行。
++ **as** a dustman **for** the Ellesmere Corporation
+  **as + 职务，for + 就职的公司名称**（正式场合不用in，at），一般先说职务再说公司
+  ✎ I work <u>as</u> an English teacher <u>for</u> New Oriental School. 我是一名在新东方工作的英语老师。
+  ✎ Thank you very much for having offered me such a golden opportunity to work <u>as</u> an editor <u>for</u> Designs & Fashions, a best-selling magazine renowned for its extraordinary quality and taste.（2005考研英语小作文范文-书信）
+> + 观点 + 例证
+  **…… (观点), as it <u>did/ does</u> in the case of…… who……**
+  …… （观点），正如在某人某例子里那样
+  【✘】This can cause curious situations. Alfred Bloggs was an example. He worked……（评价：语句松散）
+  压力会导致精神上的一些疾病，正如在通用汽车公司(General Motors)工作的工程师Mike Johnson身上发生的情况一样。
+  Stress can give rise to mental diseases, as it did in the case of Mike Johnson who worked as an engineer for General Motors.（评价：精炼简洁充沛）
++ **get married** 结婚了
+  “get”表示状态的变化（单身 → 已婚）
+  + **marry sb.** 嫁给某人/娶某人
+    ✎ …… she <u>married a dustman</u>……（本文）
+    **be married to sb.**（被动）（注意要用“to”，不能用“with”）
+    ✎ The girl <u>was married to</u> me. 这个女孩嫁给了我。
+    ✎ The girl <u>was engaged to</u> me. 这个女孩与我订了婚。（同样注意要用“to”，不能用“with”）
++ **too…… to……** 太……而不能……
++ **be (dressed) in……** 穿着……（被动）
+  ✎ He <u>was (dressed) in</u> a smart black suit. 他穿着一身时髦的黑西装。
+  + 同义搭配：
+    **sb. wear sth.**（主动）
+    ✎ He left home <u>wearing</u> a smart black suit.
++ **smart** 
+  指人：机灵的，聪明的；
+  指物：（服装）时髦的。
++ **change** 单独使用时，可译为“换衣服”
+  ✎ W: I’m taking John to that fancy new restaurant tonight. 今晚我即将带着约翰去那家新开业的豪华餐厅。
+  M: You can’t go like that. You’d better <u>change</u>. 你不能那样就去。你最好换件衣服。
+  Q: What does the man advise?
+  Answer: Wear different clothes.（托福听力真题）
+  **change (out of……) (into……)**
+  ✎ You’d better <u>change out of</u> the red jacket <u>into</u> a blue one. 你最好脱下这件红夹克，换件红的。
++ **spend**
+  + **花费**
+    **spend…… <u>on sth./ (in) doing</u>** 把（时间/精力/金钱/……）花在……上/花在做某事
+    ✎ I <u>spent</u> a lot of money <u>on</u> food. 我在饮食方面花了许多钱。
+    ✎ I <u>spent</u> a lot of time <u>on</u> homework. 我花了好多时间在作业上。
+    ✎ I <u>spent</u> a lot of time <u>(in) learning</u> English. 我花了好多时间来学习英语。
+  + **度过**（本文意）
+    ✎ I <u>spent</u> my summer vacation in Hainan Province. 我暑假是在海南度过的。
+    ✎ I treasured every minute (when) I <u>spent</u> with your family. 我非常珍惜跟您的家庭共度的每一分钟。（书信）
+
+#### 👾 **动名词的时态和语态**
+|时态 / 语态|主动|被动|
+|:----: | ----: | ----:|
+|**一般时**|doing|being done|
+|**完成时**|having done|having been done|
+
+┏ 一般时：不强调动作发生的顺序。
+┗ 完成时：强调动作先发生。
+故：能用完成时的地方，一般都能换用一般时；用一般时的地方，不一定能换用完成时。
+  ◇ 主动一般时例句：
+  ✎ <u>After</u> <u>gazing</u> at the display for several minutes, Mr. Taylor went back into his shop.（L6）
+  ✎ Four days <u>after</u> <u>setting</u> out, while the *Titanic* was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout.（假如需要强调先发生，可写为：…… after having set……）（L10）
+  ◇ 主动完成时例句：
+  ✎ Ashamed <u>of</u> <u>having acted</u> so rashly, Dimitri apologized to Aleko <u>for</u> <u>having accused</u> him.（L16）
+  ◇ 被动一般时例句：
+  ✎ Pretending to speak seriously,one of the workmen asked if he might make a telephone call <u>before</u> <u>being taken</u> to the station. （L40）
+  ◇ 被动完成时例句：
+  ✎ <u>After</u> <u>having been wounded</u> towards the end of the war, he had been sent to hospital and was separated from his unit.（L36）
++ **fellow** dustmen 表示身份和自己一样的人
+  ✎ <u>fellow</u> actor 演员同事（L22）；<u>fellow</u> students 同学；<u>fellow</u> citizens 同胞（B4L33）；<u>fellow</u> Chinese/ Americans 中国同胞/美国同胞；<u>fellow</u> scientists 科学家同行（B4L15）
+  ✎ And so, my <u>fellow Americans</u>, ask not what your country can do for you; ask what you can do for your country. 因此，我的美国同胞们，不要问你的祖国能为你做什么，要问你能为你的祖国做什么。（肯尼迪）
+  + 表示 **“同事”** 的词
+    **workmate, colleague, associate**
+    ✎ One night, the gaoler decided to play a joke on his <u>colleague</u> to find out if, after so many performances, he had managed to learn the contents of the letter by heart.（L22）
++ Alf’s wife has never discovered that she married a dustman and she never <u>will</u>, for Alf has just found another job. （英文用完成时(will)表达了中文里状语的作用）
+  ✎ I <u>was</u>, <u>am</u> and <u>will be</u> your friend. 我过去是，现在是，将来也会是你的朋友。
++ **will be doing** 将来进行时，一般不表示将来正在做的事，而是**表达一种可预见性**。
+  ✎ Professor Wang <u>will be taking charge of</u> our department next Monday. 下周一，王教授将会接管我们系的工作。
++ He will be earning only half as much as he used to <u>(earn)</u>, ……
+  “earn”前文已出现，为避免重复啰嗦，故去掉。
+#### 👾 **英语中表达倍数的3种方式**
+1. **A is …… times as …… as B** 
+  A是B的……倍（本文）
+  （注意：2倍是“twice”，不是“two times”）
+2. **A is …… times <u>the amount</u>** (the number, the size, the length, the <u>width/ breadth</u>, the height, the value, the price, etc.) **of B**（the amount 修饰不可数名词；the number 修饰可数名词；……）
+  A是B的……倍
+1. **A is…… times 比较级 than B**
+  A比B大/多/长……倍
+  ┏ 他的工资是我的3倍。
+  ┗ His salary <u>is three times as much as</u> mine.
+  ┗ His salary <u>is three times the amount of</u> mine.
+  ┗ His salary <u>is twice more than</u> mine.
+  ┏ 这个箱子是那个箱子的4倍大。
+  ┗ The box <u>is four times as big as</u> that one.
+  ┗ The box <u>is four times the size of</u> that one.
+  ┗ The box <u>is three times bigger than</u> that one.
++ **rise in** status
+  在某方面的上升用“in”，不用“of”。
++ **well** 颇为……；相当地；非常（程度副词）
++ **worth**
+  + 介词
+    ┏ **be worth sth.**
+    ┗ **be worth doing**（不区分主动被动，通通用“doing”）
+  + 形容词
+    ┏ **be worthy of sth.**
+    ┗ **be worthy <u>to do/ to be done</u>**（区分主动被动，主动用“to do”；被动用“to be done”）
+  ┏ 这件事值得考虑。
+  ┗ The matter <u>is worth consideration</u>.
+  ┗ The matter <u>is worth considering</u>.
+  ┗ The matter <u>is worthy of consideration</u>.
+  ┗ The matter <u>is worthy to be considered</u>.
+  【✘】The day when Beijing won the right to host the 2008 Olympic Games <u>is worth being celebrated</u>.
+  【✔】The day when Beijing won the right to host the 2008 Olympic Games <u>is worth celebration/ celebrating</u>.
+  【✔】The day when Beijing won the right to host the 2008 Olympic Games <u>is worthy of celebration/ to be celebrated</u>.
++ **from now on** 从今往后
++ **call**
+  辨：**call sb. names** 辱骂、谩骂某人（names 脏话）
+  ✎ Stop <u>calling my father names</u>! 不许骂我爸爸！
+
+---
+
+## **Lesson 5 - The facts**
+### **课文原文**
+<font color=gray size=4>Editors of newspapers and magazines often go to extremes to provide their reader with unimportant facts and statistics. Last year a journalist had been instructed by a well-known magazine to write an article on the president’s palace in a new African republic. When the article arrived, the editor read the first sentence and then refused to publish it. The article began: ‘Hundreds of steps lead to the high wall which surrounds the president’s palace.’ The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall.
+
+The journalist immediately set out to obtain these important facts, but he took a long time to send them. Meanwhile, the editor was getting impatient, for the magazine would soon go to press. He sent the journalist two more faxes, but received no reply. He sent yet another fax informing the journalist that if he did not reply soon he would be fired. When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written. A week later, the editor at last received a fax from the journalist. Not only had the poor man been arrested, but he had been sent to prison as well. However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president’s palace.</font>
+
+
+### 🌻 **单词讲解**
++ **editor** n. 编辑
+  + **editor of……** ……的编辑
+    ✎ the <u>editor of</u> the Washington Post 华盛顿邮报的编辑
+    ✎ <u>Editors of</u> newspapers and magazines……（本文）
+  + **chief editor = editor in chief** 主编
+  + **edit** v.编辑（文章）
+    ✎ Janet <u>edited</u> books for a variety of publishers. 珍尼特为很多出版商编辑书刊。
+    ✎ Her original text has <u>been heavily edited</u>. 她的原稿受到了大量的编辑。
+  + 同根词：
+    **edition** 版本
+    ✎ a paperback/ hard-cover/ de luxe <u>edition</u> 平装版/精装版/豪华版
+    ✎ the first <u>edition</u> 第一版
+    ✎ a revised <u>edition</u> 一个修订版
+    ✎ in its sixth <u>edition</u> 在它的第六版里
+    **editorial** a. 编辑的；n. 社论
+    ✎ M: Mary is in charge of the art and music section; and Charles the sports page. What are you?
+    W: I’m responsible for the <u>editorials</u>.
+    Q: Where does the woman work?
+    Answer: At a newspaper office.（六级听力真题）
+    ✎ M: What are you working on so diligently?
+    W: An <u>editorial</u> for the newspaper. If I miss the midnight deadline, it won’t be printed until next week.
+    Q: What is the woman trying to do?
+    Answer: Prepare an editorial for this week’s newspaper.（托福听力真题）
+    ✎ M: Would you pass me the sports section, please?
+    W: Sure. If you give me the classified ads and <u>editorial</u> section.
+    Q: What are the people doing?
+    Answer: Reading the newspaper.（托福听力真题）
++ **extreme** 
+  + **n. 极端**
+    **go to extremes** 走极端，太过分
+    ✎ Editors of newspapers and magazines often <u>go to extremes</u> to provide their reader with unimportant facts and statistics.（原文）
+    ✎ This is a rare occurrence as our climate seldom <u>goes to extremes</u>.（L56）
+    **from one extreme to the other**（~~another~~） 从一个极端到另一个极端
+    ✎ In terms of healthy eating I go <u>from one extreme to the other</u>. 在健康饮食这个角度，我经常从一个极端走向另一个极端。
+    **between two extremes** 在两个极端之间
+    ✎ The public’s views on genetic engineering seem to range <u>between two extremes</u>. 公众对基因工程的观点似乎总处在两个极端之间摇摆。
+  + **a. 极端的，过头的，过分的**
+    ✎ <u>Extreme poverty</u> still exists in many rural areas. 在很多农村地区，极端贫困依然存在。
+    ✎ It is necessary to use <u>extreme care/ caution</u> with chemicals. 我们在使用化学品时要极其谨慎才行。
+    ✎ Force is only justified <u>in extreme circumstances</u>. 只有在极端情况下，武力才被证明是合理的。
+  + **extremely ad. 极端地**
+    **be extremely <u>difficult/ important/ useful/ complicated/ pleased/ grateful/ ……</u>**
+    极端困难/特别重要/极其有用/极端复杂/极为高兴/极其感激/……
+    ✎ Though it may be possible to measure the value of material goods in terms of money, it <u>is extremely difficult</u> to estimate the true value of the services which people perform for us.（L27）
+    ✎ But I <u>was extremely pleased</u> with myself. I had traced the cause of the trouble.（L46）
++ **journalist** n. 记者
+  + 近义词：
+    **reporter**
+    **columnist** 专栏记者/作者（column (报纸上的)专栏）
+    **correspondent** 特派/专题记者
+    ✎ our Middle East <u>correspondent</u> 我们驻中东的记者
+    ✎ Our <u>correspondent</u> in South Africa sent this report. 我们驻南非的记者发来了这份报告。
+    ✎ a war/ sports/ education/ political <u>correspondent</u> 一名战地/体育/教育/政治记者
+  + 同根词：
+    **journalism** [U] 新闻学；新闻工作；新闻报道
+    ✎ a career <u>journalism</u> 新闻工作生涯
+    ✎ I plan to study <u>journalism</u> at college. 我打算在大学里学习新闻学。
++ **publish** v. 出版
+  ✎ This book is <u>published</u> by Oxford University Press. 这本书是由牛津大学出版社出版的。
+  + 相关词：
+    **publisher** 出版商；出版人；出版社（**press** 出版社）
+    **publishing** [U] 出版业
+    ✎ She chose <u>publishing</u> as a career. 她选择出版业当作自己的职业生涯。
+    **the press** 新闻界；舆论界；报界
+    **the freedom of <u>the press</u>** 新闻自由；出版自由
+    ✎ In democratic countries any efforts to restrict <u>the freedom of the press</u> are rightly condemned.（L45）
+    **issue**（一般指邮票、股票、证券等的出版发行，而非书籍、报刊、杂志、文章）
+    ✎ A new series of stamps will be <u>issued</u> to commemorate the event. 为纪念这起事件，将发行一套新的邮票。
+    **go to press** 交付印刷（付梓）
+    ✎ Meanwhile, the editor was getting impatient, for the magazine would soon <u>go to press</u>.（本文）
+    **pirate** v. 非法出版；n. 海盗
+    ✎ <u>pirated</u> <u>CDs/ books/ software</u> 盗版光盘/书/软件（software [U]）
++ **impatient** a.不耐烦的
+  + **<u>become/ get/ grow</u> impatient (with <u>sb./sth.</u>)** （对……）变得不耐烦
+    ✎ Meanwhile, the editor was <u>getting impatient</u>, for the magazine would soon go to press.（本文）
+    ✎ We are <u>growing impatient with</u> the lack of results. 对于迟迟没有结果，我们正变得不耐烦。
+  + **be impatient to do sth.** 等得不耐烦；（等不及/迫不及待地）想去做某事
+    ✎ Many graduates <u>are impatient to</u> become managers. 很多毕业生都迫不及待地想当经理。
+    ✎ She intended to dress up as a ghost and as she had made her costume the night before, she <u>was impatient to</u> try it on.（L13）
+  + 同义替换：
+    **be <u>eager/ anxious/ itching/ dying/ desperate</u> to do……** 急切地做某事 
+    **= can’t wait to do……**（固定表达）
+  + 同根词
+    **impatience** n. 不耐烦
+    **patience** n. 耐心
+    **patient** a. 有耐心的；不着急的 n. 病人
++ **fire** v. 解雇；开枪，开火
+  + **<u>fire/ dismiss</u> sb. from……** 从某个职务上把某人解雇（“dismiss”更正式）
+    ✎ I’ve just <u>been fired from</u> my job, and I don’t know what to do. 我刚刚被解雇了，不知道该做什么。
+    ✎ She claims she <u>was</u> unfairly <u>dismissed from</u> her post. 她声称她不公平地从岗位上被解雇了。
+    ✎ The poor girl <u>was dismissed</u> instantly.（L49）
+  + 关于 **“解雇”** 的表达：
+    **lose one’s job**
+    ✎ Many people won’t complain about pay and conditions because they’re terrified of <u>losing their jobs</u>. 很多人不会抱怨报酬和工作条件，因为害怕失去他们的工作。
+    **lay off**
+    ✎ Millions of people have <u>been laid off</u> in the steel industry. 在钢铁行业，有数以百万计的人下岗了。
+    ✎ <u>laid-off</u> workers 下岗工人
+    **suspend** 停职察看
+    ✎ The two police officers have <u>been suspended</u> until an enquiry is carried out. 这两位警官被停职察看直到我们开始做调查为止。
+    **depose** （罢免，废黜）
+    ✎ King Charles Ⅰ <u>was deposed from</u> the English throne in 1646. 在1646年，国王查理一世被赶下台。
++ **originally** ad. 最初，以前，原先，原来
+  英文释义：in the beginning, before other things happened or before things changed
+  ✎ The building was <u>originally</u> used as a prison. 这座建筑最初是当作监狱来使用的
+  ✎ His novels were <u>originally</u> published serial form in a magazine. 他的小说最初是以连载的形式在一份杂志上出版的。
+  ✎ W: The seminar <u>originally</u> scheduled for today has been cancelled.
+  M: Too bad, but it’ll still be on for next week, isn’t it?
+  Q: What does the man assume about the seminar?
+  Answer: It will continue the following week.（托福听力真题）
+  + 同义替换：
+    **at the <u>beginning/ start</u>**
+    ✎ She was nervous <u>at the beginning</u> but she settled down as she got further into her speech. 在演讲之初她有些紧张，不过随着演讲的深入，她平静了下来。
+    **<u>at first/ initially</u>**（“initially”更正式）
+    ✎ They offered her the job, <u>initially</u> on a temporary basis but later as a full member of the staff. 他们给她提供了这份工作，最初是临时的，但后来成为正式员工。
+    **<u>to start with/ to begin with</u>**
+    ✎ Even children who are healthy <u>to begin with</u> wouldn’t survive long in these terrible conditions. 甚至一开始比较健康的儿童，在这种可怕的疾病下也不会生存很久。（“conditions”是“疾病”的委婉表达）
+  + 同根词
+    **origin** n. 起源
+    ✎ All this seems to me to link them with life, and the <u>origins of</u> things.（B4L5）
+    ✎ We must conclude from the work of those who have studied the <u>origin of</u> life, that given a planet only approximately like our own, life is almost certain to start.（B4L43）
+    **original** a. 最初的，原来的；新颖的，有创意的
+    ✎ the <u>original</u> meaning of the word 这个单词原来的意思
+    ✎ The <u>original</u> plan by the council was tabled because of lack of funds. 由于缺乏资金，议会的原始计划被搁置。（《走遍美国》）
+    ✎ a highly <u>original</u> design 一个极具创意的设计
+    **originality** 独创性；创意
+    ✎ A lot of his designs lack <u>originality</u>. 他的很多设计都缺乏创意。
+    ✎ a young writer of great <u>originality</u> 一个极具创意的年轻作家
+
+
+### 🕹️ **课文讲解**
++ **go to extremes to do sth.** 过分地……，在某方面走极端（当作固定用法记）
+  ✎ Girls often <u>go to extremes to</u> lose weight. 女孩子常常在减肥方面走极端。
+  ✎ Some parents often <u>go to extremes to</u> satisfy the needs of their children. 有些父母常常过分地满足孩子的需要。
+  ✎ Alfred Bloggs <u>went to extremes to</u> seek the privilege of becoming a white-collar worker. 阿尔弗雷德·布洛格斯过分地追求成为白领工人的特权。
++ ┏ **provide sb. with sth.** 为某人提供某物
+  ┗ **provide sth. for sb.**（意思一样，哪个短哪个就放前面，避免头重脚轻）
+  ✎ If you can do without the few pastoral pleasures of the country,you will find the city can <u>provide</u> you <u>with</u> the best that life can offer.（L41）
+  ✎ Colleges <u>provide</u> accommodation <u>for</u> all first-year undergraduate students. 这些大学为所有一年级本科生提供住宿。
+  + 近义表达：
+    ┏ **offer sb. sth.**
+    ┗ **offer sth to sb.**
+    ✎ They <u>offered</u> him a very good job, but he turned it down. 他们给他提供了一份非常好的工作，但是他谢绝了。
+    ✎ The drama school <u>offers</u> places <u>to</u> students who can show talent. 这所戏剧学校为那些展现出才华的学生提供位置。
++ **unimportant** 不重要的；微不足道的
+  同义词：**trivial, trifling, insignificant**
++ **facts and statistics** 事实和统计数字
+  两个及以上单词并列出现且重要性相同时，短单词放前面。以下是常见举例：
+  **fruit and vegetables** 蔬菜水果（水果除非表示种类，否则不可数）
+  **fur and feather / birds and beasts** 飞禽走兽
+  **bed and board / food and shelter** 食宿
+  **food, shelter, clothing and transportation** 衣食住行
+> 仿写第1句
+  某些网站常常过分地给访问者提供令人眼花缭乱的大量的信息。
+  Some websites often go to extremes to provide their visitors with a bewildering amount of information.
+  参考：Films, videos, CDs and CD-ROMS are just some of the <u>bewildering amount of information</u> they will have. 令人眼花缭乱的大量的信息（L38）
++ **instruct**
+  **instruct sb. in sth.** 教某人某方面的知识
+  ✎ I <u>instruct</u> a class <u>in</u> history. 我教一个班的历史。（instructor = teacher）
+  **<u>instruct/ direct</u> sb. to do** 命令（或指派）某人做某事（一般用于客观的正式的场合，如：政府里，法庭上，工作场合；一般会暗示说明详细的行事步骤）
+  ✎ I have <u>been instructed</u> by the company <u>to</u> offer you a refund. 公司指派我为您退款。
+  ✎ The judge <u>directed</u> the defendant <u>to</u> remain silent. 法官命令被告人保持安静。
+  辨：
+  **order sb. to do**（强调命令发出者的权威性）
+  ✎ The policeman <u>ordered</u> the motorist <u>to</u> stop. 这位警察命令这位司机停车。
+  **command sb. to do**（多用于军事场合）
+  ✎ The officer <u>commanded</u> his men <u>to</u> open fire. 这位军官命令部下开火。
++ **article <u>on/ about</u> sth. (by sb.)** 关于……题材的文章
+  ✎ an <u>article on/ about</u> education <u>by</u> Mr. Smith 史密斯先生写的一篇关于教育的文章
++ **arrived**
+  arrive = come 到达
+  ✎ The card <u>arrived</u> on my birthday. 卡片在我生日那天到了。
+  ✎ A letter <u>came</u> for you this morning. 今天早上有封给你的信。
+> 仿写第3句：
+  当简收到信时，读完第一句话就哭了。
+  When the letter came/ arrived, Jane read the first sentence and then cried.
++ **hundreds of……** 数以百计的
+  同类词：
+  **<u>dozens of / scores of / hundreds of / thousands of / millions of</u> + 复数名词**（单数情况：two dozen 两沓；two score 四十）
+  **<u>tens of thousands of / hundreds of thousands of</u> + 复数名词** 数以万计的/数十万的
+  **thousands upon thousands of + 复数名词** 成千上万的
++ **lead to** 通往、到达；导致
+  ✎ All roads <u>lead to</u> Rome. 条条大路通罗马。
+  ✎ The path <u>led to</u> a tiny village perched on the steep sides of a mountain. 通往（L48）
+  ✎ This <u>led to</u> yet another angry argument. 导致（L33）
++ **surround** 
+  主动：surround（本文）
+  被动：**be surrounded by……** 被……包围
+  ✎ Needless to say our house <u>is</u> now <u>surrounded by</u> a jungle.（L46）
+  ✎ Looking up I saw that we <u>were surrounded by</u> children in rags who were looking at us silently as we ate.（L48）
+  **surrounding** a. 附近的，周围的（人或环境）
+  ✎ Winter was coming on and the hills threatened the <u>surrounding</u> villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well.（B2L62）
++ sent a fax
+  发送：**send sb. <u>a fax/ a letter/ an email/ a card</u>**
+  收到：**<u>get/ receive</u> <u>a fax/ a letter/ an email/ a card</u> from……**
++ **find out** : get information
+  辨：**find out 与 find**
+  **“find out”一般指得到某个信息、事实、真相、情况。“find”一般指发现一个看得见摸得着的东西**，如：find a key 发现一把钥匙。
+  ┏ She wanted to <u>find out</u> whether it would be comfortable to wear.（L13）
+  ┏ One night, the gaoler decided to play a joke on his colleague to <u>find out</u> if, after so many performances, he had managed to learn the contents of the letter by heart.（L22）
+  ┗ He could not <u>find</u> his fifty pence piece anywhere, and what is more, he could no get his arm out.（L15）
+> 仿写第1段最后一句
+  这位经理立刻给他的秘书发了一封email,要求她了解一下即将出席会议的确切人数。
+  The manager at once sent his secretary an email instructing her to find out the exact number of the people who will attend the meeting.
++ **immediately = at once**
++ **set out** 动身，出发
+  英文释义：to start a journey, especially a long journey
+  ✎ Both these ships <u>set out</u> from Shanghai on June 18th, 1872 on an exciting race to England.（L25）
+  ✎ Four days after <u>setting out</u>, while the *Titanic* was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout.（L10）
+  **set out to do sth.**（带着目的做某事）
+  英文释义：begin a job, task, etc with a particular aim or goal
+  ✎ （本文）
+  ✎ Dimitri at once <u>set out to find</u> the thief.（L16）
+  ✎ True eccentrics never deliberately <u>set out to draw</u> attention to themselves.（L31）
++ **take**
+  + **花费（物作主语）**
+    ✎ I went on an excursion recently, but <u>my trip</u> <u>took</u> me longer than I expected.（B2L50）
+    ✎ Even if you travel in ideal weather, <u>sea journeys</u> <u>take</u> a long time.（L44）
+    ✎ <u>It</u> <u>took</u> me over half an hour to get rid of him.（L28）
+  + **花费（人作主语）**
+    ✎ （本文）
+    ✎ <u>I</u> <u>took</u> just ten minutes to solve that problem. 我只花了十分钟就解决了那个问题。
+    ✎ <u>He</u> always <u>takes</u> so long to eat his breakfast. 他总是花很长时间吃早餐。
+  + **spend…… <u>on sth./ (in) doing sth.</u> （用“spend”表示花费时间时，主语必须是人）**
+    ✎ I argued that if <u>I</u> <u>spent</u> less time <u>exhausting</u> myself at exercises in the morning I would keep my mind fresh for reading when I got home from work.（L50）
+    ✎ <u>One</u>, to my certain knowledge, <u>spent</u> nine months <u>on</u> a novel about Kashmir, then reset the whole thing in the Scottish Highlands.（B4L39）
+> 仿写第2段第1句
+  这位秘书立刻着手核实这些重要的事实，但是她花了很长时间才完成。
+  The secretary immediately set out to verify these important facts, but she took a long time to finish it.
++ **meanwhile** ad. 与此同时，在此期间
+  + 同义替换：
+    **at the same time**
+    **(in the) meantime** （作副词，可单独使用；作名词，则组合成介词短语使用）
+    ✎ I continued working. <u>Meantime</u>, he went out shopping. 我继续工作，与此同时他出去买东西。
+    ✎ It took the police nearly an hour to get the traffic on the move again. <u>In the meantime</u>, the lorry-driver had to sweep up hundreds of broken bottles.（L33）
++ **two more** 又两个
+  **one more…… = another……**
+  **two more…… = another two……**
+  ┏ In <u>another two</u> weeks it’ll be finished.
+  ┗ In <u>two more</u> weeks it’ll be finished.
++ **yet** （加强语气）
+  **<u>yet/ still</u> one more/ another/ bigger/ ……** 又一个/又一个/更大（比较级）/……
+  ✎ This led to <u>yet</u> <u>another</u> angry argument.（L33）
+  ✎ <u>yet/ still</u> <u>one more</u> exam 再举个例子
+  ✎ He’s given us <u>yet/ still</u> <u>more</u> work to do. 他又给了我们更多的工作来做。
+  ✎ Inflation had risen to a <u>yet/ still</u> <u>higher</u> level. 通货膨胀已经上涨到了一个更高的程度。
+  ✎ M: They said the train won’t arrive until nine.
+  W: Well, what that boils down to is <u>yet</u> <u>another</u> delay in our schedule.（boil down to 导致某个结果，产生某个事实）
+  Q: What does the woman mean?
+  Answer: They are going to be late again.（托福听力真题）
++ **inform sb. of sth.** 通知某人某事
+  **inform sb. that……**（加从句时，of要删掉）
+  连词“that”引导从句时，一般不用在介词后面，故删掉“of”
+  例外情况：in that……；<u>but/ except</u> that……
++ **did not**
+  书面语尽量少用“ ’s ”、“ ’t ”、“ ’d ”这样的缩写，显得更正式。
+> 仿写第2段第4句
+  绑匪又寄了一封匿名信,通知老太太如果她报警，她就再也看不到她儿子了。
+  The kidnapper sent yet another anonymous letter informing the old lady that if she called the police she would never see her son again.
++ **reluctantly = unwillingly** 不情愿地，勉强地
+  ✎ I did not fancy the idea and I <u>reluctantly</u> followed Robert out of the room.（L23）
+  ✎ The country was drawn <u>unwillingly</u> into the war. 这个国家不情愿地被卷入了战争。
+> 仿写第2段第5句
+  当再一次未能得到签证（visa）时，我们不情愿地按照原计划在国内旅行（go on a domestic journey）。
+  When we again failed to get visas, we reluctantly went on a domestic journey as it had originally been planned.
++ **Not only…… , but…… as well** 不但……，而且……（固定结构）（否定词not放句首，引起部分倒装）
+  + 同义表达：
+    **Not only…… but also……**
+    **Not only…… but……**
+    ✎ This hobby educates one <u>not only</u> in the chosen subject, <u>but also</u> in general matters which have some bearing on it.（L59）
+    ✎ At that time, however, she was <u>not only</u> the largest ship that had ever been built, <u>but</u> was regarded as unsinkable, for she had sixteen watertight compartments.（L10）
+    ✎ These days, advertisers <u>not only</u> offer free samples, <u>but</u> free cars, free houses, and free trips round the world <u>as well</u>.（L26）
+
+#### 👾 **部分倒装**
++ **形式：只把助动词、be动词（之前没有其它助动词的情况下）或情态动词置于主语之前，中心谓语动词保持在主语后面不动。**
++ **目的：突出句首的状语。**
+适用情况：
+1. **否定词位于句首** （如本文）
+（否定词举例：not only, not until, neither, nor, never, hardly, barely, scarcely, few, little, rarely, seldom, under no circumstances, in no way, ……）
+✎ <u>Not only</u> **had** the poor man been arrested, but he had been sent to prison as well.（本文）
+✎ <u>Nor</u> **is** the city without its moments of beauty.（L41）
+✎ <u>Neither</u> **was** I surprised when the train stopped at Widley, a tiny station a few miles along the line.（L37）
+✎ <u>Never</u> **have** I seen such a good movie. 我以前从来没有看过这么好看的电影。
+✎ <u>Not until</u> yesterday **did** little John change his mind. 直到昨天小约翰才改变他的注意。
+✎ <u>Under no circumstances</u> **should** you lend Paul any money. 你绝不要借给保罗一分钱。
+2. **“only + 状语”位于句首**
+意为：只有……才……；直到……才……
+✎ <u>Only</u> <u>then</u> **did** he realize that he was mistaken. 直到那时，他才明白他错了。（副词作状语）
+✎ <u>Only</u> <u>by working hard</u> **can** we succeed in doing anything. 只有通过努力工作，我们才能成功地完成任何事情。（介词短语作状语）
+✎ <u>Only</u> <u>after a baby seal is pushed in to the sea by its mother</u> **will** it learn how to swim. 直到一直小海豹被它的妈妈推到大海里之后，它才能学会如何游泳。（状语从句）
+✎ <u>Only</u> <u>when he saw that the man was actually telephoning the police</u> **did** he realize that they had all been the victims of a hoax.（状语从句）（L40）
+3. **such, so, well, often, many a time 等表示程度、频率的副词位于句首**
+✎ <u>Such</u> **is** human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers.（L4）
+✎ <u>So</u> great **is** our passion for doing things for ourselves, that we are becoming increasingly less dependent on specialized labour.（L46）
+✎ <u>Well</u> **did** I know him and <u>well</u> **did** he know me. 我很了解他，他也很了解我。
+✎ <u>Often</u> **did** it snow there. 那里经常下雨。
+✎ <u>Many a time</u> **has** he given me good advice. 他经常给我一些好的建议。
++ 造句应用：
+  ✎ 你不但吓了我一跳，而且可能把村子里所有人都吵醒了。
+  **Not only** <u>did</u> you give me a surprise, **but** you’ve probably woken up everyone in the village **as well**.
+  ✎ 不但有几个人抱怨说在夜里听见了“像猫一样的噪音”，而且一位钓鱼途中的商人还看见那只美洲狮在树上。
+  **Not only** <u>did</u> several people complain of ‘cat-like noises’ at night, **but** a businessman on a fishing trip saw the puma up a tree **as well**.
+#### 👾 **状语从句的省略**
+**状语从句中如果同时满足以下两个条件，则可同时省略状语从句的主语和其后的 be 动词。**
+**1. 状语从句的主语与主句主语一致。**
+**2. 状语从句的谓语包含 be 动词。**
+相关原文：…… that <u>he</u> had been arrested while (<u>he</u> <u>had been</u>) counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president’s palace.
+↓ <u>Metals</u> expand when <u>they</u> <u>are</u> heated and contract when <u>they</u> <u>are</u> cooled.（时间状语从句）
+↳ <u>Metals</u> expand when heated and contract when cooled.
+金属当被加热时会膨胀，当被冷却时会收缩。
+↓ <u>Francis Preston Blair Jr.</u>, although <u>he</u> <u>was</u> born in Kentucky, lived and practiced in Missouri.（让步状语从句）（托福真题）
+↳ <u>Francis Preston Blair Jr.</u>, although born in Kentucky, lived and practiced in Missouri.
+小弗朗西斯尽管出生于肯塔基州，但生活和工作于密苏里州。（practice 指律师或医生持执照工作，而非“练习”）
+> 仿写最后1句
+  来自于伦敦动物园的专家最终打了一个电话，在电话中他通知动物园说，这只美洲狮在正从一座古庙逃跑的时候被抓住了，这座古庙位于距离伦敦几乎有一百英里远的一座200米高的小山上。
+  The expert from London Zoo had at last made a telephone call in which he informed the zoo that the puma had been caught while escaping from an ancient temple standing on a 200-meter hill which was almost 100 miles from London.（200-meter 名词作定语要用单数）
+
+---
+
+## **Lesson 6 - Smash-and-grab**
+### **课文原文**
+<font color=gray size=4>The expensive shops in a famous arcade near Piccadilly were just opening. At this time of the morning, the arcade was almost empty. Mr. Taylor, the owner of a jewellery shop was admiring a new window display. Two of his assistants had been working busily since eight o’clock and had only just finished. Diamond necklaces and rings had been beautifully arranged on a background of black velvet. After gazing at the display for several minutes, Mr. Taylor went back into his shop.
+
+The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade. It came to a stop outside the jeweller’s. One man stayed at the wheel while two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars. While this was going on, Mr. Taylor was upstairs. He and his staff began throwing furniture out of the window. Chairs and tables went flying into the arcade. One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain. The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed. Just as it was leaving, Mr. Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves. They had got away with thousands of pounds worth of diamonds.</font>
+
+
+### 🌻 **单词讲解**
++ **smash-and-grab** n. 砸橱窗抢劫
+  英文释义：a kind of robbery in which the robbers break the shop window and steal the goods on display
+  + **smash**
+    ◇ 把某物打得粉碎
+    ✎ <u>smash</u> the window（及物）
+    ✎ The glass <u>smashed</u> into small bits. 玻璃杯碎成了小片。（不及物）
+    ◇ 派生含义：打倒坏人、坏事
+    ✎ We’re determined to <u>smash</u> terrorism. 我们下定决心一定要粉碎（打倒）恐怖主义。
+    ✎ <u>smash</u> the Gang of Four 粉碎四人帮
+    同义词：
+    **shatter** 
+    ◇ 打碎
+    ✎ <u>shatter</u> the window（及物）
+    ✎ The glass <u>shattered</u> into small bits.（不及物）
+    ✎ When I’m in your arms / Nothing seems to matter / My whole world could <u>shatter</u> / I don’t care（Phil Collins演唱歌曲片段）
+    ◇ 派生含义：粉碎某人的梦想、希望、信心等
+    <u>shatter</u> one’s dream/ hope/ confidence/ ……
+    ✎ Peter’s comments <u>shattered the boy’s confidence</u>. 彼得的评论打碎了男孩的信心。
+  + **grab** 抢占
+    ✎ A mugger <u>grabbed</u> her handbag as she was walking across the park. 当她穿过公园时，一个抢劫犯抢走了她的手提包。
+    同义词：
+    **seize**
+    ✎ As the men refused to stop working, the police attempted to <u>seize</u> the pneumatic drill.（L40）
++ **jewellery [英]/ jewelry [美]** n. 珠宝（指总称，不可数）
+  ✎ a piece of <u>jewellery</u> 一件珠宝
+  ✎ two pieces of <u>jewellery</u> 两件珠宝
+  【✘】She has a lot of beautiful jewelries.
+  【✔】She has a lot of beautiful <u>jewelry</u>. 她有许多美丽的珠宝。
+  【✔】She has a lot of beautiful <u>jewels</u>.（jewel 可数）
+  + 单称（可数）—— 总称（不可数）
+    单称（可数） | 总称（不可数）
+    ---- | ----
+    jewel | jewellery / jewelry
+    scene | scenery
+    machine | machinery
+    weapon | weaponry
+   
+    特例：
+    单称（可数） | 总称（不可数）
+    ---- | ----
+    poem | poetry
+    novel | fiction
+    myth | mythology
+    leaf | foliage
+    table / chair …… | furniture
+    pen / pencil …… | stationery
+    箱子 trunk / suitcase …… | 行李 luggage / baggage
++ **staff** n. 全体工作人员
+  + 表示某一个机构的全体工作人员用单数；如果作主语，则谓语动词单复数都对。
+    ✎ The hospital’s <u>medical staff</u> <u>is/ are</u> excellent. 这所医院的医护人员水平很高。
+    ✎ teaching <u>staff</u> 教师队伍
+    ✎ engineering <u>staff</u> 工程技术人员
+    ✎ domestic <u>staff</u> 一个家庭里的全体佣人
+    ✎ Though my aunt pursued what was, in those days, an enlightened policy, in that she never allowed her <u>domestic staff</u> to work more than eight hours a day, she was extremely difficult to please.（L49）
+    ✎ Already, orientals and Asian Americans constitute the majority of the <u>engineering staffs</u> at many Valley firms.（B4L10）（firms用了复数，复数对应复数）
+  + 同样用法的词：
+    **cast；crew；faculty；audience**
+
+
+### 🕹️ **课文讲解**
+#### 👾 **英语记叙文（narrative）的要点**
+1. 五个W一个R（when, where, who, why, what and result）。
+2. 目的明确，线索清晰，描写生动，详略得当，句式多变。
+
+关于情节起伏：文似看山不喜平。…… 为人贵直，而作诗文者贵曲。——袁枚《随园诗话》
+
++ **expensive <u>shops/ hotels</u>** 高档商店/宾馆（表示让人费钱的）
+  ✎ Mary is an <u>expensive</u> girl. She eats like a horse. 玛丽是一个费钱的女孩（拜金女孩），她吃得像马一样多（固定比喻：用马、狮子比喻吃的多，类似中文用猪比喻吃的多）。
+  + 同义词：
+    a **<u>fancy/ luxury</u>** car/ hotel
++ **arcade** 有拱顶的商业街
+  **arch** 拱，桥拱，拱门
+  ✎ 17-<u>Arch</u> Bridge 十七孔桥（北京颐和园）
+  ✎ <u>Arch</u> of Triumph 凯旋门（法国）
+  **archway** 有拱顶的柱廊
+  ✎ The student hid in an <u>archway</u> nearby where he could watch and hear everything that went on.（L40）
++ **near** 在附近
+  + 同义词：
+    **around…… , close to……**
+    **in the neighbourhood of……** （较正式）（neighborhood [美]）
+    **in the vicinity of……** （更正式）
+    **off……**
+    ✎ I rent an apartment <u>off</u> campus. 我在校园附近租了一个公寓。（听力中容易听成of，但其实表达“校园中的公寓”用介词“on”）
+    ✎ M: Will you be living in the dormitory this year?（dormitory (大学、学院等的)学生宿舍，英国指宿舍房间，美国指宿舍楼）
+    W: Not if I can help it. I’ve been thinking of renting an apartment <u>off</u> campus with some friends of mine.（help = avoid 避免）
+    Q: What does the woman imply?
+    Answer: She doesn’t want to live in university housing.（托福听力真题）
+    ✎ The expensive shops in <u>the famous arcade off Piccadilly</u> were just opening.（课后题-4）
+> 仿写第1句
+  在朝阳区建国门外大街上高档的国贸商城(China World Shopping Mall)刚刚开始营业。
+  The expensive China World Shopping Mall <u>on/ at</u> the JianGuoMenWai Avenue in Chaoyang District was just opening.
++ **empty** 空的；无人的，冷清的
+  ✎ an <u>empty</u> truck 一辆空卡车（空的）
+  ✎ <u>empty</u> street 空荡荡的大街（派生含义：空荡荡的）
++ **jewellery shop** 珠宝店
+  + 其它表达：
+    **某行业从业者 + ’s = 某行业从业者的经营场所**
+    the jeweller’s 珠宝店
+    the grocer’s 杂货铺
+    the tailor’s 裁缝铺
+    the baker’s 面包店
+    the butcher’s 肉铺
+    the barber’s 理发店
+    the stationer’s 文具店
+    the chemist’s 药店
+  + 人后面加“ ’s ” 的其它含义
+  We spent the weekend at <u>Mr.Green’s (**house**)</u>. 我们周末是在格林先生家度过的。
+  He graduated from <u>St. John’s (**University**)</u>. 他毕业于圣约翰大学。
+  Joe lives near <u>St. Paul’s (**Cathedral**)</u> in London. 乔住在伦敦圣保罗大教堂附近。
++ **admire**
+  + 钦佩，敬佩（不可用进行时）
+    ✎ I <u>admire</u> her courage. 我欣赏/敬佩她的勇气。
+  + 用欣赏的眼光来看某个事物（可用进行时）（本文）
+    ✎ I <u>am admiring</u> her beauty. 我正在欣赏她的美貌。
+    + 同义替换：
+    **gaze at……** 看得出神,充满兴趣地凝视（表示被看的事物非常好看）
+    ✎ After <u>gazing at</u> the display for several minutes, Mr. Taylor went back into his shop.（本文）
+    ✎ He <u>gazed at</u> the belle. 他出神地盯着这个美女。（“belle”指大美女，一群美女中最美的那个。例：campus belle 校花）
+    + 近义搭配：
+      **stare at……** 瞪大了眼睛凝视
+      ✎ He <u>stared at</u> the belle.
+      **gape at……** 傻看，看傻了
+      ✎ He <u>gaped at</u> the belle.
+      **glare at……** 怒目而视
+      ✎ The belle <u>glared at</u> him.
++ **assistant**
+  + 助手，助理
+    ✎ an <u>assistant</u> manager 一位助理经理
+  + 售货员（本文）
+    ┏ (shop) assistant （英联邦）
+    ┗ (shop) clerk （美国）（clerk 在英国一般表示办公室文员、白领）
+
+#### 👾 **had been doing 过去完成进行时**
+表示持续性的动作一直做到过去的某时，而且还有可能继续下去。
+✎ Bleriot <u>had been making</u> planes since 1905 and this was his latest model.（L20）
+✎ The small ship, *Elkor*, which <u>had been searching</u> the Barents Sea for weeks, was on its way home.（L32）
+✎ The Karen <u>had been sailing</u> in a convoy to Russia when she was torpedoed by an enemy submarine.（L32）
+✎ People woken during these periods of eye-movements generally reported that they<u>had been dreaming</u>.（B4L19）
+
++ **only just** 刚刚
+  英文释义：ad. not long <u>ago/ before</u>
+  一般用于完成时
+  ✎ We’ve <u>only just</u> arrived. 我们刚刚才到。（现在完成时）
+  ✎ I’ve <u>only just</u> moved to London. 我刚刚搬到伦敦。（现在完成时）
+  ✎ People were leaving and I’d <u>only just</u> arrived. 人们正纷纷离开，而我刚刚才到。（过去完成时）
++ **arrange** 布置，陈列，摆放
+  ✎ We <u>arranged</u> the chairs in a semicircle. 我们把椅子摆成了半圆形。（主动）
+  ✎ His books <u>are</u> neatly <u>arranged</u> in alphabetical order. 他的书被整齐地按照字母表的顺序摆放。（被动）
+
+#### 👾 **独立主格结构**
+**(with) + n.（逻辑主语） + 非谓语（doing/ done/ to do。其中being常省略）**，在句中常作状语或定语。
+独立主格其实就是加上了本身逻辑主语的非谓语动词。
+  ✎ The silence was suddenly broken when a large car, <u>**with** its headlights (being) on</u> and <u>its horn blaring</u>, roared down the arcade.（本文）
+  ✎ One man stayed at the wheel while two others <u>**with** black stockings (being) over their faces</u> jumped out and smashed the window of the shop with iron bars.（本文）
+  ✎ …… and at this point, according to my father, I should be looking at farms and cottages in a valley, <u>**with** the spire of the church of our village showing in the far distance</u>.（L57）
+  ✎ Collecting, by occupying spare time so constructively, makes a person contented, <u>**with** no time (being) for boredom</u>.（？）
+  ✎ It is possible that upon such an occasion a battle ensued, <u>**with** the sharks being driven away or killed</u>.（B4L18）
+  ✎ Apart from an interesting-looking carved dagger, the box was full of crockery, <u>much of it broken</u>.（L34）
+  ✎ In the nineteenth century, a novelist would bring his story to a conclusion by presenting his readers with a series of coincidences —— <u>most of them wildly improbable</u>.（L36）
+  ✎ The village seemed deserted, <u>the only sign of life being an ugly-looking black goat tied to a tree on a short length of rope in a field nearby</u>.（L48）
+  ✎ …… it is quite reasonable to regard the sea floor as the basic form of the crust of the earth, <u>**with**, superimposed upon it, the continents, together with the islands and other features of the oceans</u>.（B4L30）（为避免头重脚轻，语序调整为了：with + 非谓语动词 + 逻辑主语）
+  ┏ He came in and carried a book.（并列句，两个动作重要性一样）
+  ┗ He came in <u>carrying a book</u>. （突出“came in”）
+  ┏ He came in and a book was in his hand.
+  ┗ He came in <u>(with) a book (being) in his hand</u>.（突出“came in”）
+
++ **roar** （狮子、老虎等的）咆哮，吼叫；（机器、汽车等的）低沉的轰鸣
+  ✎ The <u>roar</u> of airplane engines announced a coming air raid.
+  A.roar；B.exclamation；C.whistle；D.scream（四级真题）
+> 仿写第2段第1句
+  宁静突然被打破，一个凶恶的家伙，瞪着眼晴拿着枪，闯进了银行。
+  The silence was suddenly broken when a tough guy, with his eyes glaring and a gun in his hand, broke into the bank.
++ **come to a <u>stop/ halt</u> = <u>stop/ halt</u>** 停，停了下来
+  ✎ Bruce charged at it, but in the middle, the car <u>came to a grinding halt</u>.（L39）
+  + 同结构表达：
+    come to an end = end
+    come to a close = close
+    come to a decision = decide
+    come to a conclusion = conclude
++ **stay at the wheel**: be at the wheel 在驾驶室里（固定搭配，直译为待在方向盘那里）
++ **while** **而**，一般在句中，与前半句构成对比
+  ✎ He must be over 60, <u>while/ whereas</u> his wife looks about 30. 他准是超过60岁了，而他妻子看起来30左右。（whereas更正式）
+  + “while”的其它释义
+    ◇ **当某时**，一般在句首，引导时间状语从句
+    ◇ **尽管，虽然**，一般在句首，引导让步状语从句（其从句常为现在时）
+    ✎ <u>While</u> she is a likable girl, she can be extremely difficult to work with. 尽管她是个可爱的女孩，但是跟她共事是非常困难的。
+    ✎ <u>While</u> they enjoy the comfort and banal luxury of their dwelling, they do not realize that they are deprived of the necessities of life.（B4L16）
+    ✎ <u>While</u> the quality of legal journalism varies greatly, there is an undue reliance amongst many journalists on interpretations supplied to them by lawyers. <u>While</u> comment and reaction from lawyers may enhance stories, it is preferable for journalists to rely on their own notions of significance and make their own judgments.
+    尽管有关法律方面的新闻报道的质量差异很大，很多记者过分地依赖于律师提供给他们的解释。尽管来自于律师的评论和反馈可能会改善新闻报道的质量，但是记者应该依赖于自己对于重要性的理解以及亲自做出判断。（考研翻译）
+    ✎ <u>While</u> Washington and Jefferson privately expressed distaste for slavery, they also understood that it was part of the political and economic bedrock of the country they helped to create.
+    尽管华盛顿和杰斐逊在私下里表达过对奴隶制的厌恶，但他们同时也理解奴隶制是帮助建立的国家的政治和经济基石的一部分。（2008考研真题-阅读）
++ **go on** 某事发生（L2）
+  = 与此同时
+  **at the same time**
+  **meanwhile**
+  **(in the) meantime**（参见L5。meantime 单独使用时，作副词；组成短语使用时，作名词）
++ **<u>begin/ start</u> doing** 开始做某事
+  **= <u>begin/ start</u> to do** （区别不大，一般来说，主动发出的行为用“doing”好一些；客观发生的事用“to do”好一些。）
+  ✎ Many of the tourists on board had <u>begun bargaining</u> with the tradesmen, ……（L28）
+  ✎ It <u>began to rain</u>. 天开始下雨了。
+  ✎ During the journey, the boat <u>began to sink</u>.（L12）
++ **flying** 飞也似地（非谓语动词作方式状语）（注意不要把这里的go doing连系在一起）
+  ✎ The boy went <u>running</u> to meet him. 男孩跑着去迎接他。
+  ✎ The girl came <u>bouncing</u> to tell me the news. 女孩蹦蹦跳跳地来告诉我这个消息。
++ **be busy doing sth.** 忙于做某事
+  **= be busy with sth.**
+  ┏ They <u>are busy preparing</u> for the wedding. 他们忙于筹备婚礼。
+  ┗ They <u>are busy with preparations</u> for the wedding. 他们正在忙于婚礼的筹备工作。
++ **too…… to……** 
+  **be too busy doing sth. to do sth.** 太忙于做某事，而没能够……
+  ✎ He <u>was too busy working to notice</u> us come in. 他太忙于工作，没有注意到我们进来了。
++ 指 **非常忙碌** 的表达
+  + **be up to one’s <u>neck/ ears/ eyes</u> in……** 忙于……（口语习语）
+    ✎ He <u>is up to his ears in</u> work. 他忙于工作。
+    ✎ M: Can you come over for dinner tonight?
+    W: I<u>’m up to my ears in</u> work, so I’ll have to take a rain check.（take a rain check 改日，择期(习语)）
+    Q: What does the woman mean?
+    Answer: She’d enjoy coming to dinner another time.（托福听力真题）
+  + **be wrapped up in……** 忙于……
+  + **be absorbed in……** 全神贯注于……
+  + **be immersed in……** 沉浸在……中
+    ✎ He <u>is</u> totally <u>immersed in</u> the novel. 他完全沉浸在小说里了。
+    ✎ In the new country he <u>became absorbed in</u> making a new life for the two of us, so that he gradually ceased to grieve.（L57）
++ **help oneself to sth.**
+  **①不用客气，请便吧**
+  ✎ <u>Help yourself to</u> a beer. 自己倒杯酒喝吧。（beer不可数，但口语中可以说a beer，相当于书面语中的a glass of beer或a jar of beer）
+  **②抢，偷**（本文）
+  ✎ They <u>helped themselves to</u> the farmer’s apples. 他们偷/抢走了这些农民的苹果。
++ **in + 一段时间** 花费了多长时间，~~在多长时间之内~~
+  ✎ The raid was all over <u>in three minutes</u>,…… 用了3分钟（~~在3分钟之内~~）（本文）
+  ✎ The birds covered the distance <u>in three minutes</u>.（B2L5）
+  + 在3分钟之内：
+    **within three minutes**
+    **under three minutes**
++ **scramble** 仓皇地跑
+  ✎ As the burning plane landed, the terrified passengers <u>scrambled</u> for the door. 当这架起火的飞机着陆时，惊慌失措的乘客们仓皇地向门跑去。
++ **speed** 以……的速度
+  1. speed做不可数名词时，与at, with搭配均可
+    ✎ <u>at/ with</u> great speed 以非常快的速度
+  2. speed做可数名词时，只能与at搭配
+    ✎ <u>at</u> a speed of 60 mph 以时速60英里
++ **run after** 追逐，追求（固定习语）
+  **= chase**
+  ✎ Instead of studying, he wastes his time <u>chasing</u> girls. 本该好好学习的，他却浪费时间来追女孩子。
+  ✎ one month ago he was busy chasing me，while now he is busy cheating me.（自编）
+  近义词：
+  **pursue**
+  ✎ The thief ran across the field, with an officer <u>pursuing</u> him. 贼跑过了农田，后面还有一个警察在追他。
++ **impossible**
+  possible和impossible这样的词，其主语不能是具体的某个人，而一般是形式主语it
+  【✘】…… <u>he</u> was <u>impossible</u> to stop the thieves.
+  【✔】…… <u>it</u> was <u>impossible</u> to stop the thieves.（原文）
+  【✘】<u>I</u> was <u>impossible</u> to finish it.
+  【✔】<u>It</u> is <u>impossible</u> for me to finish it. 我不可能完成这件事。
++ **金钱 + worth of + 物品** 价值多少金钱的东西（ 此worth作名词）
+  ✎ one billion dollars <u>worth of</u> merchandise 价值10亿美元的商品
+  ✎ fifty pence <u>worth of</u> trouble（L15）
+  ✎ I just bought 50 yuan <u>worth of</u> groceries. 我刚刚买了50块钱的杂货。（“just”在英式英语中，一般用于完成时；在美式英语中无此限制。如此句用于一般过去时。用汉语拼音构成的单位，其单复数同形，如：元、角、分、里、亩、顷等。）
+
+---
+
+## **Lesson 7 - Mutilated ladies***
+### **课文原文**
+<font color=gray size=4>Has it ever happened to you? Have you ever put your trousers in the washing machine and then remembered there was a large bank note in your back pocket? When you rescued your trousers, did you find the note was whiter than white? People who live in Britain needn’t despair when they make mistakes like this (and a lot of people do)! Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with claims from people who fed their money to a machine or to their dog. Dogs, it seems, love to chew up money!
+
+A recent case concerns Jane Butlin whose fiancé, John, runs a successful furniture business. John had a very good day and put his wallet containing £3,000 into the microwave oven for safekeeping. Then he and Jane went horse-riding. When they got home, Jane cooked their dinner in the microwave oven and without realizing it, cooked her fiancé’s wallet as well. Imagine their dismay when they found a beautifully-cooked wallet and notes turned to ash! John went to see his bank manager who sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilate Ladies! They examined the remain and John got all his money back. ‘So long as there’s something to identify, we will give people their money back,’ said a spokeswoman for the Bank. ‘Last year, we paid £1.5m on 21,000 claims.’ 
+
+*Damaged bank notes. The Queen’s head appears on English bank notes, and ‘lady’ refers to this.</font>
+
+
+### 🌻 **单词讲解**
++ **mutilate** v. 使（某人或某物）残缺不全
+  ✎ He was <u>mutilated</u> in a car accident and lost one arm. 他因一次车祸而致残，失去了一只胳膊。（指人）
+  ✎ The painting has been <u>mutilated</u> by a boy. 这幅画被一个小男孩弄得残缺不全了。（指物）
+  + 近义词（指人）：
+    **main** 使某人身负重伤
+    ✎ One man has lost his life; another has been <u>maimed</u>. 一个人死了，另一个人身负重伤。
+    **paralyse[英]/ paralyze[美]** 使某人瘫痪；使（经济）瘫痪（派生）
+    ✎ The accident left him <u>paralyzed</u> from the waist down. 这场事故使他腰部以下瘫痪了。
+    **cripple** 使某人瘸了；瘸子
+    **disable** 使某人残疾
+    the disabled = the handicapped 残疾人
+    ┏ the physically challenged 残疾人（委婉的称呼）
+    ┗ the mentally challenged 弱智人（委婉的称呼）
+    ┏ the horizontally challenged 肥胖症患者（委婉的称呼）（**horizon** 地平线；**horizontal** 水平的）
+    ┗ the vertically challenged 侏儒症患者（委婉的称呼）（**vertical** 垂直的）
++ **chew** v. 咀嚼
+  ✎ Here, take this pill, and don’t <u>chew</u> it.
+  Answer: Swallow this tablet.（托福听力）
+  + 相关词；
+    **bite** 咬
+    ✎ bite off more than one can chew 试图去做超出自己能力的事（咬得比一个人能嚼的还多）
+  + 表示“ 吞，咽 ”的词
+    **swallow** 吞、咽；燕子
+    **gobble** 狼吞虎咽
+    **devour** 狼吞虎咽
+    ✎ Only two stray dogs benefited from all this confusion, for they greedily <u>devoured</u> what was left of the cake.（L33）
+    **nibble** 小口咬
+    ✎ Eagles catch snakes that <u>gobble</u> toads that <u>swallow</u> insects that <u>nibble</u> green leaves. 鹰抓蛇，蛇吞蛙，蛙吞虫，虫食叶。
++ ┏ **fiancé** n. 未婚夫
+  ┗ **fiancée** 未婚妻
+  ┏ **husband-to-be** 未婚夫（准丈夫）
+  ┗ **bride-to-be** 未婚妻（准新娘）
+  ┏ **groom/ bridegroom** 新郎
+  ┗ **bride** 新娘
+  ┏ **bridesmaid** 女傧相；**maid of honor** 伴娘
+  ┗ **groomsman** 男傧相；**best man** 伴郎
+  **newlyweds, happy couple** 新婚夫妇
+  ✎ Armed with the right tools and materials <u>newlyweds</u> gaily embark on the task of decorating their own homes.（L46）
++ **oven** n. 炉灶（无明火的那种，如微波炉、烤箱等）
+  microwave oven 微波炉
+  stove 火炉；暖炉（取暖用）
+  gas cooker 煤气灶
+  fireplace 壁炉
+  furnace 锅炉，熔炉
++ **spokeswoman** n. 女发言人
+  **spokesman** 男发言人（原先没有女发言人，此词用得多，现在女性社会地位提高，女发言人变多，为避免性别歧视，不大用了）
+  **spokesperson** 发言人（一般指男发言人。弱化性别，避免引起歧视，以显对女性的尊重）
+  + 类似构词词汇
+    **chairman** 主席
+    **chairwoman**
+    **chairperson**
+    ✎ W: The dean just announced that Dr. Jeffries is going to take over as <u>Chairperson</u> of the English Dept.
+    M: I knew it all along. He was the obvious choice.
+    Q: What does the man mean?
+    Answer: He thought Dr. Jeffries would get the job.（听力）
+
+
+### 🕹️ **课文讲解**
++ **happen** 发生
+  
+  **sth. happen to sb. = sth. come up to sb.** 某事发生在某人身上（本文）
+  ┏ Has it ever <u>happened to</u> you?（原文）
+  ┗ Has it ever <u>come up</u> to you?（原文换用）
+  + 辨1：**happen to do** 碰巧……（见L3笔记）
+  + 辨2：**occur** 发生
+    **sth. occur to sb.** 某人想到了某事（~~某事发生在某人身上~~）
+    ┏ A car accident <u>happened to</u> him. 他出车祸了。
+    ┗ A good idea <u>occurred to</u> me. 我想到了一个好主意。
++ **remember** 回忆
+  **remember/ recall/ recollect sth.** 回忆起来某事
+  **remind sb. of sth.** 使某人回忆起某事（L1）
+  ✎ We can perhaps forgive those who said the moons of Jupiter were produced by Galileo’s spyglass if we <u>recall</u> that in his day, as for centuries before, curved glass was the popular contrivance for producing not truth but illusion, untruth; and if a single curved glass would distort nature, how much more would a pair of them?（B4L32）
+  ✎ She could no longer <u>recollect</u> the details of the letter. 她已无法回忆起这封信的细节了。
+  ✎ As its composition and line <u>reminded</u> him <u>of</u> an Italian painting he knew well, he decided to buy it.（L34）
++ **bank note** 纸钞
+  **= banknote = note** [英][C]
+  **= bill** [美][C]
+  ✎ a <u>fake/ counterfeit</u> $20 <u>bill</u> 一张20美元的伪钞
+  ✎ Bill（昵称）/ William（学称），用作人名（使用此名的人：美国总统克林顿，微软比尔盖茨）
+  + 相关词：
+    **coin** [C] 硬币
+    **change** [U] 零钱
+    ✎ I carry no <u>change</u> on me. 我身上没带零钱。
++ **rescue/ save** 救，拯救（救物救人都可）
+  ✎ When a passing tanker <u>rescued</u> them five days later, both men were genuinely sorry that they had to leave.（L12）
+  + 搭配：
+    **rescue…… from……** 从……中救出来（动词搭配）
+    ✎ Wow! Have you ever <u>rescued</u> anyone <u>from</u> a burning building before?（《老友记》）
+    **<u>come/ go</u> to one’s rescue** 来/去救某人（名词搭配）
+    ✎ When John was in trouble, everyone <u>went to his rescue</u>. 当约翰有麻烦时，每个人都赶去救他。
+  + 近义表达：
+    **pick up sb.** （用飞机、轮船）搭救某人；（从机场、火车站）把某人接回来
+    ✎ The ‘Antoinette’ floated on the water until Latham <u>was picked up</u> by a ship.（L20）
+    **salvage…… from……** 从……中把……救出来（仅指救东西，不能指救人）
+    ✎ He tried desperately to <u>salvage</u> belongings <u>from</u> the burning house. 他拼命地试着从着火的房子里把他的财产救回来。
+    ✎ The captain of the *Elkor* ordered his men to <u>salvage</u> as much as possible <u>from</u> the wreck.（L32）
+    **saviour/ savior** 救星，救命恩人 = **a knight in shining armor**（习语）
+    ✎ I don’t know who you are, Nick. You just magically show up like <u>some knight in shining armor</u>, ready to save the day……（《越狱》）（save the day 力挽狂澜）
+
+#### 👾 **鼻腔爆破 nasal explosion**
+**[t] / [d] + [n]**
+✎ Britain, mutton, certain, mountain, didn’t, student
+
++ **despair**
+  + **v.** 绝望
+    **despair of sb.** 对某人绝望
+    **despair of (doing) sth.** 对（做）某事绝望
+    ✎ The teachers began to <u>despair of</u> him. 老师们已经开始对他绝望了。
+    ✎ Mike <u>despaired of</u> ever seeing her again. 麦克对再次见到女孩已经绝望了。
+  + **n.** 绝望
+    **in despair** 绝望地
+    ✎ He killed himself <u>in despair</u>. 他绝望地自杀了。/他在绝望中自杀了。（自译）（“in” 可否表示“陷入”？）
+    ✎ I gave up <u>in despair</u>.（L46）
+    ✎ I got up early next morning hoping to find that the ants had given up <u>in despair</u>.（L54）
+    ✎ With this faith, we will be able to hew out of <u>the mountain of despair</u> a stone of hope. 有了这个信仰，我们就能从绝望的大山中砍下一块希望的石头。（马丁路德金演讲《我有一个梦想》）
++ ┏ …… (and a lot of people do)（原文）
+  ┗ …… and a lot of people despair when they make mistakes like this.（原文展开）
++ **deal with……** 处理，应付，解决
+  ✎ W: I had to <u>deal with</u> so many courses last term that I really had a hard time.
+  M: I told you it would be better for you if you took fewer courses during the first semester.
+  Q: What do we learn about the woman?
+  Answer: She took too many courses during her first term.（四级听力）
+  + 近义表达
+    **attend to……**（表示应付比较难处理的问题）
+    ✎ You hang up hurriedly and <u>attend to</u> baby, crockery, etc.（hang up 挂断电话）（L33）
+    **= see to……**
+    ✎ Don’t worry about it. I’ll <u>see to</u> it later. 不必担心。一会儿我来处理。
+    **handle……**
+    ✎ Molly, I need your special talent for <u>handling</u> special matters. 莫莉，我需要你特殊的才能去处理特殊的事情。（《走遍美国》）
+    **tackle……**
+    ✎ Many schools are now trying to <u>tackle</u> the problem of drug abuse. 很多学校现在都在努力解决滥用毒品的问题。
+    **cope with……**
+    a seminar on ‘<u>coping with</u> stress in the workplace’ 一个关于“处理工作场所的压力”的研讨会
++ **feed**
+  **喂养**
+  ┏ **feed sth. to sb.** 把某物喂给某人吃
+  ┗ **feed sb. on sth.**
+  ┏ I <u>fed</u> raw meat <u>to</u> the dog. 我把生肉喂给狗吃。
+  ┗ I <u>fed</u> the dog <u>on</u> raw meat.
+  ✎ Well-fed, well-bred. 仓廪实而知礼节。（谚语）
+  **投币**
+  ✎ She <u>fed</u> two coins into the machine for a cup of coffee.
+
+#### 👾 **轭式修辞 zeugma**
+一个动词与多个名词搭配，表示不同的含义。如本文feed，先指“把某物喂给某人吃”，后指“投币”。
+✎ Clothes that **fit** <u>the man</u> and <u>the times</u> 既合身又时尚的服装（纽约时报-一则新闻标题）
+✎ You’re free to **execute** <u>your laws</u>, and <u>your citizens</u>, as you see fit. 如果你要觉得合适的话，你可以随意地**执行**你的法律，**处死**你的公民。（as you see fit 如果你觉得合适的话(习语)）（《星际旅行》）
+
++ **chew up**（up表示彻底性）
+  ┏ chew 嚼
+  ┗ chew up 嚼烂
+  ┏ eat 吃
+  ┗ eat up 吃光
+  ┏ use 用
+  ┗ use up 用光
+  ┏ sweep 扫地
+  ┗ sweep up 扫得干干净净
++ **重要内容放主句中，次要内容放从句或插入语中。**
+  第1段最后一句的另一种写法：It seems that dogs love to chew up money.
+  评价：“seems”成为了重点，而非从句“狗喜欢嚼钱”，主次有误。
+  原文写法评价：“it seems”作**插入语**，重要程度低，可重点表达主句“狗喜欢嚼钱”意。
+  ┏ Why, you may wonder, should spiders be our friends?（B4L2）【主次得当】
+  ┗ You may wonder why spiders are our friends. 【主次有误】
+  ┏ Economic development, many of us believe, is of paramount importance to China.
+  ┗ Many of us believe that economic development is of paramount importance to China.
+  我们很多人相信，经济发展对中国来说至关重要。
++ **concern** 有关于（偏正式）
+  **concern…… = be about……** 有关于……（偏通俗）
+  ┏ A recent case <u>concerns</u> Jane Butlin……（原文）
+  ┗ A recent case <u>is about</u> Jane Butlin……（原文换用）
+  ✎ To whom it may <u>concern</u>, 致有关人士（书信）
+  ✎ One case <u>concerns</u> an eleven-year-old schoolgirl, Vera Petrova, who has normal vision but who can also perceive things with different parts of her skin, and through solid walls.（B4L4）
+  ✎ A recent piece of news concerns LuoJing, a popular CCTV newscaster, who died of cancer. 最近一则新闻是有关于罗京，中央电视台的一位著名播音员，因癌症而去世。
+  **concern…… = be concerned with……** （主动被动意思一样）
+  ✎ The book <u>concerns</u> music. 这本书与音乐相关。（主动）
+  = The book <u>is concerned with</u> music.（被动）
+  = a book <u>concerning</u> music （短语形式：非谓语动词作后置定语）
+  = a book <u>concerned with</u> music （短语形式：同上）
++ **run**: be in charge of (sth); manage 经营，管理
+  run a hotel/ shop/ language school 经营一家宾馆/商店/语言学校
+  ┏ John, <u>runs</u> a successful furniture business.（原文）
+  ┗ John <u>manages</u> a successful furniture business.
+  ┗ John <u>is in charge of</u> a successful furniture business.（类课后题-9）
++ **go -ing** 去做某事
+  go fishing 去钓鱼
+  go hunting 去打猎
+  go camping 去露营
+  go bowling 去打保龄球
+  go sight-seeing 去观光
+  go mountain-hiking 去爬山
++ ┏ …… without realizing it,……（原文）
+  ┗ …… without knowing it,……
+  ┗ …… without being aware of it,……
++ **dismay**: both shocked and discouraged 既震惊又沮丧
++ **turn** 
+  + **turn <u>to/ into</u>……** 变成……
+    **= change into……**
+    **= become**
+    这只毛毛虫最终变成了一只美丽的蝴蝶。
+    ↳ The caterpillar eventually <u>turns to/ into</u> a beautiful butterfly.
+    ↳ The caterpillar eventually <u>changes into</u> a beautiful butterfly.
+    ↳ The caterpillar eventually <u>becomes</u> a beautiful butterfly.
+  + turn表示“变成……”时，其后一般+形容词作表语；如果 **+名词**，作表语，则**表示职务、职业、身份的改变，且名词前不能加冠词**。
+    ✎ The teacher <u>turned</u> writer. 这位老师后来成为了一名作家。
+    ✎ He has <u>turned</u> traitor. 他已经成了叛徒。
+    ✎ Jane discovered that the £3,000 had <u>become</u> ash.（课后题-10）
++ **imagine one’s…… when……** 想象一下某时，某人的某种情况/表现
+  ✎ <u>Imagine his</u> dismay <u>when</u> he found he took the wrong train. 想象一下，当他发现自己坐错了车的时候的那种沮丧吧。
+  ✎ <u>Imagine her</u> exultation <u>when</u> she received the admission notice from Beijing University. 想象一下，那个女孩在收到北大录取通知书的时候那种欢欣鼓舞的感觉吧。
+
+#### 👾 **接续性分句 continuative clause**
+  状语从句发挥副词功能，名词性从句发挥名词功能，基本名副其实。但定语从句未必发挥形容词（定语）的功能，有时候相当于并列句，有时候甚至相当于状语从句。所以定语从句也被称为“接续性分句”。
+  + 第2段第6句的另一种写法：
+    John went to see **his bank manager** <u>and **the manager**</u> sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilated Ladies!
+    （不过这样改成并列句之后，比原句啰嗦）
+  + 用定语从句代替其他句子必须满足一个条件：上半句末尾的名词或名词短语（bank manager）必须是下半句中的成分（bank manager作主语）
+    ↓ He violently beat **the boy** <u>and **the boy**</u> later died from his injuries. 
+    ↳ He violently beat the boy <u>**who**</u> later died from his injuries. 发挥并列句功能
+    他非常暴力地打了这个男孩，后来男孩因为外伤死掉了。
+    ✎
+    ↓ We can read of things that happened 5,000 years ago **in the Near East**, <u>because people first learned to write **there**</u>.
+    ↳ We can read of things that happened 5,000 years ago in the Near East, <u>**where** people first learned to write</u>.（B4L1）发挥原因状语从句功能
+    ✎
+    ↓ Don’t sit on **the chair** <u>because **it** has a broken leg.</u>
+    ↳ Don’t sit on the chair <u>**which** has a broken leg</u>. 发挥原因状语从句功能
+    不要坐那个椅子，因为它有一根腿断了。
+    ✎
+    ↓ I have to be very careful not to offend **the manager** <u>because **he** could give me the sack at any time</u>.
+    ↳ I have to be very careful not to offend the manager <u>**who** could give me the sack at any time</u>.（give sb. the sack 把某人炒鱿鱼(习语)）发挥原因状语从句功能
+    我必须非常小心不要去招惹经理，因为他随时可以解雇我。
+    ✎
+    ↓ History books never mention **those people** <u>although **they** really helped civilization forward</u>.
+    ↳ History books never mention those people <u>**who** really helped civilization forward</u>. 发挥让步状语从句功能
+    历史书上从来没有提过那些人，尽管确实帮助文明在前进。
+
++ **special** 
+  ◇ 特殊的，特别的，与众不同的
+  ◇ 专门的，专用的（本文）
++ **<u>as/ so</u> long as + 从句** 只要……（引导条件状语从句）
+  + 辨：**as long as + 名词/名词短语** 像……一样长
+  + 表示“ **只要……** ”的更多表达：
+    都可以当连词，都可以引导条件状语从句
+    **<u>provided/ providing</u> (that) ……**
+    **on condition (that) ……**
+    ✎ You’ll be quite safe <u>as long as</u> you follow my instructions. 只要你按照我的指令去做，你就会相当安全。
+    ✎ He can come with us, <u>provided/ providing (that)</u> he pays for his own meals. 他可以跟我们一块去，只要自己掏饭钱。
+    ✎ I’ll lend you the money <u>on condition (that)</u> you pay it back within three weeks. 我会借给你钱，只要你保证在三个礼拜之内还给我。
+  + 表示“ **只有……** ”的表达（比“只要……”限制更窄）：
+    **only if……**
+    ┏ she will go <u>only if</u> he goes. 只有他去，她才去。
+    ┗ <u>Only if</u> he goes <u>will</u> she go.（“only+状语”位于句首，则后面要用部分倒装。详见L5笔记）
++ **for** the Bank
+  **for + 就职的公司名称**（正式场合不用in，at）（详见L4笔记）
++ on 关于
++ 用直接引语时，如果想突出说话内容，不想突出说话的人，可以把说话内容一分为二，把“某某人说”放在中间。
+  ✎ ‘I’m trying to repair the bell,’ <u>answered Bill</u>. ‘I’ve been coming up here night after night for weeks now. You see, I was hoping to give you a surprise.’（L2）
+  ✎ ‘You certainly did give me a surprise!’ said the vicar. ‘You’ve probably woken up everyone in the village as well. Still, I’m glad the bell is working again.’（L2）
+
+#### 👾 **如何写出优秀的解释说明类文章（exposition）**
+1. 语言生动活泼，充满趣味性；
+2. 用词准确清晰，避免模棱两可；
+3. 抽象说明与具体例证相结合。
+
+本文脉络（经典的解释说明类文章）：
+第一段：三个设问句引起读者兴趣并引入主题：残钞鉴别组，并确切地说明其作用。语言充满趣味性。
+第二段：给出具体例证。描述清晰，语言风趣，句式多变。
+
+---
+
+## **Lesson 8 - A famous monastery**
+### **课文原文**
+<font color=gray size=4>The Great St. Bernard Pass connects Switzerland to Italy. At 2,473 metres, it is the highest mountain pass in Europe. The famous monastery of St. Bernard, witch was founded in the eleventh century, lies about a mile away. For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass. These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times. Now that a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty. Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.
+
+During the summer months, the monastery is very busy, for it is visited by thousands of people who cross the Pass in cars. As there are so many people about, the dogs have to be kept in a special enclosure. In winter, however, life at the monastery is quite different. The temperature drops to -30° and very few people attempt to cross the Pass. The monks prefer winter to summer of they have more privacy. The dogs have greater freedom, too, for they are allowed to wander outside their enclosure. The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter. These young people, who love the peace of mountains, always receive a warm welcome at St. Bernard's monastery.</font>
+
+
+### 🌻 **单词讲解**
++ **monastery** n. 修道院（主要指基督教场所）
+  + 其它宗教场所
+    temple 寺院，庙，道观（基督教之外）
+    mosque 清真寺
+    nunnery / convent 女修道院
+    church 教堂
+    cathedral 主教教堂，大教堂
+  + 宗教人员的称谓
+    monk 修道士，和尚，道士（不分宗教，都可用）
+    nun 修女，尼姑
++ St. Bernard 圣伯纳德（地名）
+  St. → saint 圣徒；Bernard原是一位圣徒的名字
+  St. Andrew’s Road 圣安德鲁大街
+  St. Paul’s Cathedral 圣保罗大教堂
+  St. Valentine’s Day 圣瓦伦丁节（情人节）
++ **rashly** ad. 莽撞地，冒失地
+  **rash** a. 鲁莽的；冒失的（强调不考虑后果）
+  ✎ a <u>rash</u> decision 一个鲁莽的决定
+  ✎ Don’t make <u>rash</u> promises. 不要轻易许诺。（不要许下轻率的诺言。）
+  + 近义词：
+    **reckless**（更强调不顾可能出现的风险）
+    ✎ He was fined $100 for <u>reckless</u> driving. 他因鲁莽驾车被罚款一百美元。（fine 罚款）
+    **impulsive** a. 冲动的，头脑发热的；**impulse** n. 冲动
+    ✎ She’s so <u>impulsive</u> —— she saw the house for the first time and said she’d buy it straight away. 这个女孩太冲动了——她第一眼看见那座房子就说要马上买下来。（straight away = right away =at once 立即，立刻，马上）
++ **enclosure** n. 围场，圈地
+  enclosure movement 圈地运动
+  **enclose** v. 包围，环绕（**en-& in-** 进来）
+  **be enclosed by……** 被……包围/环绕起来（被动搭配比较常见）
+  ✎ The garden <u>was</u> completely <u>enclosed by</u> a high wall. 这所花园被一堵高墙完全包围起来了。
+  + 近义搭配：
+    **be surrounded by……**（su- &sur- 在外围，在下方；round 一圈）
+    ✎ She said that she wanted to die <u>surrounded by</u> the people she loves. 她说她想在被她所爱的人的环绕中死去。
+    **be besieged by……**（表示部队、军队的包围）；**besiege** 围攻
+    ✎ Troy <u>was besieged by</u> Greeks. 特洛伊城被希腊人包围。
++ **privacy** n. 清净，隐私，个人自由
+  **<u>protect/ respect/ invade</u> sb.’s privacy** 保护/尊重/侵犯某人的隐私
+  **private** a. 私人的
+  ✎ a <u>private</u> conversation / collector 一次私人谈话/一个私人收藏家
+
+
+### 🕹️ **课文讲解**
++ **connect A <u>with/to</u> B** 把A和B连接起来（物理上、心理上的连接）
+  ✎ The Channel Tunnel has connected Britain with mainland Europe for the first time. 这个海峡隧道第一次把不列颠和欧洲大陆连接到了一块。
+  + 近义结构：
+    **link A <u>with/ to</u> B**（物理上、心理上的连接、联系）
+    ✎ There is no evidence to <u>link/ connect</u> him <u>with</u> the murder. 没有任何证据可以把他和这起谋杀案联系起来。
+    **join A to B** （仅**物理**上的连接、联系）
+    ✎ The Verrazano Bridge, which was designed by Othmar Ammann, <u>joins</u> Brooklyn <u>to</u> Staten Island.（L17）
+    **associate A with B**（仅**心理**上的连接、联系）
+    **relate A to B**（仅**心理**上的连接、联系）
+    ✎ There are countless people who, ever since their early years, have learned to <u>associate</u> snails <u>with</u> food.（L23）
++ **Switzerland** 瑞士
+  读音：单词中间的发音类似“呲” ✎ pizza, Nazi
++ **at……** 有……高（表示海拔，高度）
+  **= at an altitude of……**（全写）
++ **“Being”出现在非谓语动词或独立主格中时，可省略**
+  原文写全了：Being at 2,473 meters, ……
+> 仿写第2句
+  4807米的勃朗峰(Mont Blanc)是阿尔卑斯山脉(the Alps)的最高峰。
+  At 4,807 meters, Mont Blanc is the highest peak of the Alps.
+  因为只有35岁，他是这所大学里最年轻的教授。
+  At the age of 35, he is the youngest professor at the university.
++ The famous monastery **of** St. Bernard
+  **of 引出地点名**（详见L3笔记）
+  ✎ the Aegean island <u>of</u> Kea（L3）
+  ✎ the promontory <u>of</u> Ayia Irini（L3）
+  ✎ the tiny village <u>of</u> Perachora（L16）
++ **found** 建造于……
+  + 近义替换 **“追溯到……”**：
+  **① date from……**
+  ✎ The body of one statue was found among remains <u>dating from</u> the fifteenth century B.C.（L3）
+  **② date back to……**
+  **③ can be traced back to……**
+  ↓ …… witch was founded in the eleventh century……（原文）
+  ↳ …… witch <u>dates from</u> the eleventh century……
+  ↳ …… witch <u>dates back to</u> the eleventh century……
+  ↳ …… witch <u>can be traced back to</u> the eleventh century……
++ **lie** 坐落（详见L3笔记）
+  + 同义词：
+    **stand**
+    ✎ An American team explored a temple which <u>stands</u> in an ancient city on the promontory of Ayia Irini.（L3）
++ for 一般搭配完成时
++ St. Bernard dogs 圣伯纳德犬
++ **cross** 穿越
+  + **cross + 宾语 + 方式状语** 用某个方式穿越某地
+    ✎ cross the pass on foot 徒步穿越（下文）
+    ✎ cross the pass in cars 驾车穿越（下文）
+  + “穿越某个地方”的其它表达：**动词（包含方式） + across（介词） + 宾语**
+    ✎ They quickly loaded a small rubber dinghy with food, matches, and cans of beer and <u>rowed</u> for a few miles <u>across the Caribbean</u> until they arrived at a tiny coral island.（L12）
+    ✎ In 1908 Lord Northcliffe offered a prize of £1,000 to the first man who would <u>fly across the English Channel</u>.（L20）
+    ┏ <u>cross</u> the pass <u>on foot</u>（原文）
+    ┗ <u>walk</u> <u>across</u> the pass（换用动词+介词）
+    ┏ <u>cross</u> the pass <u>in cars</u>（原文）
+    ┗ <u>drive</u> <u>across</u> the pass
+    ┏ <u>row</u> <u>across</u> the Caribbean（L12）（反向换用）
+    ┗ <u>cross</u> the Caribbean <u>by boat</u>
++ **friendly**
+  + 友好的
+    **名词 + ly = 形容词**
+    ✎ friend → friend<u>ly</u> 朋友般的，友好的
+    ✎ mother → mother<u>ly</u> 母亲般的
+    ✎ brother → brother<u>ly</u> 兄弟般的
+    ✎ miser 吝啬 → miser<u>ly</u> 吝啬的
+  + 无害的（尤其用于复合形容词）
+    ✎ environment-<u>friendly</u> 环保的
+    ✎ ozone-<u>friendly</u> 对臭氧层无害的
++ **bring…… from……** 从……带来……
+  近义搭配：
+  **introduce…… from……** 从……引进……
+  ┏ …… which were first brought from Asia……（原文）
+  ┗ …… which <u>were introduced from</u> Asia……（原文换用）
+  ✎ The grey squirrel <u>was introduced</u> into Britain <u>from</u> North America. 灰松鼠是从北美洲引进到英国的。
+  ✎ In the early days of the settlement of Australia, enterprising settlers unwisely <u>introduced</u> the European rabbit.（B4L17）
++ **be used as……** 被当作……来用（详见L3笔记）
+  ┏ …… <u>were used as</u> watchdogs……（原文）
+  ┗ …… <u>act/ serve/ function as</u> watchdogs……（原文同义替换）
++ **in Roman times** 在罗马时代（详见L3笔记）
+  在某个时代/时期
+  in modern/ recent/ ancient/ prehistoric times
++ **now (that)** conj. 同时表示时间和原因
+  通常搭配现在时（一般现在时或现在完成时）
+  ✎ <u>Now (that)</u> you are a big boy you must behave better. 因为/现在你已经是大孩子了，你必须表现得更好一些。
++ **tunnel** n. 隧道，地道（人工开凿）
+  ✎ the Channel <u>Tunnel</u> 海峡隧道
+  **canal** n. 运河（人工挖掘）
+  ✎ the Panama <u>Canal</u> 巴拿马运河
++ **whenever**
+  **疑问词 + ever** 的含义（参见L1、L2笔记）
+  1. 表示“**到底……**”，引导疑问句；
+    ✎ ‘<u>Whatever</u> are you doing up here Bill?’ asked the vicar in surprise.（L2）
+  2. 表示“**无论……**” 有2种情况
+  + **引导让步状语从句**（本文）
+    = no matter + 疑问词
+    ┏ <u>Wherever</u> it went, it left behind it a trail of dead deer and small animals like rabbits.（L1）
+    ┗ <u>No matter where</u> it went, it left behind it a trail of dead deer and small animals like rabbits.
+    ┏ ……, the dogs are still sent out into the snow <u>whenever</u> a traveller is in difficulty.（本文）
+    ┗ ……, the dogs are still sent out into the snow <u>no matter when</u> a traveller is in difficulty.
+  + **引导名词性从句**
+    ≠ no matter + 疑问词（此结构只能用于让步状语从句）
+    【✔】<u>**Whoever** wants to sign up for the course</u> is welcome. 任何想报名参加这门课程的人都欢迎。（“Whoever”引导的主语从句）
+    【✘】<u>**No matter who** wants to sign up for the course</u> is welcome.（“no matter + 疑问词”引导了让步状语从句，主句缺主语）
+    【✔】<u>**No matter who** wants to sign up for the course</u>，**he** is welcome.（补充主语即可）
+    【✔】<u>**Whoever** wants to sign up for the course</u>，**he** is welcome.（替换成“Whoever”也对，因为“Whoever”既可以引导让步状语从句也可引导主语从句）
+    ✎ 
+    【✔】<u>**Whatever** project he works on</u> is always successful. 无论他做什么样的项目，都会成功。
+    【✔】<u>**No matter what** project he works on</u>, **it** is always successful.
++ **attempt to do sth.** 设法/努力做某事
+  同义替换：
+  **try to do sth.**
+  **make an attempt to do sth.**
+  **make an effort to do sth.**
+  **seek to do sth. (fml.)**
+  ✎ But the historian <u>attempting to</u> reconstruct the distant past is always faced with a difficult task.（L38）
+  ✎ I <u>made an attempt to</u> apologize, but Brian wouldn’t even talk to me. 我试图道歉，但是布莱恩根本就不跟我说话。
+  ✎ Over a year passed before the first <u>attempt was made</u>.（L20）
+  ✎ It seems that man was <u>making a</u> real <u>effort to</u> understand the seasons 20,000 years earlier than has been supposed.（L38）
+  ✎ …… if, in a word, beauty means something, yet we must not <u>seek to</u> interpret the meaning.（B4L24）
++ **in cars = by car**
+  + **表示“使用某种交通工具”的介词短语，**
+    ┏ **“by”后要直接加单数名词；**
+    ┗ **“in”后的名词要有人称和数的体现。**
+    ✎ You can go to the airport <u>in my car</u>. 你可以坐我的车去机场。
+    ✎ We crossed the river <u>in a boat</u>. 我们乘一只小船穿越了这条河。
++  改写第2段第2句（复习L6独立主格结构）
+  ↓ <u>As there are so many people about</u>, the dogs have to be kept in a special enclosure.（原文）（as引导原因状语从句作原因状语）
+  ↳ <u>(With) so many people (being) about</u>, the dogs have to be kept in a special enclosure.（独立主格结构作原因状语）（本句逻辑主语不统一，不能用非谓语动词，能用**独立主格**结构）（同课后题-6）
++ **keep = confine** 把……关起来
+  ✎ He <u>was kept/ confined in</u> prison. 他被关到监狱里边去了。
+  ✎ You shouldn't <u>keep/ confine</u> the bird <u>in</u> a cage. 你不应该把这只鸟关在笼子里面。
++ **special** 特别的，特殊的；专门的，专用的（本文）
++ life **at** the monastery **在**修道院**的**生活
+  life **on** a desert island **在**荒岛上**的**生活（L12）
+  life **in** the army **在**部队中（军旅生涯）（L30）
+  life **on** campus **在**校园中**的**生活（校园生活）扩充：off campus 校园附近
++ **quite** 
+  + ad. 相当地，颇为（程度副词）
+  + ad. 完全，截然，彻底 **= completely**（本文）
+    ✎ The other side of the picture is <u>quite the opposite</u>. 截然相反（~~颇为相反~~）（L12）
+    ✎ He used to sleep during the day and work at night, <u>quite unaware</u> of the fact that he had become the ghost of Endley. 完全不知道（L30）
+    ✎ Long car journeys are even less pleasant, for it is <u>quite impossible</u> even to read. 完全不可能（L44）
+    ✎ We live in dread not only of unpleasant insects like spiders or wasps, but of <u>quite harmless</u> ones like moths. 完全无害（L54）
+    ✎ No two sorts of birds practise <u>quite the same</u> sort of flight; …… 完全相同（B4L23）
++ **drop** 下降
+  + 近义词
+    **fall**
+    ┏ The temperature <u>drops to</u> -30°……（原文）
+    ┗ The temperature <u>falls to</u> -30°……
+    ✎ Little by little the eleven minutes <u>fell to</u> zero.（L50）
+    **plunge** 骤降，暴跌；跳入水中
+    ✎ The order to abandon ship was given and hundreds of people <u>plunged</u> into the icy water.（L10）
+    ✎ The temperature <u>plunges to</u> -30°……
+    **dive to……** 骤降，俯冲；潜水
+  + 反义词
+    **increase to……** 上涨
+    **rise to……** 上涨
+    **rocket to……** 暴涨
+    **soar to……** 暴涨
+  + ┏ **drop to……** 下降到……
+    ┗ **drop by……** 下降了……
+    ✎ The temperature <u>drops by</u> 10° 温度下降了10度
++ **-30°** 读法
+  ① minus 30 degrees 负三十度
+  ② 30 degrees below zero 零下三十度
+  ✎ -30°C（摄氏度）：minus 30 degrees Centigrade/ Celsius
+  ✎ -30°F（华氏度）：minus 30 degrees Fahrenheit
++ **prefer A to B** 更喜欢A而不太喜欢B
+  ✎ I <u>prefer</u> mutton <u>to</u> beef. 我更喜欢羊肉，不大喜欢牛肉。
+  **prefer A rather than B**
+  ✎ I <u>prefer</u> mutton <u>rather than</u> beef.
+  + 更愿意做某事而不大愿意做某事
+    **① prefer doing to doing**
+    ✎ I <u>prefer</u> standing <u>to</u> sitting down. 我更喜欢站着，不喜欢坐着。（单说sit，一般用于训狗等情况，有失尊重）
+    ✎ W: Didn’t Marian go shopping with you yesterday?
+    M: Even if she hadn’t had a lot of studying, she would have <u>preferred</u> staying home <u>to</u> going shopping.
+    Q: What does the man imply about Marian?
+    Answer: She doesn’t like to go shopping.（托福听力真题）
+    **② prefer to do rather than do**
+    ✎ I <u>prefer to</u> stand <u>rather than</u> sit down.
+    **would rather do than do** 宁愿做某事也不愿做某事（两事都不愿意做，只能两害相权取其轻）（**前后都是不带to的不定式**）
+    ✎ I<u>’d rather</u> stand <u>than</u> sit down. （如果是书面语，则不要用缩写）
+    ✎ …… people <u>would rather</u> pay large sums of money <u>than</u> have their life work destroyed by gangsters.（L14）
+    ✎ M: It says here the next train is due in at 6:30.
+    W: I know, but I don’t know whether I can make that one. I<u>’d rather</u> call you from the station <u>than</u> have you waiting around for an hour.
+    Q: What does the woman imply?
+    Answer: She isn’t sure which train she’ll be on.（托福听力真题）
++ **permit sb. to do** 允许某人做某事
+  同义替换：
+  **allow sb. to do**（更正式）
+  **give sb. permission to do**（变为名词结构，更正式）
++ **wander**：to walk aimlessly 漫无目的地闲逛
+  **= roam**
++ **regular visitors** 常客（regular 经常的，有规律的）
+  口语中表示某个商店或者饭馆的常客，直接使用作名词的“regular”即可。
+  ✎ He is one of our restaurant’s <u>regulars</u>. 他是我们饭馆的常客之一。
+  ✎ —— What’ll it be? 您想来点什么？
+  —— **The usual**，please. 跟平常一样。
++ **party** 指有共同目的的一群人
+  ✎ a <u>party</u> of tourists 一群游客
+  ✎ a search <u>party</u> 一支搜寻小分队
+  ✎ a rescue <u>party</u> 一支救援队
+  ✎ After being absent from The Gables for a week, my aunt unexpectedly returned one afternoon with a <u>party</u> of guests and instructed Bessie to prepare dinner.（L49）
+  + **“一群人”** 的表达：
+    **group / bunch / crowd / band**
+    ✎ Six hundred years ago, Sir John Hawkwood arrived in Italy with a <u>band</u> of soldiers and settled near Florence.（L14）
+    **team** 一起工作的团队
+    **gang** 一帮（坏蛋），匪帮
+    **delegation** 一群代表，代表团
+    **galaxy** 一群杰出的人，群英；星系
+    ✎ a <u>galaxy</u> of artists/ scientists 一群伟大的艺术家/科学家
++ ┏ **at + 节日** ：在节日**期间**
+  ┗ **on + 节日** ：在节日**当天**
+  <u>on</u> Christmas Day 在圣诞节当天
+  <u>on</u> Easter Day 在复活节那一天
+  ┏ <u>on</u> weekends 在周末（美）
+  ┗ <u>at</u> weekends 在周末（英）
++ **receive**
+  ┏ ……, are always warmly welcomed…… 受到欢迎（评价：不地道，不庄重）
+  ┗ …… <u>receive</u> a warm welcome…… （本文）
+  “欢迎” 的其它搭配：
+  Let’s all **extend** a warm welcome to our visitors. 让我们一起向来宾**致以**热烈的欢迎。
+  + **receive + n.** 受到……；得到……；遭到……（适合书面语）
+    ✎ No creature has <u>received more praise and abuse</u> than the common garden snail.（L23）
+    ✎ <u>receive</u> insults 遭到侮辱
+    ✎ <u>receive</u> support 得到支持
+    ✎ <u>receive</u> adequate treatment (病人)得到充分的治疗（B4L28）
+    ✎ <u>receive</u> good education 受到良好的教育
+    ✎ This exhibition <u>received a great deal of attention</u> in the press, …… 受到广泛关注（L31）
+
+---
+
+## **Lesson 9 - Flying cats**
+### **课文原文**
+<font color=gray size=4>Cats never fail to fascinate human beings. They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well. They never become submissive like dogs and horses. As a result, humans have learned to respect feline independence. Most cats remain suspicious of humans all their lives. One of the things that fascinates us most about cats is the popular belief that they have nine lives. Apparently, there is a good deal of truth in this idea. A cat’s ability to survive falls is based on fact.
+
+Recently the New York Animal Medical Center made a study of 132 cats over a period of five months. All these cats had one experience in common: they had fallen off high buildings, yet only eight of them died from shock or injuries. Of course, New York is the ideal place for such an interesting study, because there is no shortage of tall buildings. There are plenty of high-rise windowsills to fall from! One cat, Sabrina, fell 32 storeys, yet only suffered from a broken tooth. ‘Cats behave like well-trained paratroopers.’ a doctor said. It seems that the further cats fall, the less they are likely to injure themselves. In a long drop, they reach speeds of 60 miles an hour and more. At high speeds, falling cats have time to relax. They stretch out their legs like flying squirrels. This increases their air-resistance and reduces the shock of impact when they hit the ground.</font>
+
+
+### 🌻 **单词讲解**
++ **fascinate** v. 迷住，吸引住（语气较强）
+  **fascinating** a. 迷人的，有吸引力的
+  ┏ I <u>am fascinated by</u> the story. 我被这个故事深深迷住了。（人作主语）
+  ┗ So the story is <u>fascinating</u>. 这个故事特别地迷人。（故事作主语）
+  + **<u>be/ find</u>…… endlessly fascinating** 某物/某人永远是那样地迷人（find表示“认为，感觉”，不表示“发现”）
+    ✎ This city <u>is endlessly fascinating</u>. 这座城市永远是那样地迷人。
+    ✎ I <u>find</u> the natural world <u>endlessly fascinating</u>. 我发觉大自然永远是那么地迷人。
+  + **fascination** n. 魅力，魔力，吸引力
+    **have a…… fascination for……** 对某人有种……样的吸引力
+    ✎ The story <u>has a great fascination for</u> me. 这个故事对我来说有巨大的吸引力。
+    ✎ Mars <u>has an extraordinary fascination for</u> would-be voyagers.（B4L35）
+    ✎ For him, caves <u>have the same peculiar fascination</u> which high mountains <u>have for</u> the climber.（L42）
+    ✎ Cats have an unfailing fascination <u>for</u> most people.（课后题-4）
+  + 表示 **迷住，吸引住** 的表达
+    **attract**
+    ✎ Beijing <u>attracts</u> many investors. 北京吸引了很多投资商。
+    **charm**（多指迷住了异性）
+    ✎ The girl <u>charms</u> all the young boys here. 这个女孩把这里所有的年轻男孩都迷住了。
+    **seduce / entice**（略贬义，“勾引”）
+    ✎ The boss is trying to <u>seduce</u> his secretary. 这位老板试图勾引她的秘书。
++ **affectionate** a. 充满深情的，柔情的
+  ✎ She looked at him in an <u>affectionate</u> way. 她充满深情地看着他。
+  + **affection** n. 爱，柔情
+    parental <u>affection</u> 父母亲对子女的爱
+    maternal <u>affection</u> 母爱
+    paternal <u>affection</u> 父爱
++ **mysterious** a. 神秘的，难以理解的
+  ✎ the <u>mysterious</u> pyramids 神秘的金字塔
+  + **mystery** n. 神秘的人或事物
+    **be a mystery to sb.** 对某人来说简直是个迷（某人无法理解某事）
+    ✎ It<u>’s a complete mystery to</u> me why she married him at all! 我完全无法理解她为什么会嫁给他！
+    ✎ M: I was shocked when I heard you’d finished your research project a whole month early.
+    W: How I managed to do it <u>is still a mystery to</u> me.
+    Q: What does the woman mean?
+    Answer: She’s not sure how she was able to finish so early.（托福听力真题）
++ **submissive** a. 服从的，顺从的，温顺的
+  ✎ He was looking for a quiet <u>submissive</u> wife who would obey his every word. 他一直在寻找一个对自己言听计从的顺从的妻子。
+  + 同义搭配
+    **submit to……** 服从于……，屈服于……
+    ✎ First, you must give Helen back to my brother. Second, Troy must <u>submit to my command</u> to fight for me whenever I call. 首先，你必须把海伦还给我的弟弟。第二，特洛伊城必须服从我的命令，每当我有令就要为我而战。（《特洛伊》）
+  + 近义搭配
+    **yield to……**
+    **bow to……**
+    **succumb to……**（单词以mb结尾，b通常不发音 ✎ tomb 坟墓，lamb 小绵羊，comb 梳子，womb 子宫）
+    ✎ The government refused to <u>yield/ bow/ succumb to</u> the terrorists. 政府拒绝向恐怖分子屈服。
+    **be subject to sth.** 服从于……，屈服于……（主语是人）；取决于……，受……支配，由……来决定（主语不是人）（形容词表达，系表结构）
+    ✎ All employees <u>are subject to</u> the regulations of the company. 所有员工都必须服从公司的规章制度。（主语是人）
+    ✎ So let us begin anew — remembering on both sides that civility is not a sign of weakness, and sincerity <u>is</u> always <u>subject to</u> proof. Let us never negotiate out of fear, but let us never fear to negotiate.
+    所以，让我们重新开始——双方都要记住，谦恭不是懦弱的表现，真诚永远取决于证据。让我们绝不要出于恐惧而去谈判，但让我们绝不要恐惧谈判。（主语不是人）（回文修辞）（小肯尼迪就职演说）
++ **feline** a. 猫的，像猫的
+  ✎ She walks with <u>feline</u> grace. 她走路像猫一样优雅。
+  **-ine**
+  动物的 | 例词
+  ---- | ---- 
+  canine 狗的，像狗的 | canine teeth 犬牙，虎牙
+  aquiline 鹰的，像鹰的 | an aquiline nose 鹰钩鼻
+  porcine 猪的，像猪的 | ~
+  equine 马的，像马的 | ~
+  bovine 牛的，像牛的 | ~
+  feminine 女人气的，娇柔的 | ~
+  masculine 男子汉气的，雄健的，有男人味的 | ~
++ **independence** n. 独立，自主
+  ✎ <u>Independence</u> Day 独立日（美国的国庆节）
+  **independence from** 从……中独立出来
+  ✎ India gained <u>independence from</u> Britain in 1947. 印度在1947年从英国独立了出来。
+  **be independent of……** 独立的，不依赖于……的
+  ✎ His wages enabled him to <u>become economically independent of</u> his family. 他的工资使他能够在经济上不依赖于他的家人。
+  + 反义
+    **be dependent on……** 依赖于……，依靠于……，取决于……
+    ✎ They hate <u>being dependent on</u> their parents. 他们不愿意依赖于他们的父母。
+    ✎ So great is our passion for doing things for ourselves, that we are <u>becoming</u> increasingly less <u>dependent on</u> specialized labour.（L46）
+  + 相关词
+    **sovereignty** 主权（国家）
+    **autonomy** 自治权（地区）
+    ✎ the Inner Mongolia <u>Autonomous</u> Region 内蒙古自治区
++ **impact** n. 冲击力，撞击；影响
+  **on impact** 在撞击时
+  ✎ The glass smashed <u>on impact</u>. 这只玻璃杯在撞击时被粉碎。
+  **impact <u>on/upon</u>……** 对某物的重大影响
+  ✎ His speech had a great <u>impact on</u> me. 他的演讲对我有非常大的影响。
+  同义替换：
+  **influence <u>on/upon</u>**
+  **effect <u>on/upon</u>**
+
+
+### 🕹️ **课文讲解**
++ flying cat 飞猫
+  falling cat 坠落的猫（本文）
+  ┏ His head <u>was hit by</u> a falling stone heavily. 他的头被一块坠落的石头重重地砸了一下。
+  ┗ He <u>received a</u> heavy <u>hit</u> on his head from a falling stone.（名词结构表达，更正式）
++ **never fail to do sth.** 总是能够……（可预期；褒义；双重否定）
+  ✎ My grandson <u>never fails to</u> phone me on my birthday. 我的孙子总是能够在我过生日的时候打电话问候我。
+  **never fail to fascinate……** 永远能够迷住……
+  辨：**be always doing sth.** 总是（贬义）（L2）
+
+#### 👾 **双重否定**
+  往往表达肯定的含义，语气更强。
+  ◇ Cats **never fail to** fascinate human beings.（本文）
+  ◇ …… because there is **no shortage** of tall buildings. 有的是……（本文）
+  ◇ **Nor** is the city **without** its moments of beauty. 并不是没有（L41）
+  ◇ It is **not uncommon** to hear that a shipping company has made a claim for the cost of salvaging a sunken ship. 司空见惯（直译：并不不常见）（L43）
+  ◇ She did **not fail** to keep her word. 他并没有食言。
+  ◇ **Nobody** is **without** his faults. 人无完人。（没有一个人是没有缺点的。）
+  ◇ **Nothing** is **impossible** to a willing mind. 有志者事竟成。
+  ◇ **No** one has **nothing** to contribute to society. 每个人都能为我们的社会做出贡献。（没有一个人没有东西为我们的社会做出贡献。）
+  ◇ I will **never** read books **without** falling asleep. 我一看书就睡觉。（我没有一次在看书的时候不睡着的。）
+  ◇ Cats **are endlessly fascinating**.（本文第1句同义改写）
+  ◇ we **find** cats **endlessly fascinating**.（本文第1句同义改写）
+
++ **be friendly <u>to/towards</u> ……** 对……很友好
+  **be affectionate towards ……** 对……充满柔情
+  ✎ Why <u>is</u> he suddenly so <u>friendly to/ towards</u> you? 为什么他突然间对你这么友好呢？
+  ✎ He <u>is</u> very <u>affectionate towards</u> his children. 他对他的孩子非常柔情。
++ **<u>live/ lead</u> a…… life** 过着……样的生活
+  首韵 + 动词、名词同根
+  ✎ <u>sing</u> a <u>song</u>
+  ✎ He <u>breathed</u> his last <u>breath</u>.
+  ✎ Liu Hulan <u>died</u> a glorious <u>death</u>.
++ **…… of one’s own** 某人自己的（一般放在被修饰的名词的后面，own无单复数变化）
+  ✎ I want a room <u>of my own</u>. 我想要一个我自己的房间。
++ **like** 像……一样
+  + 同义表达
+  **as…… as……**（用于肯定句）（第一个as可以看作副词，后接形容词或副词；第二个as表示“像……那样”，一定是连词，后边的谓语动词一般可省略）
+  **<u>as/ so</u>…… as……**（用于否定句和疑问句）（第二个as表示“像……那样”，一定是连词，后边的谓语动词一般可省略）
+  ┏ They never become submissive <u>like</u> dogs and horses.（原文）
+  ┗ They never become <u>as/ so</u> submissive <u>as</u> dogs and horses (do).（原文换成“as”表达）
+  **in the (same) way that……** 像……那样
+  ✎ We like them <u>in the same way that</u> we like pretty curtain material.（B2L26）
+  ✎ Love me <u>in the way that</u> I love you. 像我爱你一样爱我。
+  ✎ The city is living proof that the policy works <u>in the way that</u> economists claim. 这座城市是活生生的证据，证明政策发挥了作用像经济学家声称的一样。
+  ┗ They never become submissive <u>in the (same) way that</u> dogs and horses do.（原文换成 “in the (same) way that……” 表达）
+  ✎ Cats never become submissive <u>in the way that dogs and horses do</u>.（课后题-5）
++ **as a result** 因此，所以
+  同义词（一般来说都可相互替换）
+
+  ~ | ~ | ~ 
+  ---- | ---- | ---- 
+  so | therefore | consequently
+  thus | accordingly | as a consequence
+  hence | for this reason | in consequence
++ learn 学会……，懂得…… ~~学习……~~（强调结果）
+  辨：study 去学习，去研究（强调过程）
+  ✎ When will you ever <u>learn</u>?
+  Answer: Why do you keep on making the same mistakes?（托福听力）
++ **be suspicious <u>of/ about</u>……** 对……怀疑，对……不相信
+  suspicious除了表示怀疑，还表示可疑的：
+  ✎ He appeared <u>suspicious</u>. 他看上去很可疑。
+  同义词：
+  **sceptical[英] / skeptical[美]** 仅能表示“怀疑的”
+  **be <u>sceptical/ skeptical</u> <u>of/ about</u>……** 对……怀疑，对……不相信
+  ✎ I<u>’m highly skeptical of/ about</u> his motives. 我非常怀疑他的动机。（也可替换成“be suspicious of/ about……”结构）
++ **all one’s life** 终生，一辈子
+  **= throughout one’s life**
+  辨：**for life = for the rest of one's life** 余生，后半生
+  【✔】The accident crippled him <u>for life</u>. 这起事故使他终生腿残。
+  【✘】The accident crippled him <u>all his life</u>.
+  ✎
+  【✔】Honey, I (will) love you <u>for life</u>. 亲爱的，我会爱你一生一世。
+  【✔】Honey, I (will) love you <u>for the rest of my life</u>.
+  【✘】Honey, I (will) love you <u>all my life</u>.
+  **lifelong** a. 终生的，一辈子的
+  ✎ a <u>lifelong</u> friendship 一辈子的友谊
+  ✎ a <u>lifelong</u> undertaking 一个终生的事业
++ **One of the things + 定语从句** 此处的定语从句修饰“one”，而不是“things”。
+  ✎ Jasper White is <u>one</u> of those rare people <u>who **believes** in ancient myths</u>.（B2L28）
+  ✎ The *Cutty Sark* was <u>one</u> of the fastest sailing ships <u>that **has** ever been built</u>.（L25）
+  **“one of + 复数名词 + 定语从句”中，定语从句既可以看作修饰复数名词，也可看作修饰“one”，这两种解释都正确。但在国内教育体系，多看作修饰复数名词。**
+  **另：如果“one”是特指的，前面有定冠词“the”，那后面的定语从句就只能修饰“one”（从句谓语动词用单数），而不可能修饰复数名词。**
+  ✎ John is <u>the</u> only <u>one</u> of the students in the class that never <u>admit**s**</u> making a mistake even when it is pointed out to him.（老托福语法题）
++ fascinates us **most** （“most”修饰动词最高级的时候，不一定加定冠词“the”）
+  ✎ Those who work <u>(the) most</u> often get paid <u>(the) least</u>. 那些工作做得最多的人往往得到的薪水却最少。
+> 仿写第6句
+  最令我们感到伤心(sadden)的一件事是一种令人沮丧的说法(a depressing saying)：每当我们在街上有麻烦或者有危险时没有人来帮助我们(come to our assistance)。
+  One of the things that saddens us most is a depressing saying that whenever we are in trouble or danger in the street no one will come to our assistance.
++ **there is a good deal of truth in……** ……很有道理（直译：在……中有大量的真实性）
+  **there is an element of truth in……** ……有点道理（element 成分）
+  ✎ Perhaps <u>there is an element of truth in</u> both these pictures, but few us have had the opportunity to find out.（L12）
+  ✎ <u>There is</u> probably <u>an element of truth in</u> this argument, but they ignore a more basic fact that the freedom of the press is often abused.
+  这个论证可能是有点道理的，但是他们忽略了一个更基本的事实，即新闻的自由经常被滥用。（阅读真题）
+  ✎ Albert Einstein once <u>attributed</u> the creativity in a famous scientist <u>to</u> the fact that he never went to school. <u>There is</u> undoubtedly <u>a truth in</u> his observation, but such a truth is not criticism of schools.
+  阿尔伯特·爱因斯坦有一次把一个著名科学家身上的创造力归因于这个事实：他从来没有上过学。他的这个观点毫无疑问是有道理的，但这绝对不是对学校的批评。（attribute…… to…… 把前者归因于后者）（阅读真题）
++ **survive** 本文指经历了某个倒霉的事情而没有死掉
+  **falls** 名词复数，本文中作“survive”的宾语
+  ┏ In the battle, only four soldiers <u>survived</u>. 在战斗中，仅有4名士兵幸存了下来。
+  ┗ Only four soldiers <u>survived</u> <u>the battle</u>. 
+  ✎ I am especially proud of it, not only because it has <u>survived</u> <u>several severe winters</u>, but because it occasionally produces luscious peaches.（L54）
++ **…… be <u>based/ founded</u> on** 基于……（参见L3）
+  ┏ …… **is based/ founded on** fact.（原文）
+  ┗ …… **rests on** fact.
+  ┗ …… **is supported by** fact.
+  ✎ That cats can survive falls from great heights is <u>supported</u> by the facts.（课后题-11）
++ **make a study of…… = study……** 对……做研究；研究……（动词变成名词之后，前面加make，后面加of（L3：make a discovery (of……)同理））
+  ✎ <u>make a study of</u> human nature 对人性做研究
+  【✘】make a study of human nature carefully 对人性做仔细的研究（不地道）
+  【✔】make a close study of human nature（L26）
++ **have sth. in common** 有共同的……（L1）
+  ✎ …… because people’s descriptions of the puma <u>had a lot in common</u>.（L1）
+  ✎ These two species <u>have certain features in common</u>. 这两个物种之间有某些共同的特征。
+  + 近义表达
+    **share sth.** 有共同的，有一样的；分享，分担
+    ✎ We <u>share</u> an interest in history. 我们两个人对历史有共同的兴趣。
+    ✎ These two species <u>share</u> certain features.（上文改）
+    ✎ All these cats <u>shared</u> one experience: ……（本文改）
++ **fall of sth.** 从……上掉下来（三种表达文中均有使用）
+  **= fall from sth.**
+  **= fall sth.**
++ ┏ **die from……** 因为某事而死（更倾向外因）
+  ✎ <u>die from</u> shock or injuries / a wound / an accident 死于冲击力或外伤/一处伤口/一次事故
+  ┗ **die of……**（更倾向内因）
+  ✎ <u>die of</u> a disease / hunger / grief 死于一个疾病/饥饿/悲伤
+  ✎ …… the woman <u>die of</u> a rare disease.（B2L77）
+  ✎ …… <u>die of</u> old age……（B4L37）
++ **shortage** 缺乏，不足
+  ✎ food / staff <u>shortage</u> 食品短缺/人手不足
+  **be short of……** 缺乏……（更通俗）
+  ✎ We<u>’re short of</u> money. 我们现在比较缺钱。
+  ✎ The refugees <u>are short of</u> food. 这些难民缺少食物。
+  **there is a shortage of ……**（更正式）（后面不管跟复数名词还是不可数名词，都是“is/was”，因为修饰的是“shortage”）
+  ✎ <u>There **is** a shortage of</u> <u>food</u> in the refugee camps. 在难民营中缺少食物。
+  ✎ <u>There **is** a shortage of</u> <u>nurses and doctors</u> in this area. 这个地区缺少护师和医生。
+  **there is no shortage of ……**
+  ✎ …… because <u>there **is** no shortage of</u> <u>tall buildings</u>.（原文）
+  **there are plenty of ……**
+  ✎ …… because <u>there **are** plenty of</u> <u>tall buildings</u>.（原文换用）
++ **suffer (from) ……** 经历某个痛苦的事（比have生动）
+  ✎ One cat fell 32 storeys. <u>Even so</u> she only suffered a broken tooth.（even so 即使这样；moreover 此外）（课后题-12）
+> 仿写第2段第5句
+  一个叫麦克的出租司机出了(be involved in……)一次严重的车祸，然而只断了两根肋骨(rib)。
+  One taxi driver, Mike, was involved in a serious car accident, yet only suffered from two broken ribs.
++ **further**
+  **far**（原级）—— **farther / further**（比较级）—— **farthest / furthest**（最高级）
+  表示距离上的远，可丈量：英国两个都可以，美国一般用前者；
+  表示抽象的远，不可丈量：英美都用后者。
+  ✎ <u>further</u> development / investigation 进一步的发展/更深入的调查
++ **the + 比较级……，the + 比较级……。**（前半句是从句，类似于条件状语从句，先翻译，后半句是主句）
+  ┏ <u>The harder</u> they worked <u>the hungrier</u> they became. 他们工作得越努力，他们就会变得越饿。
+  ┗ They became <u>(the) hungrier</u> <u>the harder</u> they worked.（如果是这种语序，则前半句是主句，后半句是从句。依然先翻译从句）
+  ✎ A telescope would have to be as far away as the planet Jupiter to look for life in outer space, because <u>the dust becomes thinner</u> <u>the further we travel towards the outer edges of our own solar system</u>.（L55）
+  + 另1：如果主句的主语太长，还可采用倒装
+  ┏ The younger the child is, the more **is** the child’s need of sleep.（倒装语序）
+  ┗ The younger the child is, the more the child’s need of sleep **is**.（陈述句语序）
+  + 另2：无论主句从句，如果谓语动词是be动词，则be动词可省略
+  ┗ The younger the child, the more the child’s need of sleep.
+  ┏ <u>The further</u> off this solid obstruction, <u>the longer</u> time will elapse for the return of the echo.（B4L7）
+  ┗ <u>The further</u> off this solid obstruction **is**, <u>the longer</u> time will elapse for the return of the echo.
++ **speed** 以……的速度（参见L6笔记）
+  1. speed做不可数名词时，与at, with搭配均可
+  ✎ <u>at/ with</u> great speed
+  2. speed做可数名词时，只能与at搭配
+  ✎ <u>at</u> a speed of 60 mph 以时速60英里
+  ✎ The raid was all over in three minutes, for the men scrambled back into the car and it moved off <u>at</u> **a** fantastic speed.（L6）
+
+  ✎ Though the new rudder was fitted <u>at</u> tremendous speed, it was impossible for the *Cutty Sark* to win.（L25）（前无冠词后无复数，所以at，with均可）
+  ✎ —— I think John will win the race.
+  —— Yes, he started off <u>at</u> a fantastic speed.
+(A)with; (B)at; (C)through; (D)by（老托福语法题）
++ **stretch** 伸展；抻拉
+  **stretch out**
+  ✎ …… you can enjoy the extraordinary sight of unbroken cloud plains that <u>stretch out</u> for miles before you,……（L44）
+  **stretch out one’s legs** 抻拉开四肢
+  **stretch one’s legs** （坐得太久）出去走一走
+  ✎ You can <u>stretch your legs</u> on the spacious decks, ……（L44）
++ flying squirrel 飞鼠，鼯鼠
+
+#### 👾 **本文篇章分析**
+本文属于 “ 现象 - 解释 ” 型说明类文章。
+题目新奇，引其读者兴趣。
+第一段：引文（猫很迷人，略做陈述） → 引出主题（最迷人之处在于有九条命 → 跌落时不死）
+第二段：介绍一项研究并举例 → 借用医生的话展开解释原理（语言生动风趣） → 末尾点题（flying squirrels → flying cats）
+
+---
+
+## **Lesson 10 - The loss of the *Titanic***
+### **课文原文**
+<font color=gray size=4>The great ship, <i>Titanic</i>, sailed for New York from Southampton on April 10th, 1912. She was carrying 1,316 passengers and crew of 891. Even by modern standards, the 46,000 ton <i>Titanic</i> was a colossal ship. At that time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen watertight compartments. Even if two of these were flooded, she would still be able to float. The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life.
+
+Four days after setting out, while the <i>Titanic</i> was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout. After the alarm had been given, the great ship turned sharply to avoid a direct collision. The <i>Titanic</i> turned just in time, narrowly missing the immense wall of ice which rose over 100 feet out of the water beside her. Suddenly, there was a slight trembling sound from below, and the captain went down to see what had happened. The noise had been so faint that no one though that the ship had been damaged. Below, the captain realized to his horror that the <i>Titanic</i> was sinking rapidly, for five of her sixteen watertight compartments had already been flooded! The order to abandon ship was given and hundreds of people plunged into the icy water. As there were not enough lifeboats for everybody, 1,500 lives were lost.</font>
+
+
+### 🌻 **单词讲解**
++ **colossal** a.（数量或体积）巨大的，庞大的
+  ✎ a <u>colossal</u> ship 一艘巨轮
+  ✎ a <u>colossal</u> sum of money 一笔巨款
+  同义替换：
+  **huge, great, immense, enormous, gigantic, titanic**（titanic还强调坚固的，强壮的）
+  the Titans 泰坦巨人
++ **watertight** a. 不漏水的，不透水的
+  辨：**waterproof** a. 防水的（多指手表、手机等精密机器）
+  + 相关词：
+    **airtight** 不透气的
+    **hermetic** 密封的（什么都不透）（源于赫尔墨斯炼金）
+    **sealed** 密封的（指不许开封） **seal** n. 图章；v. 摁图章
+    ✎ The teacher opened the <u>sealed</u> envelope containing the exam papers. 老师打开了密封的装着考试试卷的信封。
++ ┏ **tragic** a. 悲剧的；悲惨的
+  ┗ **tragedy** n. 悲剧
+  ┏ **comic** a. 喜剧的；滑稽可笑的（类似于funny）
+  ┗ **comedy** n. 喜剧
+  ┏ **dramatic** a. 戏剧的；戏剧性的，夸张的
+  ┗ **drama** n. 戏剧
++ **liner** n.（远洋的）班轮，客轮 （全称：ocean liner）
+  **airliner** n. 班机，客机
+  + 船类：
+    **steamship** 汽轮，蒸汽船（L25）
+    **yacht** 游轮，游艇
+    **tanker** 油轮（L12）
+    **ferry** 渡轮，摆渡船
+    **raft** 木筏，竹筏
+    **dinghy** 橡皮救生艇（L12）
+    **canoe** 独木舟
+    **kayak** （坐的部分遮盖起来的）独木舟，单人划子，皮艇（多见于激流运动）
++ ┏ **voyage** n.[C] 航行（海上）
+  ┗ **flight** n.[C] 航行（空中）
+  ┏ **navigation** n.[U] 航海
+  ┗ **aviation** n.[U] 航空
+  ✎ be <u>on</u> a voyage / flight / trip / journey / tour
+  在航海/航空/旅行/长途旅行/环游的途中（在……途中，用on + n.，见L1）
+  **Bon voyage!** 祝你一路顺风！（源自法语）
+  **= Have a good trip! = Happy landings!**
++ **narrowly** ad. 刚刚，勉强
+  ✎ We won <u>narrowly</u>. 我们险胜（勉强赢了）。
+  ✎ He <u>narrowly</u> escaped drowning. 他差点被淹死（勉强没被淹死）。
+  + 同义替换
+    **(only) just**
+    ✎ She <u>(only) just</u> failed in the exam. 她刚刚好不及格。
+    **hardly / scarcely / barely**
+    ✎ I <u>hardly</u> know him. 我几乎不太认识他。
++ **tremble** v. 震颤，颤抖（指人指物都可）
+  ✎ He <u>trembled</u> with anger. 他因为气愤而颤抖。
+  ✎ The leaves <u>trembled</u> in the breeze. 树叶在微风中颤抖。
+  + 同义替换
+    **quiver / shiver** 轻抖
+    **shudder** 巨颤
+    ✎ …… make a modern climber <u>shudder</u> at the thought, ……（B4L3）
++ ┏ **horror** n. 恐惧，惊恐 （英文释义：feelings of great fear and shock）
+  ┗ **terror** n. 恐惧 （英文释义：extreme fear）
+  ┏ **horrify** v. 使某人惊恐交加 → **horrifying** a. 令人又惊又恐的
+  ┗ **terrify** v. 使某人极度恐惧 → **terrifying** a. 令人胆寒的
+  **panic** v./n. 突然的惊恐、恐慌（L33） Pan 潘（希腊神话中的山林和畜牧之神，半人半羊，样貌可怕）
+  ✎ She suddenly got into a <u>panic</u> and stopped her car.（L33）
+
+
+### 🕹️ **课文讲解**
++ **the** *Titanic*
+  + 指轮船名称时，前面习惯加“the”
+    ✎ <u>the</u> *Cutty Sark*（L25）
+    ✎ <u>the</u> *Vasa*（B4L27）
+  + 作同位语时，“the”一般可以省略
+    ✎ The small ship, <u>*Elkor*</u>, which had been searching the Barents Sea for weeks, was on its way home.（L32）
+    ✎ One of the most famous sailing ships of the nineteenth century, <u>the *Cutty Sark*</u>, can still be seen at Greenwich.（L25）
++ **for** + 目的地 + **from** + 出发地
+  **sail from A to B** 从A到B
+  **sail out of A towards B** 从A到B
+  **sail for B from A** 从A到B（本文）
+  ┏ 这架波音747飞机从上海出发，飞往纽约。
+  ┗ The Boeing 747 flew <u>from</u> Shanghai <u>to</u> New York.
+  ┗ The Boeing 747 flew <u>out of</u> Shanghai <u>towards</u> New York.
+  ┗ The Boeing 747 flew <u>for</u> New York <u>from</u> Shanghai.
+  + **for + 目的地**（助记：“for”谐音“赴”）
+    **leave <u>for</u> + 目的地** 动身出发去……（不强调出行方式）
+    **depart <u>for</u> + 目的地** 动身出发去……（不强调出行方式）
+    **set <u>out/ off</u> <u>for</u>  + 目的地** 动身出发去……（不强调出行方式）
+    ✎ I am leaving <u>for</u> Dalian on Friday. 我在周五即将动身赴大连。（进行时表达将来时的含义）
+    **make <u>for</u>……** 朝某地走去
+    ✎ I think it’s time we made <u>for</u> home. 我觉得现在我们该回家了。
+    **be <u>heading/ headed</u> <u>for</u>** …… 朝某个方向前进（一般作比喻意：向某个抽象的目标前进）（英一般用前者，美一般用后者）
+    ✎ The negotiation is heading <u>for</u> deadlock. 这起谈判正在朝着僵局的目标前进。/谈判即将陷入僵局。
+    ✎ Newcastle seemed to be heading <u>for</u> failure until a late goal saved the day. 纽卡斯尔队看似正向着失败前进，直到一记迟到的进球力挽狂澜。
+    **总结：动词后面加目的地/目标，一定用介词for。**
++ April 10th, 1912
+  日期顺序：月-日-年
+> 仿写第1句
+  马航370号航班(Malaysia Airlines Flight 370)于2014年3月8日从吉隆坡(Kuala Lumpur)出发飞往北京。
+  Malaysia Airlines Flight 370 flew for Beijing from Kuala Lumpur on March 8^th^, 2014.
++ **she** 指“车、船、祖国”时（尤其是自己的），常用“she”，而不用“it”
+  ✎ What’s wrong with my car? <u>She</u> won’t start. 我的车怎么了？她无法启动。
+  ✎ China has done what <u>she</u> promised to do. 中国已经做到了她承诺要做的事。
++ **crew** （一群一群地数）
+  ✎ a <u>crew</u> of 891 （表示一群）
+  类似表达：
+  a **committee** of 100 一百人的委员会
+  a **family** of 5 五口之家
++ **<u>on board / aboard</u>** ad.&prep. 在船上
+  ✎ All <u>aboard</u>! 全体上船！
+  ✎ Welcome <u>aboard</u>! 欢迎加入！
+  ✎ One thousand three hundred and sixteen passengers and a crew of 891 were <u>on board (her) / aboard (her)</u>.（原文改）（阿拉伯数字可以放在句中，但不适合放在句首。句首位置比较重要。如需放句首，一般用英文写开。）
+  ✎ <u>On board her</u> were 1,316 passengers and a crew of 891.（课后题-4）
+
+#### 👾 **全部倒装 / 完全倒装**
+即把全部谓语置于主语之前。
+1. **表示位置或次序的状语置于句首，只要满足两个条件，要用全部倒装：**
+  **① 主语不是代词；**
+  **② 谓语动词不是及物动词。**
+  **这种倒装主要目的是为了突出句末的主语。**
+  + 表**位置**的例句
+    ✎ <u>In **came**</u> Miss Green. 格林小姐走了进来。
+    ┏ <u>On the hill **stands**</u> a temple. 山上有座庙。
+    ┗ A temple stands on the hill. （正常语序）
+    ┏ <u>There **are**</u> two people. （there be 句型其实就是全部倒装）
+    ┗ Two people are there.（正常语序）
+    ✎ <u>There</u> once <u>**stood**</u> a little village.（there be 句型的变型）
+  + 表**次序**的例句
+    ✎ <u>Now **comes**</u> your turn. 现在该你了。（now 表示次序）
+    ✎ <u>Next **came**</u> a horse, ……（L56）（next 表示次序）
+  + 无法倒装情况举例
+    ✎ Off <u>he</u> went. 他出去了。（off表位置）（he 是代词，故无法倒装）
+    ✎ On the hill John <u>saw</u> Marry. （see 是及物动词，故无法倒装）
+2. **表语置于句首。**
+  **这种倒装主要目的是为了避免头重脚轻（主语较长）。（非强制，不倒装也行）**
+  ┏ Happy is <u>he who has a sound mind in a sound body</u>.（倒装语序）
+  ┏ <u>He who has a sound mind in a sound body</u> is happy.（正常语序）
+  ┗ 一个身心健康的人是快乐的。
+  ✎ Gone are <u>the days when my heart was young and gay</u>. 我的心是年轻和快乐的日子一去不复返了。
+3. **更多用法，后续补充……**
+
+#### 👾 **部分倒装和全部倒装的区别**
+1. 目的：部分倒装是为了突出句首（状语）；完全倒装是为了突出句尾（主语）（表语前置引起的完全倒装多是为了避免头重脚轻）。
+2. 要求：部分倒装只看句首，对主语、谓语没有要求；全部倒装对主语、谓语有要求（表语前置引起的完全倒装除外）。
+
++ **by** ：according to 根据……
+  ✎ What time is it <u>by</u> your watch? 你的表是几点？
+  ✎ <u>By</u> my watch it’s 4 o’clock. 根据我的表，现在是四点钟。
++ **standards** 标准（放之四海皆准的标准，习惯用复数）
+  ✎ safety <u>standards</u> 安全标准
+  ✎ moral <u>standards</u> 道德标准
+  ✎ living <u>standards</u> 生活水平（水准）
+  ✎ International <u>Standards</u> Organization (ISO) 国际标准化组织
+  + **criterion criteria (pl.)** 一个机构或组织自行确定的标准（习惯用复数）
+    ✎ admission <u>criteria</u> 录取标准
+    ✎ the <u>criteria</u> we use to select candidates 我们用来选拔候选人的标准
++ **ton**（名词作定语，修饰后面的“Titanic”，故用单数）
++ **not only…… but……** 不但…… 而且……
+  同义表达（详见L5笔记）
++ the <u>largest</u> ship **that** had ever been built
+  先行词前面，如果有最高级修饰，关系代词习惯用that而不用which。
++ **regard A as B** 把A视为/看作B
+  同义词
+  **see A as B**
+  ✎ I <u>see</u> his words <u>as</u> a joke. 我把他的话当作一个笑话。
+  **count A as B** 把A算作B
+  ✎ I don’t <u>count</u> him <u>as</u> a friend any more. 我不再把他当作我的朋友了。
+  **take A as B**（take：看待，~~拿走~~）
+  ✎ Are you <u>taking</u> me <u>as</u> a fool? 你把我当成傻子了？
+  **look on A as B**
+  ✎ They <u>look on</u> her <u>as</u> a daughter. 他们把她看作亲生女儿。
+  **think of A as B**
+  ✎ Learning a language should <u>be thought of as</u> a natural process. 学习一门语言，应该被看作是一个自然而然的过程。
+  **consider …… (to be)……**
+  ✎ If you lived in the Mediterranean, for instance, you would <u>consider</u> octopus <u>(to be)</u> a great delicacy.（L23）
+  **be <u>recognized/ acknowledged</u> as……** 被公认为是……
+  ✎ Heifetz <u>was recognized/ acknowledged as</u> the greatest violinist of the 20th century. 海菲兹被公认为是二十世纪最伟大的一位小提琴家。
++ **as unsinkable**
+  **形容词作介词宾语时可视为其前省略了动名词being，即“介词 (+being) + 形容词”的形式。**
+  ✎ He regarded the situation <u>as (being) serious</u>. 他把当时的局势视作是非常严峻的。
+  ✎ His work is far <u>from (being) satisfactory</u>. 他的工作远远不能令人满意。
++ **even if** 即使，就算（表假设）
+  辨：**even though** 尽管（表事实）
+  ┏ <u>Even if</u> you dislike ancient monuments, Warwick Castle is worth a visit. 即使你不喜欢古迹，沃里克城堡还是值得一去。（假设）（ancient monuments 名胜古迹）
+  ┗ <u>Even though</u> you dislike ancient monuments, Warwick Castle is worth a visit. 尽管你的确不喜欢古迹，但沃里克城堡还是值得一去。（事实）
+  ✎ The villagers have told him that they will not accept the inn <u>even if</u> he gives it away.（B2L47）
+  ✎ Almost immediately he began to complain about the weather, for <u>even though</u> it was still summer, it rained continually and it was often bitterly cold.（B2L38）
+  ✎ The hardened professional smuggler, on the other hand, is never troubled by such feelings, <u>even if</u> he has five hundred gold watches hidden in his suitcase.（L11）
+  ✎ <u>Even if</u> you travel in ideal weather, sea journeys take a long time.（L44）
+  ✎ She was sentimentally attached to this house, for <u>even though</u> it was far too big for her needs, she persisted in living there long after her husband’s death.（L49）
+  ✎ I immediately embarked on an experiment which, <u>even though</u> it failed to get rid of the ants, kept me fascinated for twenty-four hours.（L54）
++ 第5句的另一种表达：
+  Even if two of these were flooded, she still wouldn’t <u>sink</u>.（不用这种更直白的表达，是为了避免与下句的sinking重复）
++ ┏ **be able to do**：表示具备某个能力
+  ┗ **can**：表示具备某个能力；表示推测
+  ✎ No one thought she <u>could possibly</u> sink, for she had sixteen watertight compartments.（课后题-5）
++ 英文惯用被动，尤其是书面语；中文惯用主动。（第1段末句）
+  ┏ 非常感谢您的帮助。
+  ┗ Thank you very much for your help.（口语）
+  ┗ I appreciate your help.（口语）
+  ┗ Your help is greatly appreciated.（书面语）
++ **go down** 沉没，指“sink”
++ **first voyage** 首航
+  + 指 “**第一次**” 的词：
+    **maiden** <u>voyage/ flight/ work</u> 处女航/处女航/处女作
+    **virgin** land 处女地
+    **debut** 处女秀（演员、运动员的初次登台）
+    ✎ She made her professional stage <u>debut</u> in Swan Lake. 她在《天鹅湖》中首次作为职业演员登台露面。
+    **premiere** 首映（电影、戏剧）
+    ✎ the world <u>premiere</u> of his latest movie 他最新电影的世界首映
++ loss of life 人员伤亡
+  近义表达：
+  **casualty** n.[C]（战争或事故中的）伤亡者
+  ✎ civilian <u>casualties</u> 平民伤亡者
+  **death toll** （战争或事故中的）死亡人数
+  ✎ The <u>death toll</u> has risen to 90. 死亡人数已经上升到了90人。
+> 仿写第1段末句
+  人们将永远牢记这架马来西亚班机(the Malaysian airliner)的失踪惨剧，因为它在从吉隆坡(Kuala Lumpur)到北京的航行中神秘地失去连系，造成惨重的生命损失。
+  The tragic missing of the Malaysian airliner will always be remembered, for it mysteriously lost contact on its flight from Kuala Lumpur to Beijing with heavy loss of life.
++ Four days after setting out,……
+  **before/ after作介词，其后跟动名词。**
+  **表达“之前/之后不久”，直接可以把一段时间放到“before/ after”的前面。**
+  ✎ <u>Ten minutes after calling 911</u>, a police car arrived on the spot. 在报警十分钟后，一辆警车抵达了现场。（L1笔记）
++ **-y 像……一样的**
+  **ice → icy** 冰冷的
+  **stone → stony** 石头般的，冷酷的
+  **iron → irony** 钢铁般的
++ **give** 发出，表现出，~~给某人东西~~
+  ✎ <u>give</u> <u>an alarm/ an order/ a cry/ a long sign</u> 发出警报/命令/叫喊/叹息
+  ✎ The girl <u>gave</u> a charming smile. 女孩露出了一个迷人的微笑。
+  ✎ The order to abandon ship was <u>given</u>……（本文）
++ **turn, veer, swerve**（车，飞机等交通工具）拐弯，转向
+  ✎ Moments before crashing, the jet was seen <u>veering</u> sharply to the right. 在坠机前的刹那，喷气式飞机被看到紧急向右转弯。
+  ✎ The great ship <u>veered</u> sharply to avoid a direct collision.（课后题-9）
+  ✎ The lorry <u>swerved</u> sharply to avoid the child. 卡车为了躲避孩子来了个急转弯。
+  ✎ As we bumped over the dusty track, we <u>swerved</u> to avoid large boulders.（L39）
+  **change course** 改变航向（专指船或飞机）
+  ✎ The plane <u>changed course</u> to avoid the storm. 这架飞机改变了方向以躲避暴风雨。
+  ✎ What happened once the iceberg had been spotted? (c)
+  (a) The *Titanic* got lost in the icy waters of the North Atlantic.（get lost 迷路）
+  (b) The alarm was given that there was a collision ahead.
+  (c) The *Titanic* quickly changed her course.
+  (d) The *Titanic* turned just as the iceberg rose steeply out of the water.（课后题-2）
++ **collision** n. 碰撞
+  **collide** v.
+  ✎ During the rush hour one evening two cars <u>collided</u> and both drivers began to argue.（L33）
++ ┏ **in time** 及时
+  ┗ **on time** 准时
+  **just in time** 刚刚好及时
+  **= with no time to spare**（with引导的独立主格结构；spare在此意为：省，节省）
+  ✎ <u>Spare</u> the rod and spoil the child. 省下了棒子，宠坏了孩子。（不打不成器）
+  ✎ We boarded the train <u>with no time to spare</u>. 我们登上了火车，时间刚刚好。
+  ✎ They got to the airport <u>with seconds to spare</u>. 他们到达机场只差几秒钟就没赶上。
+  注：with + n. + to do 结构，即便是被动，也要用主动。
+  ✎ The *Titanic* turned <u>with no time to spare</u> narrowly missing the immense wall……
+  a) in (next to) no time 立即，立刻
+  b) on a sudden impulse 由于突然的冲动（固定搭配）
+  d) nearly on time 几乎准时（课后题-10）
++ **narrowly missing** 分词作结果状语
+  ✎ 这辆汽车及时转向，勉强躲过了这个孩子。
+  The car turned <u>just in time</u>, <u>narrowly missing</u> the child. 
+  ✎ 我闪避(dodge)得及时，勉强躲过了这块坠落的石头。
+  I dodged <u>just in time</u>, <u>narrowly missing</u> the falling rock.（rock 通常指大块石头）
++ **rise** 矗立，高耸，~~上升~~
+  ✎ The immense building <u>rose</u> before our eyes. 这座巨大的建筑矗立在我们面前。
+  **rise to a height of ……** 高达……（指特别高）
+  ✎ Above the surface of the water, the towers <u>rise to a height of</u> nearly 700 feet.（L17）
++ ┏ 突然间
+  ┗ **suddenly**
+  ┗ **all of a sudden**
+  ┗ **all at once**（辨：at once = immediately）
+  ✎ Seeing a cake flying through the air, a lorry-driver who was drawing up alongside the car, pulled up <u>all of a sudden</u>.（L33）
+  ✎ <u>All at once</u>, I noticed that my wife seemed to be filled with alarm.（L48）
++ **from below**
+  **副词和介词短语都可以作介词的宾语**
+  + 介词from
+    ✎ There is a fine view <u>from here(副词)</u>. 这里有一个非常好的视野。
+    ✎ I heard them calling me <u>from below(副词)</u>. 我听到他们在下面叫我。
+    ✎ They have just returned <u>from abroad(副词)</u>. 他们刚刚从国外回来。
+    ✎ I took my watch <u>from under the pillow(介词短语)</u>. 我从枕头下面拿起了我的手表。
+    ✎ He picked up the gun <u>from behind the counter(介词短语)</u>. 他从柜台后拿起了枪。
+  + 其它介词举例
+    ✎ I live <u>near here(副词)</u>.
+    ✎ We didn’t meet <u>until after the show(介词短语)</u>. 我们直到演出结束才见面。
+    ✎ The weather has been fine <u>except in the north(介词短语)</u>. 除了北部，天气都是晴朗的。
++ **go down** 走下去（人作主语）（船作主语时，可译作：沉没）
+  相关：
+  **go on** 发生
+  ✎ The vicar went up into the clock tower to see what was <u>going on</u>.（L2）
++ **so that**
+  ┏ The noise had been <u>so faint that no one thought</u> that the ship had been damaged.（原文）
+  ┗ The noise had been <u>too faint for anyone to think</u> that the ship had been damaged.（换用too……to……结构）
++ **plunge** v. to move, fall, or be thrown suddenly forwards or downwards 猛地跳入，猛地坠落，猛地向前冲
+  ✎ Her car swerved and <u>plunged</u> off the cliff. 她的车拐弯并且坠入了山崖之中。
+  ✎ They <u>plunged</u> into the lake, and after loading their gear on an inflatable rubber dinghy, let the current carry them to the other side. 突然跳入/坠落（L42）
+  ✎ The captive elephant, still roped to a tree, <u>plunges</u> and screams every time a man approaches, and for several days will probably refuse all food through anger and fear. 往前冲（B4L41）
++ ┏ As there were not enough lifeboats for everybody, 1,500 lives were lost.（原文）
+  ┗ As there were <u>too few lifeboats for everybody to take</u>, 1,500 lives were lost.（换用too……to……结构）
+
+---
+
+## **Lesson 11 - Not guilty**
+### **课文原文**
+<font color=gray size=4>Customs Officers are quite tolerant these days, but they can still stop you when you are going through the Green Channel and have nothing to declare. Even really honest people are often made to feel guilty. The hardened professional smuggler, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase. When I returned form abroad recently, a particularly officious young Customs Officer clearly regarded me as a smuggler.
+
+‘Have you anything to declare?’ he asked, looking me in the eye.
+
+‘No,’ I answered confidently.
+
+‘Would you mind unlocking this suitcase please?’
+
+‘Not at all,’ I answered.
+
+The Officer went through the case with great care. All the things I had packed so carefully were soon in a dreadful mess. I felt sure I would never be able to close the case again. Suddenly, I saw the Officer’s face light up. He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight.
+
+‘Perfume, eh?’ he asked sarcastically. ‘You should have declared that. Perfume is not exempt from import duty.’
+
+‘But it isn’t perfume,’ I said. ‘It’s hair gel.’ Then I added with a smile, ‘It’s a strange mixture I make myself.’
+
+As I expected, he did not believe me.
+
+‘Try it!’ I said encouragingly.
+
+The officer unscrewed the cap and put the bottle to his nostrils. He was greeted by an unpleasant smell which convinced him that I was telling the truth. A few minutes later, I was able to hurry away with precious chalk marks on my baggage.</font>
+
+
+### 🌻 **单词讲解**
++ **guilty** a. 有罪的；内疚的
+  + 有罪的
+    **be guilty of……** 犯了……罪
+    ✎ He <u>is guilty of</u> murder. 他犯了谋杀罪。
+    反义：
+    **innocent** 清白的，无罪的
+    **be innocent of……**
+    ✎ He <u>is innocent of</u> murder. 他没有犯谋杀罪。
+  + 内疚的
+    ┏ **have a guilty conscience** 问心有愧（B2）
+    ┗ **have a clear conscience** 问心无愧
+  
+  ┏ **guilt** n.[U] 有罪
+  ┗ **innocence** n.[U] 无罪，清白
+  ✎ It now remains for the jury to decide on the defendant’s <u>guilt</u> or <u>innocence</u>. 现在，陪审团将决定被告是否有罪。
+  + 相关词：
+  **crime** n.[U]&[C] 罪，罪行
+  ✎ commit a serious <u>crime</u> 犯了一个严重的罪行
+  **sin** （指宗教或道德方面的罪）
+  ✎ It is a <u>sin</u> to tell a lie. 说谎是一个罪行。
++ **tolerant** a. 宽容的，容忍的
+  英文释义：willing to accept other people’s beliefs, way of life, etc. without criticizing them, even if you disagree with them
+  **be tolerant <u>of/ towards</u>……** 对……宽容
+  ✎ Perhaps you need to <u>be</u> more <u>tolerant of</u> your neighbors. 你可能需要对你的邻居更加宽容一些。
+  **tolerable** a. 可以容忍的，还算好的
+  ✎ in <u>tolerable</u> health 身体还算可以
+  ✎ The doctors manage to keep the pain at a <u>tolerable</u> level. 医生们设法让疼痛保持在可容忍的程度。
+  **tolerate** v. 容忍，宽容
+  ✎ Why people are prepared to <u>tolerate</u> a four hour journey each day for the dubious privilege of living in the country is beyond me.（L41）
+  + 同义词近义词：
+    **forbearing** a. 宽容的，容忍的（比tolerant更正式）
+    ✎ The vicar praised what he called her "kind and <u>forbearing</u> nature". 牧师赞扬了她“善良宽容的本性”。
+    **easy-going** a. 随和的，好相处的
+    ✎ Her <u>easy-going</u> nature made her popular. 她随和的天性使得她非常受欢迎。
++ **declare** v.（向税务部门或海关）申报；声明，宣布
+  + （向税务部门或海关）申报
+    ✎ You must <u>declare</u> all you have earned in the last year. 你必须申报你在去年赚得的所有收入。
+    ✎ —— Have you anything to <u>declare</u>? 你有没有什么东西要申报？
+    —— No, I have nothing to <u>declare</u>.
+  + 声明，宣布
+    ✎ I <u>declare</u> you man and wife. 我宣布你们正式成为夫妻。
+    ✎ China <u>declared independence</u> in 1949. 中国在1949年宣布独立。
+    ✎ The Chinese government has <u>declared war on</u> official corruption. 中国政府对官员腐败现象宣战（发动了战争）。
+  
+  **declaration** n. 宣言，宣告
+  ✎ the <u>Declaration</u> of Independence 独立宣言
+  ✎ the United Nations <u>Declaration</u> of Human Rights 联合国人权宣言
++ **professional** a. 职业的，专业的，内行的；n. 专业人士，内行
+  + a.
+    ✎ a <u>professional</u> boxer 一名职业拳击手
+    ✎ You will need to seek <u>professional</u> advice about your claim for compensation. 针对你的索赔要求，你需要去寻求专业的建议。
+  + n.
+    ✎ You sing like a real <u>professional</u>. 你唱得像个真正的专业人士。
+  + 反义词：
+    **amateur** a. 业余的，外行的；n. 业余选手，业余爱好者
+    ◇ a.
+    ✎ an <u>amateur</u> photographer 一位业余摄影师
+    ◇ n.
+    ✎ The tournament is open to both <u>amateurs</u> and professionals. 这场锦标赛对业余选手和职业选手都开放。
+    ✎ I shouldn’t employ them —— they’re just a bunch of <u>amateurs</u>. 我不应该雇佣他们，他们简直就是一帮门外汉。
+  
+  **profession** n. 职业（具有较高专业素养和社会地位）
+  ✎ the <u>medical/ legal/ teaching</u> <u>profession</u> 医疗/法律/教师职业
+  + **表示“职业”的词：**
+  **occupation**（多出现于填表）（**occupy** 占据(时间或空间)）
+  ✎ State your name, age, and <u>occupation</u> in the box below. 在下面的方框内填入你的姓名、年龄和职业。
+  【✘】My <u>occupation</u> is an accountant.
+  【✔】My <u>job/ work/ profession</u> is an accountant.
+  **vocation**（非常适合某人的职业）
+  ✎ She believes she has found her true <u>vocation</u> in life. 她相信她已经找到了她生命中属于她的真正的职业。
++ **dreadful** a. 可怕的；糟糕的
+  ✎ a <u>dreadful / terrible</u> accident, disease, nightmare 可怕的事故/疾病/噩梦
+  ✎ We’ve had some <u>dreadful / terrible</u> weather lately. 最近我们这天气非常糟糕。
+  ✎ All the things I had packed so carefully were soon in a <u>dreadful</u> mess.（本文）
+  + 同根词：
+    **dread** v.& n. 害怕，恐惧
+    ◇ v.：**dread doing sth.** 害怕某事发生，害怕做某事
+    ✎ I <u>dread being</u> sick. 我非常害怕生病。
+    ✎ He <u>dreaded having</u> to spend Christmas in hospital.（L29）
+    ◇ n.：**live in dread of……** 一直都害怕……，~~活在对……的恐惧中~~
+    ✎ The committee members <u>live in dread of</u> anything that may cause a scandal. 委员会的成员们一直害怕任何可能会引起丑闻的事情。
+    ✎ We <u>live in dread</u> not only <u>of</u> unpleasant insects like spiders or wasps, but <u>of</u> quite harmless ones like moths.（L54）
++ **perfume, scent, fragrance** n. 香水；香味（通常表示天然的芬芳，如鲜花香、熟果香）
+  ✎ the <u>scent</u> of ripe fruit 成熟果实的芬芳
+  ✎ the <u>perfume</u> of flowers 花朵的芬芳
+  ✎ the <u>fragrance</u> of lilacs 丁香花的芬芳
+  **perfumed**, **scented**, **fragrant** a.
+  ✎ <u>perfumed/ scented</u> soap 香皂
+  ✎ the <u>Fragrant</u> Hills 香山（北京）
+  + 总结表示**味道**的词
+    **aroma**（人工制品的香味，如：食品、饮料、鸡汤、排骨）
+    ✎ the <u>aroma</u> of hot coffee 热咖啡的浓香
+    **smell**（一般的气味）
+    ✎ funny <u>smell</u> 异味
+    **smelly** 有臭味的，恶臭的
+    ✎ <u>smelly</u> feet 臭脚
+    **odour[英] / odor[美]**（浓烈的气味）
+    ✎ body <u>odour/ odor</u> 体味
+    **odourless / odorless** 没有气味的
+    ✎ Carbon monoxide is a colourless, <u>odourless</u> and noxious gas. 一氧化碳是一种无色、无味、有毒的气体。（noxious比poisonous更正式一些）
++ **sarcastically** ad. 讽刺地，说反话地
+  + **sarcasm / irony** n. 讽刺，反话
+    **with heavy <u>sarcasm/ irony</u>** 伴随着浓浓的讽刺意味
+    ✎ ‘Good of you to arrive on time,’ George said, <u>with heavy sarcasm/ irony</u>. “你到得真准时呀，”乔治说，话语里带着强烈的讽刺。
+    **<u>hint/ trace/ touch</u> of <u>sarcasm/ irony</u>** 有一点讽刺的味道
+    ✎ There was <u>a hint of sarcasm/ irony</u> in her voice. 她的话语里透着一丝讽刺。
+  + **sarcastic / ironic** a. 讽刺的，说反话的
+    ✎ a/an <u>sarcastic / ironic</u> <u>smile/ remark/ expression etc</u> 一个讽刺的微笑/话/表情等
+    ✎ I was almost there when a <u>sarcastic</u> voice below said, ‘I don’t think the windows need cleaning at this time of the night.’（B2L92）
+  + **sarcastically / ironically** ad. 讽刺地，说反话地
+    ✎ ‘Oh good,’ he said <u>sarcastically/ ironically</u>. “噢，好，”他讽刺地说。
+    ✎ ‘Perfume, eh?’ he asked <u>sarcastically</u>.（本文）
+  
+  **sarcasm 和 irony在形容人（话语、动作、表情等）的时候，含义相同，可互换；但在形容某件事时，则仅能用irony。**
+  ✎ the <u>irony</u> of fate 命运的讽刺
+  ✎ It’s <u>ironic</u> that she became a teacher —— she used to hate school. 她成为了老师这件事是挺讽刺的——她以前蛮狠学校的。
+  ✎ <u>Ironically</u>, his cold got better on the last day of his holiday. 讽刺的是，他的感冒到假日最后一天的时候好了。
++ **baggage, luggage** n.[U] 行李，包裹
+  trunk / suitcase …… [C] 箱子；baggage / luggage [U] 行李
+  table / chair …… [C] ；furniture [U]  
+  …… ；…… （详见L6笔记）
+
+
+### 🕹️ **课文讲解**
++ **customs** 表示“海关”时，必须加“s”
+  ✎ <u>customs</u> officers 海关官员
+  ✎ It took ages to <u>clear customs</u> but then we were out of the airport quite quickly. 我们花了好久时间才<u>通过海关检查</u>，但是我们出机场的时候是相当快速的。
+  ✎ You won’t be able to take that <u>through customs</u>. 你不能带它<u>通过海关</u>。
+  **custom** n.[C] 风俗，习俗
+  ✎ the <u>custom</u> of giving presents at Christmas 在圣诞节送礼物的风俗
+  ✎ Chinese traditional <u>customs</u> 中国的传统民俗
++ **quite** 
+  ① 截然，完全 ✎ quite different 截然不同
+  ② 相当地，颇为 ✎ quite tolerant（本文）
++ **these days** 当今，现如今（详见L4）
+  **= today = nowadays**
++ **go through**
+  + 本义：走过去（本文）
+  + 派生义：
+    ◇ 经历某个事情（尤其是令人不愉快的经历）
+    ✎ When you’re <u>going through</u> a crisis, it often helps to talk to someone. 当你正在经历危机，跟人倾诉倾诉往往是有帮助的。
+    ◇ 检查，翻找
+    ✎ I’ve <u>gone through</u> all my pockets but I can’t find my keys. 我翻遍了我所有的口袋，但就是找不到我的钥匙。
+    ✎ The Officer <u>went through</u> the case with great care.（本文）
+    ✎ When she caught up with them, she saw that they had sat down and were <u>going through</u> the contents of the bag, so she ran straight at them.（B2L44）
++ ┏ **make sb. do sth.** 使/让/强迫/迫使某人去做某事（主动）
+  ┗ **be made to do sth.** 被要求去做某事，被搞得……（被动）（本文）
+  ┏ I <u>made him repeat</u> it. 我让他重复一遍。
+  ┗ He <u>was made to repeat</u> it. 他被要求重复一遍。
+  + 类似结构（主动没有to，被动有to）：
+    ┏ **<u>see/ hear/ notice</u> sb. do sth.** 看到/听到/注意到某人做某事（主动）
+    ┗ **be <u>seen/ heard/ noticed</u> to do sth.**（被动）
+    ┏ I <u>saw/ heard/ noticed</u> him <u>leave</u> the room. 我看到/听到/注意到他离开了房间。
+    ┗ He <u>was seen/ heard/ noticed to leave</u> the room. 有人看到/听到/注意到他离开了房间。
+    ┏ **<u>see/ hear/ notice</u> sb. doing sth.** 看到某人正在做某事的片段，并未看到全过程（主动）
+    ┗ **be <u>seen/ heard/ noticed</u> doing sth.**（被动）
+    ┏ I <u>saw</u> him <u>crossing</u> the road. 我看到他当时正在过马路。
+    ┗ He <u>was seen crossing</u> the road. 他被看到当时正在过马路。
+    ┏ I <u>heard</u> the girl <u>singing</u> in the room. 我听到这个女孩正在房间里唱歌。
+    ┗ The girl <u>was heard singing</u> in the room. 有人听到这个女孩正在房间里唱歌。
+    ✎ Almost any day a young porpoise may <u>be seen trying</u> to turn a 300-pound sea turtle over by sticking his snout under the edge of his shell and <u>pushing</u> up for dear life.（B4L18）
+    ✎ The missing boy was last seen <u>playing</u> near the river.
+    (A) playing; (B) to be playing; (C) play; (D) to play
++ **长短句结合** 写作的常用手法
+  本文第一句（长句）—— 第二句（短句）—— 第三句（长句）
++ **hardened** a. 老练的，老资格的，见怪不怪的，麻木不仁的
+  英文释义：someone who is hardened has had a lot of difficult or unpleasant experiences and is no longer much affected by such things
+  ✎ a <u>hardened</u> <u>criminal/ police officer etc.</u> 一个怙恶不悛的罪犯/一个老练的警官等
+  ✎ The children became <u>hardened</u> to the violence. 孩子们变得对暴力麻木不仁了。
++ **on the other hand** 然而在另一方面
+  **= on the one hand…… on the other (hand) ……**
+  英文释义：used to indicate contrasting points of view, opinions, etc
+  ✎ I’d like to eat out, but <u>on the other hand</u> I should be trying to save money. 我想出去吃饭，但另一方面我应该尽量省钱。
+  ✎ <u>On the one hand</u> they’d love to have kids, but <u>on the other (hand)</u>, they don’t want to give up their freedom. 一方面他们想要孩子，但另一方面他们又不想放弃自由。
+  + 类似表达：
+    **for one thing ……** 原因之一是……
+    **= for one thing …… for another ……** 原因之一是……另一个原因是……
+    英文释义：used to introduce a reason for sth.
+    ✎ —— “Why don’t you get a car?” —— “Well, <u>for one thing</u>, I can’t drive!”
+    —— 你为什么不买辆车呢？—— 嗯，原因之一是，我不会开车！
+    ✎ —— “Why won’t you come to New York with me?” ——“<u>For one thing</u>, I don’t like flying, and <u>for another</u>, I can’t afford it.”
+    —— 你为什么不和我一起去纽约？—— 原因之一是，我不喜欢坐飞机，另一个原因是，负担不起机票。
++ **trouble** v. 困扰；使麻烦
+  英文释义：if a problem troubles you, it makes you feel worried or upset
+  ✎ Don’t <u>trouble</u> trouble until trouble <u>troubles</u> you. 不要自找麻烦。/不要招惹麻烦，直到麻烦来困扰你。（谚语）
+> 仿写第3句后半部分（后置定语）
+  他的口袋里藏着一张大额的钞票。
+  He has a large bank note <u>hidden in his pocket</u>. 
+  这个贪官 (corrupt official) 在地下室里藏了1000万元。
+  The corrupt official has 10 million yuan <u>hidden in the basement</u>. 
++ **return**
+  【✔】**= come back = go back**
+  【✘】return back（逻辑重复）
+  类似例子：
+  【✔】say it again
+  【✔】= repeat it
+  【✘】repeat it again
+  ✎
+  【✔】go forward
+  【✔】= advance
+  【✘】advance forward
+  ✎
+  【✔】in my opinion, ……
+  【✔】= I think ……
+  【✘】in my opinion, I think ……
+  ✎
+  【✔】it is because ……
+  【✔】= the reason is that ……
+  【✘】the reason is because ……
++ **form abroad**
+  介词后面的宾语，可以是副词也可以是介词短语。此处副词abroad作了介词from的宾语。
+  ✎ Suddenly, there was a slight trembling sound <u>from below</u>, and the captain went down to see what had happened.（L10）（副词）
+  ✎ <u>Before long</u>, biscuits of all shapes and sizes began arriving at the factory.（L26）（副词）
+  ✎ After crossing the Equator, the captain called in at a port to have a new rudder fitted, but <u>by now</u> the *Thermopylae* was over five hundred miles ahead.（L25）（副词）
+  ✎ Towards midday, a girl heard a muffled cry coming <u>from behind one of the walls</u>.（L35）（介词短语）
++ **abroad** 出国去，到国外去
+  辨：**aboard** 在船上，到船上（字母相同，排列不同）
+  ✎ study <u>abroad</u> 出国留学
+  ✎ All <u>aboard</u>! 全体上船！
+  类似例子：
+  ┏ **quite** 完全，截然，相当，颇为
+  ┗ **quiet** 安静的
+  ┏ **dairy** 奶制品，牛奶厂
+  ┗ **diary** 日记
+  ┏ **latitude** 纬度
+  ┗ **altitude** 海拔，高度
++ **officious** a. 爱发号施令的，指手画脚的，颐指气使的（贬义）
+  英文释义：(disapproving) too ready to tell people what to do or to use the power you have to give orders
+  ✎ When people put on uniforms, their attitude becomes more confident and their manner more <u>officious</u>. 当人们穿上制服时，他们的态度就会变得更加自信，举止行为就会变得更加颐指气使。
++ **officer** 官员（用途宽泛）
+  ✎ a commanding <u>officer</u> （军队里的）指挥官
+  ✎ a police <u>officer</u> 警察，警官
+  ✎ a customs <u>officer</u> 海关官员
+  ✎ chief executive <u>officer</u> 首席执行官
+  **official** n. 政府官员；a. 官方的，官僚的，官员的（作名词时，仅指政府官员）
+  ✎ government <u>officials</u> 政府官员
+  ✎ corrupt <u>officials</u> 腐败官员
+  ✎ <u>official</u> corruption 官员的腐败现象
+  ✎ <u>official</u> statistics 官方的统计数字
++ **look sb in the <u>eye(s)/ face</u>** 直视
+  英文释义：to look straight at sb without feeling embarrassed or ashamed
+  ✎ Can you <u>look me in the eye</u> and tell me you’re not lying? 你能不能直视着我，并且告诉我你没有在撒谎呢？
+  ✎ I’ll never be able to <u>look her in the face</u> again! 我从那以后再也不能直视他了！
++ **confidently** 自信地
+  **= with confidence**（副词往往相当于介词加名词）
++ **would you mind**
+  1. **请求对方做某事**
+    **<u>would/ do</u> you mind doing sth.** 做这件事情您介意吗（would更客气）
+    ✎ <u>Would you mind waiting</u> outside? 您是否介意在外面等一会呢？
+    + 回答：
+      ◇ No, not at all.
+      ◇ Not at all.
+      ◇ Certainly not.
+      ◇ Of course not.
+      ◇ No, that’s quite all right.
+      ◇ Not at all, I’d be <u>happy/ glad</u> to.
+  2. **请求对方允许自己做某事**
+    **<u>would/ do</u> you mind <u>my/ our</u> doing** 我/我们这么做您介意吗
+    ┏ **do you mind if** 如果这么做的话你介意吗（其后跟真实语气：一般现在时）
+    ┗ **would you mind if**（其后跟虚拟语气：一般过去时）
+    ✎ <u>Would you mind my smoking</u> here? 我在这抽烟您介意吗？
+    ✎ <u>Do you mind if</u> I <u>smoke</u> here? 如果我在这抽烟你介意吗？
+    ✎ <u>Would you mind if</u> I <u>smoked</u> here?
+    + 回答：
+      ↓ 不介意
+      ◇ No, not at all.
+      ◇ Not at all.
+      ◇ Certainly not.
+      ◇ Of course not.
+      ◇ Go ahead. 您请便。
+      ↓ 介意
+      ◇ I wish you wouldn’t. 我希望你别这么做。
+      ◇ You’d better not. 你最好别这么做。
+      ◇ I’m sorry, but …… 抱歉……
+      ◇ I’m afraid …… 恐怕……
+      ✎ —— <u>Do you mind if</u> I smoke here? ——<u>I’m afraid</u> this is a non-smoking office.
+      ✎ —— Do you mind <u>if I open the window</u>? —— Go ahead.（老托福语法题）
+      (A) opening the window
+      (B) I open the window
+      (C) if I open the window
+      (D) whether I open the window
+      ✎ W: <u>Would you mind waiting</u> a few more minutes?
+        M: <u>Not at all.</u>
+        Q: What does the man mean?
+        Answer: It doesn't bother him to wait.（托福听力真题）
+      ✎ M: <u>Do you mind if</u> I use your phone?
+        W: <u>Of course not.</u>
+        Q: What does the woman mean?
+        Answer: The man is welcome to use the telephone.（托福听力真题）
+      ✎ M: Excuse me, <u>do you mind if</u> I borrow that newspaper for a little bit.
+        W: <u>I’m sorry, but</u> it doesn’t belong to me.
+        Q: What does the woman imply?
+        Answer: She can’t lend the man the newspaper.（托福听力真题）
++ **with great care = very carefully**
+  “with + 名词”往往相当于“此名词同根的副词”，前者更正式（参见L3笔记）
+  ✎ with delight = delightedly（本文）
+  ✎ with a smile = smilingly（本文）
+  ✎ ‘No,’ I answered <u>confidently (= with confidence)</u>.（本文）
+  ✎ His few material possessions make it possible for him to move from place to place <u>with ease (= easily)</u>.（L27）
+  （其它例句见L3笔记）
+  反例（不用with）：
+  ✎ The gang picked their victims <u>at random (= randomly)</u>.
+  匪帮随机地挑选他们的受害者。
+  ✎ I met an old friend in town <u>by accident (= accidentally)</u>.
+  我意外地在城里碰到了个老朋友。
+  ✎ The negotiations were conducted <u>in secret (= secretly)</u>.
+  谈判是在秘密进行的。
+  ✎ It’s unprofessional to criticize your colleagues <u>in public (= publicly)</u>. 
+  当众批评你的同事是有违职业道德的。
++ **things** [pl.] 私人财物，尤其表示随身可以带走的动产
+  **= (personal) belongings**
+  ✎ The chest contained the personal <u>belongings</u> of a seaman, Alan Fielding.（L32）
+  ✎ As they grow old, people also accumulate <u>belongings</u> for two other reasons, lack of physical and mental energy, both of which are essential in turning out and throwing away, and sentiment.（L59）
++ **pack** vt. 打包 （宾语比较灵活，既可以是包里的东西（本文），也可以是包本身）
+  ✎ Kelly <u>packed</u> <u>her things</u> before dinner.
+  ✎ He was still <u>packing</u> <u>his suitcase</u> when the taxi came. 当出租车来时，他还在打包他的手提箱。
+  + 反义词 **unpack** 
+    宾语同样比较灵活，既可以是包里的东西，也可以是包本身。
+    ✎ He told me to <u>unpack</u> <u>my things</u> and then come down to dinner.（L24）
+    ✎ I <u>unpacked</u> <u>my bags</u> as soon as I arrived. 我刚到就把包打开了。
++ **in a dreadful mess**
+  **in a mess** 乱七八糟（B2）
+  in <u>a/ an</u> <u>dreadful/ terrible/ awful/ appalling</u> mess 乱七大八糟
+  ✎ Jem’s house is always <u>in an awful mess</u>. 杰姆的房子总是一团糟。
+  同义替换：
+  **in (a state of) disorder**
+  ✎ Everything was <u>in disorder</u>, but nothing seemed to be missing. 每个东西都是乱七八糟的，但似乎没有丢什么东西。
+  ✎ The whole office was <u>in a state of disorder</u>. 整个办公室都处于混乱状态。
+  **in (a state of) chaos**
+  ✎ The kitchen was <u>in chaos</u>. 厨房里一片狼藉。
+  ✎ Without it, nothing could ever be brought to a conclusion; everything would be <u>in a state of chaos</u>.（L60）
+  **at sixes and sevens** 乱七八糟（固定搭配）
+  ✎ When the visitors arrived we were still <u>at sixes and sevens</u>. 当客人到达时，我们依然处在乱七八糟的状态。
++ 第6段第3句：**形容词补足语**（L2）
+  I felt **sure** <u>(that) I would never be able to close the case again</u>.（原文）
+  句子主干：I felt sure.
+  划线部分为形容词补足语，与前面的形容词sure共同构成一个大的形容词短语。
+  这是一种特殊的从句，既不是定语从句，也不是状语从句，也不是名词性从句，它专门作形容词的补足语。
+  ✎ Still, I’m **glad** <u>(that) the bell is working again</u>.（L2）
+  ✎ ‘It’s working all right, but I’m **afraid** <u>that at one o’clock it will strike thirteen times and there’s nothing I can do about it</u>.’（L2）
+  ✎ When a passing tanker rescued them five days later, both men were genuinely **sorry** <u>that they had to leave</u>.（L12）
++ **light up**（因喜悦、兴奋等，脸上或眼中）露出光彩
+  英文释义：if someone’s face or eyes light up, they show pleasure, excitement etc.
+  ✎ His eyes <u>lit up</u> with laughter. 他眼中因为欢笑而露出了光彩。
+  ✎ Her face <u>lit up</u> with pleasure. 她高兴得脸上露出了光彩。
++ **pounce (on sth.)** 猛扑上去（扑中某物）
+  ✎ The lion crouched ready to <u>pounce</u>. 狮子蜷起身体准备扑上去。
+  ✎ The hawk <u>pounced on</u> its prey. 鹰扑住了它的猎物。
+  **plunge (into sth.)** 猛地跳下去（猛地跳到……里）
+  ✎ The order to abandon ship was given and hundreds of people <u>plunged into</u> the icy water.（L10）
+  **charge (at sth.)** 猛冲过去（冲向某物）
+  ✎ Bruce <u>charged at</u> it, but in the middle the car came to a grinding halt.（L39）
++ **with delight = delightedly**
+  ┏ **delightedly** ad. 感到高兴地
+  ┗ **delightfully** ad. 令人高兴地
+  ✎ She <u>delightedly</u> accepted the invitation. 她高兴地接受了这个邀请。
+  ✎ The evening is <u>delightfully</u> cool. 这个夜晚是令人愉悦的凉爽。
+  ✎ Robert was <u>delighted</u> to see me and equally pleased with my little gift.（a. 感到高兴的）（L23）
+  ✎ Indeed they can have a <u>delightful</u> surprise when they find something useful which they did not know they owned.（a. 令人愉快的喜悦）（L59）
+  ✎ The old view of Galileo was <u>delightfully</u> uncomplicated.（ad. 令人愉快地）（B4L32）
++ **eh** interj. 语气词
+  英文释义：used for asking someone to agree with you
+  ✎ Pretty good, <u>eh</u>? 很不错吧，嗯？
++ **sarcastically** 替换
+  ┏ ‘Perfume, eh?’ he asked <u>sarcastically</u>.（原文）
+  ┗ ‘Perfume, eh?’ he asked <u>ironically</u>.
+  ┗ ‘Perfume, eh?’ he asked <u>with (heavy) sarcasm</u>.
+  ┗ ‘Perfume, eh?’ he asked <u>with (heavy) irony</u>.
++ **<u>should/ ought to</u> have done** 该做的事却未做（含责备语气）（L1）
+  ✎ He <u>should have known</u> that the police would never allow this sort of thing. A policeman approached Jimmy and told him he <u>ought to have gone</u> along a side street as Jumbo was holding up the traffic.（B2L65）
+  ✎ How I regretted the hours wasted in the woods and fields, the days when I had played and <u>should have studied</u>. 我是多么地遗憾那些浪费在树林和田野的时光，那些日子本应该学习的，而我却在玩耍。（自责）
++ **be exempt from sth.** 免于某事
+  ✎ Children <u>are exempt from</u> the charges. 儿童可免除这些费用。
+  ✎ Currently, developing nations <u>are exempt from</u> certain restrictions on carbon emissions. 目前，发展中国家可以免除某些对碳排放的限制。
+  **exempt sb. from sth.** 使某人免除某事
+  ✎ His bad eyesight <u>exempted</u> him <u>from</u> military service. 他糟糕的视力使他免于兵役。
++ **import duty = customs duty = tariff** 关税
+  ✎ These days, it is differences in national regulations, far more than <u>tariffs</u>, that put sand in the wheels of trade between rich countries.（B4L8）
+  **duty = tax** 税（duty用途窄，仅表示对商品征收的税，如进口货物的关税；tax可指各种类型的税）
+  ◇ income <u>tax</u> 个人所得税
+  ◇ property <u>tax</u> 物业税；地产税
+  ◇ sales <u>tax</u> 营业税
+  ◇ inheritance <u>tax</u> 遗产税
++ **hair gel** 发胶
+  英文释义：a thick liquid substance which is put in the hair to help the hair keep a particular shape or style
++ **add** v. 补充说，接着说，~~做加法~~
+  英文释义：to say more about something that has just been said
+  ✎ I have nothing to <u>add</u> to my earlier statement. 我对早先的声明没有要补充的。
+  常见搭配：
+  **add that ……**（后加宾语从句（间接引语））
+  ✎ Everyone will be invited to vote, he said, <u>adding that</u> voting is likely to be via the web. 每个人都会被邀请来投票的，他补充说，投票将通过网络进行。
+  ✎ He <u>added that</u> a student had dressed up as a policeman and was playing all sorts of silly jokes on people.（L40）
++ **do sth. with a <u>smile/ laugh/ sneer/ shock/ sigh/ start ……</u>**
+  伴随一个微笑/大笑/嘲笑/震惊/叹息/激灵……
+  ✎ ‘Oh, that,’ he said <u>with a smile</u> as if he were talking about an old friend.（L24）
+  ✎ Looking round, I realized <u>with a shock</u> that I was the only passenger left on the bus.（B2L50）
+  ✎ ‘Oh, is it?’ said the sheriff <u>with a sneer</u>. ‘Well, I’m Brinksley Meers, and my other name is Gloria Gleam. Now you get out of here fast!’（B2L74）
+  ✎ One night, however, our vicar woke up <u>with a start</u>: the clock was striking the hours!（L2）
+  ✎ She slowly sat down <u>with a sigh</u> and closed her eyes. 她叹了口气慢慢地坐了下来，然后闭上了她的眼睛。
+
+#### 👾 **oneself 与 by oneself 作状语时的区别**
+┏ **oneself**：亲自做某事，强调“亲自”，并非他人代劳；
+┗ **by oneself = alone**：独自一个人做某事，强调“独自”，没有他人陪伴或帮助
+✎ Do it <u>yourself</u>（DIY）（L46）
+✎ I would not hear of the suggestion and said that I would fix it <u>myself</u>.（L46）
+✎ While Alfred’s little army slowly began to gather at Athelney, the king <u>himself</u> set out to penetrate the camp of Guthrum, the commander of the Danish invaders.（B4L9）
+✎ They are living <u>by themselves (= alone)</u>. 他们独自居住。
+✎ One can’t play tennis <u>by oneself (= alone)</u>. 一个人无法独自打网球。
+
++ <u>**As** I expected</u>, he did not believe me.
+  句子分析：
+  逗号前的部分：as引导的非限定性定语从句，as是关系代词，修饰整个主句，而非某个先行词；逗号后：主句。as在从句中充当expected的宾语。
+  as引导的非限定性定语从句，位置灵活，放主句前、主句中、主句后都可。其它类型的定语从句都不能放到主句前。
+  ✎ <u>**As** I soon learnt</u>, he was English himself!（B2L14）
+  ✎ Anyway, <u>**as** Brian pointed out</u>, it is the easiest thing in the world to give up smoking.（B2L78）
+  ✎ Things can go wrong on a big scale, <u>**as** a number of people recently discovered in Parramatta, a suburb of Sydney</u>.（L33）
++ **try it** 试试吧
+  **= give it a try**
+  **= give it a shot**（shot n. 尝试）
++ **encouragingly** ad. 鼓动地
++ ┏ **unscrew** v. 拧开，拧下来
+  ┗ **screw** v. 拧上，拧紧; n. 螺丝钉
+  ✎ <u>screw</u> a bulb in 把灯泡拧上
+  ✎ She <u>unscrewed</u> the cap of her water bottle and gave him a drink. 她把水壶盖拧开，给了他一点水。
++ **be greeted by ……** 首先看到的、听到的、闻到的是……
+  英文释义：(of sights, sounds or smells) to be the first thing that you see, hear or smell at a particular time
+  ✎ I woke up and <u>was greeted by</u> bird song. 我醒来首先听到的是鸟儿在歌唱。
+  ✎ When she opened the door she <u>was greeted by</u> complete disorder. 当她打开门，首先看到的是一片狼藉。
++ ┏ **convince sb. of sth.** 使某人相信某事（参见L1）
+  ┗ **convince sb. that ……**
+  ✎ The experts <u>were</u> now fully <u>convinced that</u> the animal was a puma, but where had it come from?（L1）
++ **tell the truth** 说实话（tell不译作“告诉”，译作“讲，说”）
+  ✎ <u>tell</u> a <u>lie/ story/ joke……</u>
++ **hurry** 匆匆地走，~~匆忙~~
+  常搭配副词或介词短语，以表示更精确的含义。
+  ✎ A few minutes later, I was able to <u>hurry</u> <u>away</u> with precious chalk marks on my baggage.（副词）（本文）
+  ✎ She <u>hurried</u> <u>away</u> in the opposite direction. 她匆忙地向相反的方向走开了。（副词）
+  ✎ He <u>hurried</u> <u>forward</u> to meet him. 他匆忙地向前迎接他。（副词）
+  ✎ We <u>hurried</u> <u>upstairs</u> to see what was going on. 我们匆忙地走上楼去看出什么事了。（副词）
+  ✎ With this, he <u>hurried</u> <u>off the stage</u>. 一边说着这句话，他一边匆匆地走下台去。（介词短语）（L22）
+  ✎ She <u>hurried</u> <u>down the corridor</u> as fast as she could. 她以最快的速度匆匆忙忙地沿着走廊走了下去。（介词短语）
+  ✎ More than 100 men <u>hurried</u> <u>to the scene</u> to donate their blood. 有100多人匆忙地赶到了现场来献血。（介词短语）
+
+---
+
+## **Lesson 12 - Life on a desert island**
+### **课文原文**
+<font color=gray size=4>Most of us have formed an unrealistic picture of life on a desert island. We sometimes imagine a desert island to be a sort of paradise where the sun always shines. Life there is simple and good. Ripe fruit falls from the trees and you never have to work. The other side of the picture is quite the opposite. Life on a desert island is wretched. You either starve to death or live like Robinson Crusoe, waiting for a boat which never comes. Perhaps there is an element of truth in both these pictures, but few us have had the opportunity to find out.
+
+Two men who recently spent five days on a coral island wished they had stayed there longer. They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired. During the journey, their boat began to sink. They quickly loaded a small rubber dinghy with food, matches, and cans of beer and rowed for a few miles across the Caribbean until they arrived at a tiny coral island. There were hardly any trees on the island and there was no water, but this did not prove to be a problem. The men collected rainwater in the rubber dinghy. As they had brought a spear gun with them, they had plenty to eat. They caught lobster and fish every day，and, as one of them put it ‘ate like kings’. When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave.</font>
+
+
+### 🌻 **单词讲解**
++ **desert island** n. 荒岛
+  相关词：**uninhabited island** 无人岛；**coral island** 珊瑚岛；**volcanic island** 火山岛；**archipelago** 群岛（✎ the Indonesian <u>archipelago</u> 印度尼西亚群岛）；**peninsula** 半岛（✎ the Korean <u>peninsula</u> 朝鲜半岛）
++ **paradise** n. 天堂，伊甸园
+  **heaven** 天堂；**the Garden of Eden** 伊甸园
+  ✎ *Paradise Lost* 《失乐园》
+  **be a paradise for ……** 对……来说是天堂（世外桃源、人间乐土）
+  ✎ Hawaii <u>is a paradise for</u> surfers. 夏威夷是冲浪者的天堂。
+  ✎ California <u>is a paradise for</u> sun lovers. 加州对于喜欢阳光的人来说，简直就是天堂。
+  同义替换：
+  **be a <u>Mecca/ mecca</u> for ……** 对……来说是理想的去处/圣地/乐土（指圣城麦加时，大写；作比喻意时，大小写皆可）
+  ✎ Hawaii <u>is a Mecca/ mecca for</u> surfers.
+  ✎ California <u>is a Mecca/ mecca for</u> sun lovers.
++ **wretched** a. 可怜的，悲惨的
+  **lead a <u>wretched/ poor/ pitiful/ pathetic</u> life** 过着悲惨的生活
+  同根词：
+  **wretch** n. 可怜人
+  ✎ The poor <u>wretch</u> begs in the street. 这个可怜的家伙在大街上乞讨。
+  形近词/近义词：
+  **wreck** n. （身体或精神上）严重伤残的人
+  ✎ Poor man, mentally a <u>wreck</u>. 可怜的人，简直就是脑残。（旧B4）
++ **starve** v. 挨饿
+  ✎ He <u>starved</u> to death in the desert. 他在沙漠中饿死了。
+  ✎ I’m <u>starving</u>. 我饿。
+  近义词：
+  **hunger** v. 挨饿；对……如饥似渴（常作此派生义）
+  **hunger for ……** 渴求……
+  ✎ I <u>hunger for</u> your touch.（《人鬼情未了》主题曲节选）
+  **thirst** 渴；渴求
+  **thirst for ……** 渴求……
+  ✎ The students <u>thirst for</u> knowledge. 这些学生们渴求知识。
+  ┏ **satisfy one’s hunger** 吃饱肚子
+  ┗ **<u>satisfy/ quench</u> one’s thirst** 解渴
+  ✎ Let us not seek to <u>satisfy our thirst for freedom</u> by drinking from the cup of bitterness and hatred.（马丁路德金）让我们不要通过饮下这杯痛苦与仇恨的酒，来试图满足我们对自由的渴望。
+  ✎ Susan awoke that night alone and parched, but as she gazed out her window, she saw the tall drink of water she needed to <u>quench her thirst</u>.（parched a. 极渴的，焦干的）（《绝望主妇》）
++ **element** n. 元素，要素
+  **there is an element of truth in ……** ……有点道理，……有些真实性的元素（固定句型，多用于书面语）
+  ✎ <u>There is an element of truth in</u> his words. 他说得有点道理。
+  **there is a good deal of truth in ……** ……很有道理（L9）
+  ✎ Apparently, <u>there is a good deal of truth in</u> this idea.（L9）
+  **there is no truth in ……** ……没有道理
+  ✎ <u>There is no truth in</u> the rumor. 这个谣言完全没道理。
+  ✎ chemical <u>element</u> 化学元素：earth, water, fire and air 地水火风（四大元素，基本要素）
+  ✎ the <u>element</u> 自然力 ✎ <u>struggle/ fight/ battle</u> against the elements 与大自然作斗争
+  **elementary** a. 基本的，初级的
+  ┏ <u>elementary</u> school [美] 小学
+  ┗ <u>primary</u> school [英] 小学
++ **opportunity** n. 机会
+  ✎ a golden <u>opportunity</u> 一个宝贵的机会（固定搭配）
+  ✎ a once-in-a-life <u>opportunity</u> 一生仅有一次的机会（固定搭配）
+  ┏ miss the <u>opportunity</u> 错过了机会
+  ┗ seize the <u>opportunity</u> 抓住了机会
+  ✎ <u>Opportunity</u> seldom knocks twice. 机不可失（谚语）
+  **take the opportunity to do……** 借这个机会……，趁此机会……
+  ✎ Let me <u>take the opportunity to</u> introduce myself. 让我借此机会来做个自我介绍吧。
+  ✎ Let me <u>take the opportunity to</u> thank you. 让我借此机会跟你道个谢。
++ **genuinely** ad. 由衷地，真诚地
+  + 同义词：
+    **sincerely** （常用于信件）
+    ✎ He was <u>genuinely/ sincerely</u> glad to see Mary. 看到玛丽，他感到由衷地高兴。
+  + **genuine** a. 真心的；真诚的；真的
+    ✎ He has a <u>genuine</u> love for his family. 他对家人怀有真挚的爱。（表示感情的词，搭配介词for而非to）
+    ✎ It certainly looked <u>genuine</u>.（L28）这个金笔看上去确实是真的。
+  + 反义词：
+    **hypocritical** a. 虚伪的；虚假的；伪善的
+    **artificial** a. 假的；人造的 ✎ <u>artificial</u> <u>hair/ tooth/ limb</u> 假发/假牙/假肢
+    **fake/ counterfeit** a. 伪造的（L7）✎ <u>fake/ counterfeit</u> money 伪钞
+    **pirated** a. 盗版的（L5）✎ <u>pirated</u> <u>CDs/ books</u>
+
+
+### 🕹️ **课文讲解**
++ Life **on** a desert island
+  此处的“的”不能用“of”，因为“生活”并不是属于“荒岛”的东西，是**在**荒岛的生活
+  **“在”** 相关介词使用（参见L8笔记）
++ **most** of us
+  + “大多数” 的表达
+  **<u>a/ the</u> majority of ……**（指物指人皆可）
+  **a high <u>percentage/ proportion</u> of ……**（指物指人皆可）
+  ✎ <u>A high proportion of</u> the coffee they produce goes to the US. 他们生产的咖啡大多数都销往美国。
+  + “少数” 的表达
+  **<u>a/ the</u> minority of ……**（指物指人皆可）
+  **a small <u>percentage/ proportion</u> of ……**（指物指人皆可）
+  ✎ Only <u>a small percentage of</u> African American employees were considered for promotion. 仅有一小部分的美国黑人雇员被考虑得到提拔。
++ **form a picture of…… = imagine……** 想象……
+  ✎ Can you <u>form a picture of/ imagine</u> what I described to you? 你能不能想象一下我给你描述的情景呢？
+  **take a picture of……** 给……照张相
+  ✎ Excuse me. My name is Richard Stewart. I’m a photographer. May I <u>take a picture of</u> you and your little boy?（《走遍美国》）
+  + 关于照相情境的表达：
+    ◇ Look in the camera. 看镜头。
+    ◇ Hold that pose. 保持这个姿势。
+    ◇ Say cheese. 笑一笑。
+    ◇ You are photogenic. 你还挺上相的。
+    ◇ The picture <u>does not do your justice</u>. 这张照片没拍好。（固定搭配）（这张照片没有反映出你的真实水平。）✎ The exam result <u>does not do your justice</u>. 这次考试没考好。
++ ┏ **unrealistic** 不现实的；脱离实际的
+  ┗ **unreal** 不真实的
+> 仿写第1句
+  他们之中多数人对于西方世界有一种不切实际的想象。
+  Most of them have formed an unrealistic picture of the western world.
++ **imagine A to be B** 把A想象成B
+  同义替换：
+  **picture A as B**
+  **conceive of A as B**
+  近义替换：
+  **regard A as B** 把A看作B（L11）
+  ✎ When I returned form abroad recently, a particularly officious young Customs Officer clearly <u>regarded</u> me <u>as</u> a smuggler.（L11）
+  **consider A (to be) B**（书面语）🌙consider as ……（口语）🌙
+  ✎ If you lived in the Mediterranean, for instance, you would <u>consider</u> octopus <u>(to be)</u> a great delicacy.（L23）
+  **see A as B** 把A看作B
+  ✎ I <u>see</u> his words <u>as</u> a joke. 我把他的话当作一个玩笑。
+  **count A as B** 把A算作B
+  ✎ I don’t <u>count</u> him <u>as</u> a friend any more. 我不再把他当作朋友了。
+  **look on A as B** 
+  ✎ They <u>look on</u> her <u>as</u> a daughter. 他们把她当作亲生女儿。
+  **think of A as B**（辨：**think of……** 想到……）
+  ✎ Learning a language should <u>be thought of as</u> a natural process. 学习一门语言应该被看作是一个自然而然的过程。
+  ✎ We sometimes think of a desert island <u>as being</u> a sort of paradise.（课后题-4）
++ **a sort of = a kind of ……** 有些像……的；……般的
+  ✎ In spite of this, the Italians regarded him as <u>a sort of</u> hero.（L14）
+  ✎ Since its discovery, it has become <u>a sort of</u> potholers’ Everest.（L42）
+  ✎ They were visited by a large colony of ants which obtained <u>a sort of</u> honey from them.（L54）
+  ✎ A atom is <u>a kind of</u> solar system. 原子是一种类似于太阳系的物质。（考研真题）
+  ✎ Libraries made education possible, and education in its turn added to libraries: the growth of knowledge followed <u>a kind of</u> compound interest law, which was greatly enhanced by the invention of printing.（B4L22）
+  形近结构：
+  **sort of = kind of = somewhat** ad. 有点……（L1）
+  ✎ I’m <u>kind of</u> hungry. 我有点饿了。
+  ✎ He felt <u>sort of</u> embarrassed. 他觉得有点尴尬。
+> 仿写第3句
+  校园生活简单又美好。
+  Life on campus is simple and good.
++ **ripe** 成熟的
+  ✎ Soon <u>ripe</u>, soon rotten. 早熟者早夭。（谚语）
+  ✎ The time is <u>ripe</u>. 时机已经成熟。
+  ✎ I’m waiting till the <u>time is ripe</u> before I tell my parents that I failed my exams. 我正在等待时机成熟，然后再告诉父母亲我考试不及格。
+  + 人的成熟：
+    **adult / full-grown**（肉体的成熟）
+    ✎ an <u>adult</u> cat 一只成年的猫
+    ✎ A <u>full-grown</u> giraffe is 5.5m tall.
+    **mature**（性格、人格的成熟）
+    ✎ He is very <u>mature</u> for his age. 对于他的年龄来说，这个孩子相当成熟。
+  + 食物的生熟：
+    **well-done** 全熟的
+    **medium well** 七八分熟的
+    **medium** 五分熟的
+    **medium rare** 四分熟的
+    **rare** 三分熟的
+    **raw** 全生的
+    ✎ —— How would you like your steak cooked? —— I’d like my steak <u>well-done / medium well / medium / medium rare / rare</u>.
+    ✎ I like to eat fish <u>raw</u>. 我喜欢吃生鱼。（raw fish 是纯粹的生鱼；fish raw 是处理好的生鱼肉）
++ you **never have to work** 你不必工作
+  用“need”表达：
+  you needn’t work（作情态动词，接动词原形）
+  you don’t need to work（作普通实义动词，接不定式to do）
++ **the opposite** 对立面，反面
+  ✎ <u>The opposite</u> of love is hatred. 爱的反面是恨。（作名词）
+  ✎ <u>The opposite</u> bank 河的对岸（作形容词）
+  ✎ <u>The opposite</u> sex 异性（作形容词）
+  **be quite the opposite** 截然相反（搭配）
+  ✎ My father is a very calm person, but my mother <u>is quite the opposite</u>. 我的父亲是个性格平和的人，但是我的母亲却截然相反。
+  **vice verse** 反之亦然
+  ✎ Boys can date girls, and <u>vice verse</u>. 男孩可以跟女孩约会，反之亦然。
++ **either …… or ……** 要么……要么……
++ ┏ ……, waiting for a boat <u>which never comes</u>.（原文-形式上的定语从句）
+  ┗ ……, waiting for a boat <u>but it never comes</u>.（并列句）
++ **there is an element of truth in……** ……有点道理
+> 同义改写第1段末句
+  The former picture <u>is unduly optimistic</u> while the latter picture <u>is unduly pessimistic</u>. 
+  第一种想象过分地乐观，第二种想象过分地悲观。
+  评价：语法正确，句法啰嗦。
+  ↳ 修改：The former picture <u>is unduly optimistic</u> while the latter <u>unduly pessimistic</u>.（为避免歧义，“unduly”不可省略）
+  ↳ 再简化：They are <u>ether</u> unduly optimistic <u>or</u> unduly pessimistic.（课后题1-c）
++ **spend** 度过（参见L4笔记）
+
+#### 👾 **“wish”型的虚拟语气**
+多表达不大可能实现的愿望；相反地，“hope”表达的可能性就比较大，其后不用虚拟语气。
+1. wish + 宾语从句
+  **S. + wish + (that) + S. + ①/②/③**
+  **① did / were（现在）（be动词通通用were，不能用was）**
+  **② had done（过去）**（本文）
+  **③ <u>would/ should/ could/ might</u> + do（将来）**
+  ✎ I wish (that) I <u>met</u> my uncle now. 我真希望现在能遇见我叔叔。（现在）
+  ✎ I wish (that) I <u>had met</u> my uncle yesterday. 我真希望昨天能遇见我叔叔。（过去）
+  ✎ I wish (that) I <u>could meet</u> my uncle tomorrow. 我真希望明天能遇见我叔叔。（将来）
+2. **would <u>rather/ sooner</u> (that) + S. + ①/②/③ ↓**（译为：真希望……就好了。不可译为：宁愿……也不……（would rather do than do））
+3. **if only + S. + ①/②/③**（译为：要是……就好了）
+**① did / were（现在）（be动词通通用were，不能用was）**
+**② had done（过去）**
+**③ would/ should/ could/ might + do（将来）**
+✎ I’d <u>rather/ sooner</u> you <u>started off</u> now. 我真希望你现在马上就能动身。
+✎ I’d <u>rather/ sooner</u> you <u>had been present</u> yesterday. 我真希望你昨天在场。
+✎ If only Tessa <u>were</u> here now! 要是泰莎在这就好了。
+✎ If only I <u>had listened</u> to my parents at that time. 要是当初听父母的话就好了。
+
++ They were taking a badly damaged boat…… （进行时：有身临其境的感觉）
++ **from A to B** 从A到B
+  **空间（地点）**：从A地到B地的3种表达（参见L10笔记）
+  **① from A to B**
+  **② out of A towards B**
+  **③ for B from A**
+  **时间**：从A时刻到B时刻
+  **① from A to B**
+  **② from A <u>until/ till</u> B**
+  **③ A through B**
+  ┏ 商店从周一到周六都开门营业。
+  ┗ The store is open <u>from</u> Monday <u>to</u> Saturday.
+  ┗ The store is open <u>from</u> Monday <u>until/ till</u> Saturday.
+  ┗ The store is open Monday <u>through</u> Saturday.
++ **have sth. done** 请人做某事（L2）
++ **<u>begin/ start</u> doing** 开始做某事
+  **= <u>begin/ start</u> to do** （区别不大，一般来说，主动发出的行为用“doing”好一些；客观发生的事用“to do”好一些。）（L6）
++ **load B with A** 把A装在B(运输工具)上/里
+  = **load A into B**
+  ┏ 他在往车上装杂货。
+  ┗ He is <u>loading</u> his car <u>with</u> groceries.
+  ┗ He is <u>loading</u> groceries <u>into</u> his car.
+  **be loaded with ……** 满载着……
+  ✎ Small boats <u>loaded with wares</u> sped to the great liner as she was entering the harbour.（L28）
++ **row** 摇浆；划船
+  ✎ Learning is like <u>rowing</u> upstream: not to advance is to drop back. 学习如逆水行舟，不进则退。
++ **prove (to be) + <u>a./ n.</u>** 被证明是……（系表结构）
+  ✎ The search <u>proved difficult</u>, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening.（L1）
+  ✎ He knew it would not <u>prove difficult</u> in such a small village.（L16）（用主动，因为系动词没有被动）
+  ✎ The operation, which lasted for over four hours, <u>proved to be very difficult</u> because of the hard resin which covered the skin.（B2L77）
+  ✎ These two pieces of equipment proved (to be) essential to their survival. 这两件设备被证明是对他们的生存来说是至关重要的。（原文同义表达，两件设备指橡皮艇和捕鱼枪）（课后题-2）
++ **put it = express it** 措辞说
+  ✎ And, as one of them <u>expressed</u> it ‘ate like kings’.（课后题-12）
+  ✎ I don’t know how to <u>put it</u>. 这句话我不知道该怎么措辞。
+  **to put it another way** 换句话说（固定习语，动词不定式用作固定状语）
+  ✎ It’s fairly risky. Or <u>to put it another way</u>, don’t try this at home. 它相当危险，或者换句话说，不要在家中尝试。
+  **let me put it this way** 让我这么跟你说吧
+  ✎ W: You had Professor Johnson before, right? How would you describe his lectures?
+  M: Well, <u>let me put it this way</u>: I could never stay awake in one of his classes without first drinking at least two cups of coffee.
+  Q: What does the man imply?
+  Answer: Professor Johnson’s lectures were boring.（听力真题）
++ **genuinely** 由衷地
+  **= sincerely**
+  **= from the bottom of their hearts** 发自心底（习语）
++ **sorry** 遗憾的
+  **= regretful**
+  用动词regret表达末句：
+  【✔】Both men genuinely <u>regretted that they had to leave</u>.（宾语从句）
+  【✔】Both men genuinely <u>regretted having to leave</u>.（regret doing sth. 对做某事很遗憾）
+  【✘】Both men genuinely <u>regretted to have to leave</u>.（regret to do sth. 遗憾地去做某事）
+  regret to do 表示遗憾地去做某事，如果事情已经发生，则只能加doing。
+  以下情况方可用：
+  **regret to say ……**
+  **regret to tell you ……**
+  **regret to inform you ……**
+  ✎ Both men genuinely regretted <u>having to leave</u>.（课后题-8）
+
+---
+
+## **Lesson 13 - ‘It’s only me’**
+### **课文原文**
+<font color=gray size=4>After her husband had gone to work, Mrs. Richards sent her children to school and went upstairs to her bedroom. She was too excited to do any housework that morning, for in the evening she would be going to a fancy-dress part with her husband. She intended to dress up as a ghost and as she had made her costume the night before, she was impatient to try it on. Though the costume consisted only of a sheet, it was very effective. After putting it on, Mrs. Richards went downstairs. She wanted to find out whether it would be comfortable to wear.
+
+Just as Mrs. Richards was entering the dining room, there was a knock on the front door. She knew that it must be the baker. She had told him to come straight in if ever she failed to open the door and to leave the bread on the kitchen table. Not wanting to frighten the poor man, Mrs. Richards quickly hid in the small storeroom under the stairs. She heard the front door open and heavy footsteps in the hall. Suddenly the door of the storeroom was opened and a man entered. Mrs. Richards realized that it must be the man from the Electricity Board who had come to read the metre. She tried to explain the situation, saying ‘It’s only me’, but it was too late. The man let out a cry and jumped back several paces. When Mrs. Richards walked towards him, he fled, slamming the door behind him.</font>
+
+
+### 🌻 **单词讲解**⭐
++ **costume** n. 化妆服
+  ✎ The movie won Oscars for best <u>costumes</u> and best screenplay. 这部电影赢得了奥斯卡最佳服装和最佳剧本奖。
+  ✎ historical <u>costume</u> 古装
+  ✎ traditional national <u>costume</u> 传统的民族服装
+  服装相关：
+  **overalls/ coveralls** 工作服，工装裤（蓝领、工人）
+  **uniform** 制服（警察、护士、学生所着装的统一的制服）
+  ✎ school <u>uniform</u> 校服 ✎ military <u>uniform</u> 军装
+  **sportswear** 运动服（所有由“wear”构成的单词都是不可数）
+  **underwear** 内衣
+  **leisure wear** 休闲装
+  **rags** 乞丐服（rag 碎布片，破布）
+  **shroud** 寿衣；裹尸布
++ **consist** v. 由……组成（不及物）
+  **consist of……** 由……组成
+  **= be composed of ……**
+  **= be made up of ……**
+  **= comprise ……**（及物）
+  ┏ 这个委员会由100个会员组成。
+  ┗ The committee <u>consists of</u> 100 members.
+  ┗ The committee <u>is composed of</u> 100 members.
+  ┗ The committee <u>is made up of</u> 100 members.
+  ┗ The committee <u>comprises</u> 100 members.
+  ┏ 100个会员组成了这个委员会。（阿拉伯数字可以放在句中，若要放到句首，则需用单词书写）
+  ┗ One hundred members <u>comprise</u> the committee.
+  ┗ One hundred members <u>make up</u> the committee.
+  ┗ One hundred members <u>compose</u> the committee.
+  ┗ One hundred members <u>constitute</u> the committee.
++ **sheet** n.床单，被单，片
+  ✎ a <u>sheet</u> of paper 一张纸（固定尺寸规格的完整的纸，a piece of paper不考虑纸张的形状、规格，如纸条，碎纸片等）
+  ✎ The snow came down <u>in sheets</u>. 大雪纷纷扬扬地落下来了。
+  + 床上用品：
+  bedspread 床罩
+  mattress 床垫
+  eiderdown 被子（尤其指鸭绒被）
+  blanket 毯子 （carpet 地毯）
+  pillow 枕头
+  bedclothes/ bedding 床上用品，卧具
+  + 各种床：
+  single bed 单人床
+  double bed 双人床
+  bunk (bed) 上下铺
+  hammock 吊床
++ **metre [英] / meter [美]** n. 仪器，仪表
+  ✎ an electricity <u>meter</u> 电表
+  ✎ a water <u>meter</u> 水表
+  ✎ a gas <u>meter</u> 煤气表
+  ✎ <u>read the meter</u> 查表，抄表 = take a meter-reading（reading：仪表盘上的读数）
+  作词根：
+  ✎ thermo<u>meter</u> 温度表，温度计
+  ✎ baro<u>meter</u> 气压表，气压计
+  ✎ odo<u>meter</u>/ milo<u>meter</u> 里程表
+  ✎ speedo<u>meter</u> 速度表
++ **pace** n.一步，步伐
+  **= step**
+  take one <u>pace/ step</u> forward 向前迈一步
+  quicken one’s <u>pace/ step</u> 加快某人的脚步
+  派生义：**节奏；速度 = tempo**
+  ✎ the <u>pace/ tempo</u> of life 生活的步调
+  ✎ the fast <u>pace/ tempo</u> of modern life 当代快节奏的生活
+  **keep pace with ……** 跟上……；不落后于……
+  ✎ It is important for a company to <u>keep pace with</u> changes in the market. 跟上市场的变化对于一家公司来说是重要的。
+  **stride** 一大步
+  **make strides in ……** 取得了长足的进步
+  ✎ Medical science <u>has made great strides in</u> tackling infertility. 医学在解决不孕症方面取得了长足的进步。
+  **leap** 用力地往前一跳，飞跃
+  ✎ That’s one small <u>step</u> for a man, one giant <u>leap</u> for mankind.（Neil Armstrong）
+  **by leaps and bounds**: very quickly 非常快速地（L15）
+  ✎ M: Your little nephew is growing <u>by leaps and bounds</u>.
+  W: Yes. He must be at least three feet tall already.
+  Q: What do the speakers say about the woman’s nephew?
+  Answer: He’s growing very quickly.（听力真题）
++ **flee** v. 逃走，逃离（一般过去式 fled；过去分词 fled）（不及物）
+  近义词（下列词多作不及物使用）：
+  **abscond** 潜逃 ✎ abscond with money 携款潜逃
+  **elope** 私奔 elope with sb.
+  **escape** 逃走 ✎ escape from the prison 越狱
++ **slam** 
+  + v.砰地关上（及物不及物都行）
+  ✎ The door <u>slammed (shut)</u>. 门咣地一声关上了。（不及物）
+  ✎ Don’t <u>slam</u> the door. 别摔门。（及物）
+  同义词：**bang**（同样及物不及物都行）
+  ✎ The door <u>banged (shut)</u>. 门咣地一声关上了。（不及物）
+  ✎ Don’t <u>bang</u> the door. 别摔门。（及物）
+  + n. 咣的一声
+  ✎ The door shut with a <u>slam/ bang</u>. 门砰地一声关上了。
+
+
+### 🕹️ **课文讲解**
++ **send sb. <u>to + n.</u> / <u>to do</u>** 打发/派遣某人去某地/去做某事
+  ✎ I <u>sent</u> the boy <u>to</u> school/ bed. 我打发孩子去上学/去睡觉。
+  ✎ I <u>sent</u> the boy <u>to</u> buy some beer. 我打发孩子去买些啤酒。
+  同义替换：
+  **dispatch sb. <u>to + n.</u> / <u>to do</u>**（比用send更正式）
+  ✎ An ambulance <u>was</u> immediately <u>dispatched to</u> the area. 一辆救护车立即被派往该地区。
+  ✎ The government <u>dispatched</u> 150 police <u>to</u> restore order. 政府派了150名警察去恢复秩序。
+  **让某人去某地** 的其他表达：
+  **transfer sb. to + n.**（多指公司的岗位调动）
+  ✎ She <u>was transferred</u> from marketing <u>to</u> sales. 她由市场部调到了销售部。
+  **transport sb. to + n.** 流放；发配
+  ✎ He <u>was transported to</u> Siberia for life. 他余生被流放到了西伯利亚。
++ **室内** 相关词汇
+  **hall** 门厅；衣帽厅（L23）
+  **<u>living room/ sitting room/ drawing room</u>** 客厅；起居室 （drawing room 多表示大宅院的豪华的客厅（L58））
+  **dining room** 餐厅
+  **kitchen** 厨房
+  **bathroom** 浴室（也可以表示自己家里的厕所）
+  **guestroom** 客房（L24）
+  **study** 书房（L52）
+  **bedroom** 卧室 **master bedroom** 主卧室
+  **storeroom** 储藏室；储物间
+  **attic/ loft** 阁楼；顶楼（L59）
+  **basement/ cellar** 地下室；地窖（basement 用途广（L58），通常可住人；cellar 多指地窖，多用于窖藏酒、煤等（L49））
+  **balcony** 阳台；露台（L58）
++ **housework**
+  housework 与 homework 都不可数
+  近义词 household chore 可数 （chore 杂活，零活）
+  ✎ I spent all morning <u>doing (the) housework/ household chores</u>.
+  相关词：
+  <u>do/ wash</u> the dishes = do the washing-up 洗碗 (习语)
+  do the <u>laundry/ washing</u> 洗衣服（laundry [U]）
++ **过去将来进行时 would be doing**
+  将来进行时will be doing 见L4笔记
+  ✎ He <u>will</u> soon <u>be working</u> in an office.（L4）
+  ✎ He <u>will be earning</u> only half as much as he used to, ……
++ **fancy-dress** 化妆服 = fancy-dress costume
+  fancy-dress party 化妆晚会/舞会 = masquerade
++ **intend to do** 打算/有意做某事（偏主观）
+  辨：tend to do 往往/常常/多数情况下 有某个倾向（偏客观）
+  ✎ We <u>intend to</u> go to Australia next year. 我们打算明年去澳大利亚。
+  近义词：
+  ◇ **mean to do**
+  ✎ Sorry, I didn’t <u>mean to</u> scare you. 抱歉，我没有打算要吓唬你的。
+  ✎ He always <u>meant to</u> go back one day but not to stay.（L57）
+  ◇ **be going to do**（偏口语）
+  ✎ I<u>’m going to</u> have my hair cut this weekend. 我打算周末去理发。
+  ✎ Both planes <u>were going to</u> take off on July 25th, but Latham failed to get up early enough.（L20）
+  ◇ **have every intention of doing ……**（使用了intend的名词形式，更显正式）
+  I <u>had every intention of</u> phoning her this morning, but I just didn’t get a chance. 我今早很想给她打个电话，但就是没有机会。
+  反义词：
+  ◇ **not intend to do**
+  ◇ **not mean to do**
+  ◇ **have no intention of doing ……**
+  ✎ I <u>had no intention of buying one</u>, but I could not conceal the fact that I was impressed by the size of the diamonds.（L28）
++ **dress up as ……** 装扮成/ 打扮成
+  **= dress sb. up as ……**
+  ✎ We <u>dressed</u> him <u>up as</u> a gorilla. 我们把他打扮成了一头大猩猩。
+  ✎ …… and informed them that two students <u>dressed up as workmen</u> were tearing up the road with a pneumatic drill.（L40）（此dress及物；划线部分为过去分词短语作非谓语）
+  ✎ He went to the fancy-dress party <u>dressed up as a ghost</u>. 他打扮成一个鬼去参加这个化妆晚会。
+  近义表达：
+  **disguise sb. as ……** 把某人打扮成……
+  ✎ He <u>disguised</u> himself <u>as</u> a dustman.（L4课后题）
+  **disguise as ……**（非谓语）
+  ✎ Alfred the Great acted as his own spy, visiting Danish camps <u>disguised as a minstrel</u>.（B4L9）
+  相关表达：
+  **dress up** 穿着过分地正式
+  ✎ You don’t need to <u>dress up</u> for a casual party. 你没必要穿得很正式地参加休闲派对。
+  **overdressed** a. 穿着过分正式的
+  ✎ I think we are <u>overdressed</u>. 我认为我们的穿着过分正式了。
+  **dress down** 穿着不正式，穿着随意
+  ✎ In many offices, people <u>dress down</u> on Fridays. 在很多办公室，在周五人们的穿着会比较随意。
+  **underdressed** a. 穿着过分随意的
+  ✎ Everyone else was in smart suit and I felt a bit <u>underdressed</u>. 周围人都穿着时髦的西装，我觉得（自己）有些穿着过分随意了。
++ **the night before** 前一天晚上，前夜（before在此作副词而非介词）
+  **= the earlier/ previous/ preceding night**
+  **the night after** 第二天晚上，转天晚上
+  **= the next/ following/ succeeding night**
+  night → day：
+  **the day before** 前一天（before在此作副词而非介词）
+  **= the earlier/ previous/ preceding day**
+  **the day after** 第二天，转天
+  **= the next/ following/ succeeding day**
++ **be impatient to do ……** 急不可耐地想做某事（参见L5笔记）
+  **= be eager/ anxious/ itching/ desperate/ dying to do ……**
+  **= can’t wait to do ……**
++ **consist of** 由……组成
+  **= be compose of**
+  Though the costume consisted only of a sheet, ……（原文）
+  = Though the costume <u>was composed only of</u> a sheet, ……
++ **comfortable to wear**
+  **形容词后面如果用动词不定式作补语，要用主动表达被动的含义。**
+  ✎ He is <u>easy</u> <u>to fool</u>. 他很容易被愚弄。调换语序：To fool him is easy.
+  ✎ She is extremely <u>difficult</u> <u>to please</u>. 她很难被取悦。调换语序：略
+  ✎ The machine is <u>awkward</u> <u>to handle</u>. 这台机器操作起来很笨拙。调换语序：略
+  ✎ The man is <u>hard</u> <u>to work with</u>. 跟他共事很难。调换语序：略
++ **just as ……**
+  <u>Just as</u> Mrs. Richards was entering the dining room, ……（原文）
+  = <u>At the very moment (when)</u> Mrs. Richards was entering the dining room, …… <u>就在那时</u>（如果先行词是表示时间的名词，那么其后的关系副词when可省略）
++ there was a knock on the front door
+  把动词名词化后，放在 there be 句型中作无灵主语
+  【✘】There are more and more people who are interested in English in China.（中式英语）
+  【✔】<u>There is increasing interest</u> in English in China. 在中国有越来越多的对英语的兴趣。
+  【✘】People generally agree that women should enjoy full equality with men.
+  【✔】<u>There is general agreement</u> that women should enjoy full equality with men. 人们普遍同意妇女应该享有跟男性一样完全的平等。
+  ✎ The sea bed was scoured with powerful nets and <u>there was tremendous excitement</u> on board when a chest was raised from the bottom.（L32）
+  ✎ While the quality of legal journalism varies greatly, <u>there is an undue reliance</u> amongst many journalists on interpretations supplied to them by lawyers. 
+  尽管有关法律方面的新闻报道的质量差异很大，很多记者过分地依赖于律师提供给他们的解释。（考研英译汉）
++ **it** must be the baker
+  表示推断，所以不用人称代词he、she、you等。
+  ✎ Who is it？ 是谁呀？（Who are you？（当面说））≈ Who is there？ 谁在那儿？
++ **straight** ad. 直接，立刻，不耽搁地（作副词不要加ly）
+  英文释义：directly; immediately; without delay
+  在句中的位置：直接跟在中心动词后面，而不放在副词、介词等的后面。
+  ✎ I got home and went <u>straight</u> to bed. 我到家直接上床睡觉了。
+  ✎ Time is short so I’ll get <u>straight</u> to the point. 时间有限我直奔主题。
++ **leave** 放下，留下；落下
+  ✎ Please <u>leave</u> a message. 请留言。
+  ✎ Please <u>leave</u> your address. 请留下您的地址。
+  ✎ Did anybody <u>leave</u> a jacket behind last night? 昨晚有没有人落下了一件夹克衫？
++ **not wanting**
+  Not wanting to frighten the poor man, ……（原文）
+  = Because she didn’t want to frighten the poor man, ……
+  非谓语动词的否定：在前面加not即可
+  状语从句的主语跟主句的主语一致，一般可采用非谓语动词的形式，例句如下：
+  ┏ Because he didn’t want to be recognized, the suspect dressed up as a priest.
+  ┗ Not wanting to be recognized, the suspect dressed up as a priest.（更简洁）
+  因为他不想被认出来，嫌疑犯打扮成了牧师。
++ **realize** 
+  “某人想到某事”的表达
+  **sth. occur to sb.** 某人想到某事。如果“sth.”篇幅长，则建议使用形式主语：it occur to sb. + 主语从句
+  **sth. strike sb.** 如果“sth.”篇幅长，同上
+  **sth. dawn on sb.**
+  ✎ It suddenly <u>occurred to</u> one of the workers to open up the box.（B2L46）
+  ✎ It suddenly <u>struck</u> me how we could improve the situation. 我突然间想到了如何改善当前局势。
+  ✎ It suddenly <u>dawned on</u> me that this express was not roaring down the line at ninety miles an hour, but barely chugging along at thirty.（L37）
+  ↓ Mrs. Richards realized that ……（原文）
+  ↳ It suddenly <u>occurred to</u> Mrs. Richards that ……
+  ↳ It suddenly <u>struck</u> Mrs. Richards that ……
+  ↳ It suddenly <u>dawned on</u> Mrs. Richards that ……
++ the man **from** the Electricity Board **来自**（强调从哪来，用from）
+  experts <u>from</u> the zoo（L1）
+  a spokeswoman <u>for</u> the Bank（L7）（强调在某家单位工作，用for）
+  editors <u>of</u> newspapers and magazines（L5）（以上两者都不强调，仅表示从属关系）
++ **Board** 局，部门；董事局，董事会
+  ✎ the Water Board 水利局
+  ✎ the Gas Board 煤气局
+  ✎ the board of directors 董事局（director 董事）
+  ✎ He is <u>on the board</u>. = He is <u>a board member</u>. 他是董事会的一名成员.（on board 表示在船、飞机等交通工具上）
++ **read** 的多种译法
+  ✎ read the metre 抄表
+  ✎ read music 识乐谱
+  ✎ read one’s mind 看透某人的心思
+  ✎ read one’s palm 看手相
+> 第2段倒数第3句
+┏ She tried to explain the situation, saying ‘It’s only me’, but it was too late.（原文）
+评价：主次分明，“explain the situation”最重要；“saying ……”被状语化，重要程度降低。
+┗ She tried to explain the situation and said ‘it’s only me’.
+评价：and前后同样重要，不利于区分重要性。
+┗ <u>Trying to explain the situation</u>, she said ‘it’s only me’.（课后题）
+评价：这样改写，重点变成了“said ……”
+◇ 小结：
+┏ 汉语：parataxis——平行语，连动句，没有轻重之别。
+┗ 英语：hypotaxis——层次语，突出中心动词，次要动词状语化。
+练习：
+↓ He looked at his watch and saw that it was one o’clock, but the bell struck thirteen times and then it stopped.（全是并列，不知道哪个重要）
+↳ <u>Looking at his watch</u>, he **saw** that it was one o’clock, but the bell **struck** thirteen times <u>before it stopped</u>.（L2）（加粗为强调的动作，划线为弱化的动作：第1处，非谓语动词作状语；第2处，置于时间状语从句中）
+◇ 小结：
+以上是主语统一的情况，主语不统一时，可用独立主格结构来表达次要动作。
+**独立主格**：(with) + n. + 非谓语 (doing/ done/ to do，其中being常省略)（详见L6笔记）
+↓ He stopped running and sweat streamed down his face.
+↳ He stopped running (with) sweat streaming down his face. （强调stop）
+↳ He/ With him stopping running sweat streamed down his face.（强调stream）
++ **let out** 特指人发出叫喊声
+  <u>let out</u> a cry / scream 发出大声叫喊/尖叫
+  同义表达：
+  **utter** a cry / scream
+  **give** a cry / scream（L10）
+
+---
+
+## **Lesson 14 - A noble gangster**
+### **课文原文**
+<font color=gray size=4>There was a time when the owners of shops and businesses in Chicago had to pay large sums of money to gangsters in return for ‘protection’. If the money was not paid promptly, the gangsters would quickly put a man out of business by destroying his shop. Obtaining ‘protection money’ is not a modern crime. As long ago as the fourteenth century, an Englishman, Sir John Hawkwood, made the remarkable discovery that people would rather pay large sums of money than have their life work destroyed by gangsters.
+
+Six hundred years ago, Sir John Hawkwood arrived in Italy with a band of soldiers and settled near Florence. He soon made a name for himself and came to be known to the Italians as Giovanni Acuto. Whenever the Italian city-states were at war with each other, Hawkwood used to hire his soldiers to princes who were willing to pay the high price he demanded. In times of peace, when business was bad, Hawkwood and his men would march into a city-state and, after burning down a few farms, would offer to go away if protection money was paid to them. Hawkwood made large sums of money in this way. In spite of this, the Italians regarded him as a sort of hero. When he died at the age of eighty, the Florentines gave him a state funeral and had a picture painted which was dedicated to the memory of ‘the most valiant soldier and most notable leader, Signor Giovanni Haukodue’.</font>
+
+
+### 🌻 **单词讲解**
++ **gangster** n.歹徒，强盗
+  **gang** 匪帮 ✎ the Gan of Four 四人帮
+  ✎ Hi, gang. 大家好。/你们好。（口语，偏美式，多用于朋友亲属间）
++ **promptly** 
+  + ad. 准时地
+  同义替换：
+  **punctually**
+  **sharp**（口语）
+  ┏ 她于十点钟准时抵达。
+  ┗ She arrived <u>promptly</u> at ten. 
+  ┗ She arrived <u>punctually</u> at ten. 
+  ┗ She arrived at ten <u>sharp</u>. 
+  + ad. 立即，立刻，马上，不耽搁
+  ✎ An ambulance was <u>promptly</u> dispatched to the area. 一辆救护车立即被派往该地区。
+  = immediately/ right away/ straight away/ at once
+  + **prompt**
+  + a. 准时的
+  ✎ a <u>prompt/ punctual</u> start 一个准时的出发
+  + a. 立即，立刻，不耽搁
+  ✎ Staff should be <u>prompt</u> in dealing with complaints. 员工在处理投诉方面必须迅速。
+  ✎ The drowning child was saved by Dick’s <u>prompt</u> action. 这个快淹死的孩子被迪克立即的行动所救。（六级单选）
+  A) acute（急的，紧急的。一般形容疾病 ✎ an acute illness 急性疾病） ；B) alert（机警的）；C) profound（深的，深刻的，深邃的）；D) prompt
++ **remarkable** a. 不同寻常的，非凡的（褒义）
+  ✎ a remarkable feat 一个非凡的功绩
+  ✎ a remarkable achievement 一个非凡的成就
+  作表语：**be remarkable for** 因为……而变得非凡/杰出/突出
+  ✎ He <u>is remarkable for</u> his memory. 他记忆力出众。
+  “非凡的” 近义替换：
+  ◇ **extraordinary**（L1）
+  ✎ her <u>extraordinary</u> beauty 她非凡的美貌
+  ✎ Nelson Mandela is a truly <u>extraordinary</u> man. 纳尔逊·曼德拉是一位真正了不起的人。
+  ◇ **exceptional**
+  ✎ The child had shown <u>exceptional</u> courage. 这个孩子展现出了非凡的勇气。
+  ✎ Her scores are quite <u>exceptional</u>. 她的成绩相当地突出。
++ **hire** v. 雇佣，租用；出租
+  ①雇佣，租用：**hire…… from…… = rent…… from……**
+  ②出租：**hire (out)…… to…… = rent (out)…… to……**
+  ┏ A 把 B 租给了 C
+  ┗ A hires/ rents (out) B to C
+  ┗ C hires/ rents B from A
++ **dedicate** v.奉献；把…… 题献给
+  ①奉献：**dedicate/ devote…… to……** 把……奉献给了……（to是介词，不是动词不定式）（指献出时间、精力等）
+  ✎ He has <u>dedicated</u> himself <u>to</u> scientific research. 他为了科学研究献出了自己毕生的精力。
+  ✎ After he has retired, he will <u>devote</u> himself <u>to</u> gardening. （B2L85）
+  辨：**sacrifice…… for……** 为了……而牺牲/放弃……（L4）（多指献出生命）
+  ②把…… 题献给：
+  ✎ (the book is) <u>dedicated to</u> my beloved wife （谨以此书）献给我深爱的妻子
+  **dedicated** a. 一心一意的；有献身精神的；把全部精力都投入的
+  ✎ A truly <u>dedicated</u> bargain hunter must have patience, and above all, the ability to recognize the worth of something when he sees it.（L34）
++ **memory** [ˈmem*ə*ri] n. 纪念（对死者的追忆）（音标中的斜体*ə*，表示此音理论上存在，但读不出来/不读）
+  **in memory of……** 或 **to the memory of……** 追忆/纪念（已去世的）某人
+  ┏ 这座纪念碑是为纪念在战争中阵亡的所有将士而建的。
+  ┗ The monument was built <u>in memory of</u> all the soldiers who died in the war.
+  ┗ The monument was built <u>to the memory of</u> all the soldiers who died in the war.
+  同义替换：
+  **commemorate** v.
+  ✎ A statue has been built to <u>commemorate</u> the 100^th^ anniversary of the poet’s birthday. 为了纪念这位诗人诞辰100周年，人们建造了一座雕像。
+
+
+### 🕹️ **课文讲解**
++ **there was a time when…… = once** 当年，曾几何时（暗示现在已经不这样了）
+  ✎ <u>There was a time when</u> I was down and out. 当年我穷困潦倒。
+  **there are times when…… = sometimes** 有时候
+  ✎ <u>There are times when</u> even the tiger sleeps. 老虎也有打盹的时候。
+  ✎ <u>There are times when</u> silence has the loudest voice. 有时候，沉默是最响亮的声音。
+  ✎ <u>There are times when</u> we would willingly give everything we possess to save our lives, yet we might grudge paying a surgeon a high fee for offering us precisely this service.（L27）
+  **there are rare instances when…… = occasionally** 偶尔地，，偶然地，在个别情况下会如何
+  ✎ <u>There are rare instances when</u> justice almost ceases to be an abstract concept.（L35）
+  ✎ <u>There are rare instances when</u> patriotism ceases to be an empty slogan. 在个别情况下，爱国主义不再是一个空洞的口号。
++ **businesses** 
+  表示 “公司” 时，通常可数；表示其它含义时（如：“商业”，“生意”），通常不可数。
+  “公司”：the owners of shops and <u>businesses</u>（本文）
+  “公司”：…… a successful furniture <u>business</u>.（L7）
+  “商业”：…… put a man out of <u>business</u> ……（本文）
+  “生意”：…… when <u>business</u> was bad, ……（本文）
+  ✎ He has done a lot of <u>business</u> here in Beijing. 他在北京做了许多生意。
++ **pay large sums of money** 
+  **make large sums of money**
+  **earn enormous sums of money**
+  He <u>earned enormous sums of money</u> ……（L21）
++ **in return for……** 以换取……；以报答……
+  ✎ America helped the rebels <u>in return for</u> their promise to support democracy. 美国支持这些叛军以换取他们支持民主的承诺。
+  ✎ He is always willing to help people out, without expecting anything <u>in return</u> (for his help). 他总是乐于助人而从不图任何回报。
+  + 近义搭配：
+  **in exchange for……**
+  ✎ They were given food and shelter <u>in exchange for</u> work. 他们用劳动换取食物和栖身之处。
+  **in compensation for……** 以弥补/补偿……
+  ✎ She received $10,000 <u>in compensation for</u> her injuries at work. 她收到了1万美元来补偿她在工作中受的伤。
+  + 用介词in表示目的的习语不多，但都特别重要。在此扩充以下几个：
+  **in memory of ……** 以追忆死者（+ 逝者）
+  **in honor of ……** 以纪念……；以向……表示敬意（ + 逝者/生者）
+  ✎ The college was named <u>in honor of</u> George Washington. 这所大学是为了纪念乔治·华盛顿而命名的。
+  ✎ a banquet <u>in honor of</u> the president 为向总统表示敬意而专门举行的宴会
+  **in appreciation of ……** 以感谢……
+  ✎ I sent him a gift <u>in appreciation of</u> his help. 我给他寄了一件礼物以感谢他的帮助。
+  **in recognition of ……** 以表彰……
+  ✎ He was awarded one of the ‘Ten Outstanding Young Persons’ <u>in recognition of</u> his significant achievements. 他被授予为“十大杰出青年”之一的头衔，以表彰他的重大成就。（表达“人”，口语中一般用“people”，正式场合多用“persons”）
++ the money → protection money 保护费
++ **put sb. out of business** 使某人破产
+  **= make sb. broke/ bankrupt**
+  **put sb. out of work** 使某人失业
+  ✎ The changing economic conditions have <u>put</u> many people <u>out of work</u>. 不断变化的经济状况使得很多人失业了。
+  **out of** 在……外边；在……范围之外
+  ✎ I am <u>out of</u> patience. 我现在已经不耐烦了。
+  ✎ I am <u>out of</u> anger. 我现在极度愤怒。
+  ✎ The TV is <u>out of</u> repair. 这台电视机已经修不了了。
++ obtaining ‘protection money’
+  **extort sth.** 勒索某物
+  ✎ Gangsters used to <u>extort</u> money from local businessmen. 匪徒们过去常常向当地的商人勒索钱财。
+  **blackmail sb.** 敲诈某人
+  ✎ Someone was trying to <u>blackmail</u> him with pictures of him and his mistress. 某人正试图通过他和他情妇的照片敲诈他。
++ **as long ago as……** 早在……就……
+  **= as early as……**
+  ✎ <u>As long ago as</u> the 15^th^ century BC, the temple was used as a place of worship. 早在公元前十五世纪，这座庙宇就被当作做礼拜的场所。
++ **Sir John Hawkwood** 
+  **Sir + 名字** 某爵士（不可翻译为“某先生”，“Sir” 译作先生时，后边不能加名字，能加名字的是“Mr.”）
+  ✎ Sir Winston Churchill 温斯顿·丘吉尔爵士（简写：Sir Winston(名)；Mr. Churchill(姓)）
+  贵族名字前边加“Lord”
++ **would rather/ sooner do than do** 宁愿……也不愿……
+  **prefer to do rather than do** 更喜欢做某事而不太喜欢做某事
+  **prefer doing to doing** 宁愿做某事也不愿做某事（L8）
+  **would rather/ sooner (that) ……** 真希望……（虚拟语气）（L12）
+  ✎ I’d rather (that) Susan <u>were</u> here now. 我真希望苏珊在这就好了。（一般过去式指现在）
++ **have sth. done** 表示某人不愉快的经历（一译：请某人做某事，见L2）
+  ✎ He <u>had</u> his watch <u>stolen</u>. 他的表被偷了。
+  ✎ King Charles Ⅰ <u>had</u> his head <u>cut off</u>. 国王查理一世被砍头了。
+> 仿写第2段第1句
+  As long ago as 1984, I arrived in Beijing with my parents and settled near the Temple of Heaven.
+  早在1984年，我就随父母到了北京，并在天坛附近定居了下来。
++ **settle down** 定居，安顿下来（不再漂泊，此后过安稳的日子，尤暗示娶妻生子）；安静下来
+  ✎ They’d like to see their daughter <u>settle down</u>, get married, and have kids. 他们想看到他们的女儿定居下来结婚生子。
+  ✎ Assuming that his family had been killed during an air raid, Hans <u>settled down</u> in a village fifty miles away where he had remained ever since.（L36）
++ **make a name for oneself** 成名，出名
+  ✎ Ge You first <u>made a name for himself</u> in the movie ‘Wan Zhu’. 葛优是在《顽主》这部电影中成名的。
+  **become famous overnight** 迅速成名，一夜成名
+  ✎ With the success of their first record, they <u>became famous overnight</u>. 随着他们第一张唱片的成功，他们一夜成名了。
+  **rise to fame**
+  ✎ Mendoza <u>rose to fame</u> swiftly after a boxing match when he was only fourteen years old.（L21）
+  **make (the) headlines / hit the headlines**（指某事成名）
+  ┏ 9-11恐怖袭击迅速成为世界新闻。
+  ┗ The 9/11 terrorist attack <u>made (the) headlines</u> around the world.
+  ┗ The 9/11 terrorist attack <u>hit the headlines</u> around the world.
++ **come to do** 慢慢地……；渐渐地……
++ **A be known to B as ……** B把A称为……（参见L4笔记）
+  ✎ He <u>was known to</u> us all <u>as</u> Dickie and his eccentricity had become legendary long before he died.（L31）
+  ✎ Li Bai <u>is known</u> to the Chinese <u>as</u> ‘poet-immortal’. 中国人把李白称为诗仙。
+  ✎ Basketball player Earvin Johnson soon made a name for himself and came to be known to the Americans as ‘MagicJohnson’. 篮球运动员埃尔文·约翰逊迅速出名了，并且美国人开始把他称为“魔术师约翰逊”。
++ **be at war with……** 与某国在交战
+  ✎ China had <u>been at war with</u> Japan for 8 years. 中国跟日本打了8年的仗。
+  **declare war on……** 向某国宣战
+  ✎ The Chinese government has <u>declared war on</u> official corruption. 中国政府向官员腐败现象宣战（发动了战争）。
+  **wage war on……** 向某国发动战争
+  ✎ We continually <u>wage war on</u> them, for they contaminate our food, carry diseases, or devour our crops.（L54）
++ **in times of……** 在某个时期（详见L3笔记）
+  ✎ in times of war 在战争年代
++ 生意不景气：Business is <u>bad/ slow/ slack</u>.
+  生意红火：Business is <u>good/ booming</u>.
++ Hawkwood and **his men** 手下（的士兵）
+  ✎ The general commanded <u>his men</u> to fire. 将军命令手下的士兵们开火。
+  **subordinate**（公司里的）下属/下级
++ **march** （部队）前进，行军
+  ✎ the Long March 长征
+> 造句
+  早在20世纪30年代，红军就完成了伟大的长征，在这期间他们走过了25,000里。
+  As long ago as the 1930’s, the Red Army had completed the successful Long March during which they covered 25,000 li.
+  ◇ 在此期间：during which
+  ✎ A week before, he had completed a successful overland flight <u>during which</u> he covered twenty-six miles.（L20）
+  ◇ 里、亩、顷、元、角、分等由汉语拼音构成的单位单复数同形。
++ **offer to do……** 主动提出……
+  **volunteer to do……** 主动/自愿做某事
+  ✎ Jill <u>volunteered to</u> go with me to the hospital. 吉尔主动提出陪我去医院。
++ 只要……就……
+  **provided (that)……** （provided直接可以当连词用）
+  **providing (that)……**（用法一样，前者用得更多）（亦可当连词用）
+  **as/ so long as ……**（接条件状语从句）（亦可当连词用）（L7）
+  **on condition (that)……** 在……条件成立的情况下……（condition前面不能加冠词）
+  **only if……** 只有……才……
+  ┏ She will go <u>only if</u> Peter goes. 只有彼得去，她才去。
+  ┗ <u>Only if</u> Peter goes <u>will</u> she go. （only放句首，引起部分倒装）
++ a sort of hero 英雄般的人物 ~~一种英雄~~（L12）
+> Only the good die young. 好人不长命。（young作主语补足语）
++ 举行
+  …… , the Florentines gave him a state funeral
+  = …… , the Florentines <u>held a state funeral for</u> him.
++ a **state** funeral 国葬
+  a <u>state</u> visit 国事访问
+  a <u>state</u> banquet 国宴
+  <u>state</u> affairs 国家大事（affairs 风流韵事；公众性、政治性的事件）
+  the <u>State</u> Council 国务院
+> 仿写最后1句
+  When Ronald Reagan died at the age of 93, the Americans gave him a state funeral and had a statue built which was dedicated to the memory of the great president.
+  当罗纳德·里根在93岁去世时，美国人为他举行了一次国葬，并请人塑了一尊塑像以纪念这位伟大的总统。
+
+#### 👾 **高级作文的句子要领**
+1. 复合句为主，简单句作为点缀和过渡。
+2. 句式多变，尤其相邻两句的句首切忌雷同。
++ 本文评析：
+◇ 第一段
+① 无灵主语开头，复合句；
+② 条件状语从句开头，复合句；
+③ 无灵主语开头，简单句；
+④ 介词短语作时间状语开头，复合句。
+◇ 第二段
+① 副词短语作时间状语开头，复合句；
+② 主谓结构开头，复合句；
+③ 让步状语从句开头，复合句；
+④ 介词短语作时间状语开头，复合句；
+⑤ 主谓结构开头，简单句；
+⑥ 介词短语作让步状语开头，简单句；
+⑦ 时间状语从句开头，复合句。
+总结：Sentence opening is very important to create sentence variety. 句子开头对制造句子的多样性至关重要。
+
+---
+
+## **Lesson 15 - Fifty pence worth of trouble**
+### **课文原文**
+<font color=gray size=4>Children always appreciate small gifts of money. Mum or dad, of course, provide a regular supply of pocket money, but uncles and ants are always a source of extra income. With some children, small sums go a long way. If fifty pence pieces are not exchanged for sweets, they rattle for months inside money boxes. Only very thrifty children manage to fill up a money box. For most of them, fifty pence is a small price to pay for a nice big bar of chocolate.
+
+My nephew, George, has a money box but it is always empty. Very few of the fifty pence pieces and pound coins I have given him have found their way there. I gave him fifty pence yesterday and advised him to save it. Instead he bought himself fifty pence worth of trouble. On his way to the sweet shop, he dropped his fifty pence and it bounced along the pavement and then disappeared down a drain. George took off his jacket, rolled up his sleeves and pushed his right arm through the drain cover. He could not find his fifty pence piece anywhere, and what is more, he could no get his arm out. A crowd of people gathered round him and a lady rubbed his arm with soap and butter, but George was firmly stuck. The fire brigade was called and two fire fighters freed George using a special type of grease. George was not too upset by his experience because the lady who owns the sweet shop heard about his troubles and rewarded him with a large box of chocolates.</font>
+
+
+### 🌻 **单词讲解**
++ **appreciate** v.欣赏；感激
+  ✎ appreciate music 欣赏音乐
+  ✎ appreciate wine 品酒
+  ✎ I appreciate your help. 我感谢你的帮助。（比“thank you”更庄重）或 I appreciate it.
+  **be appreciative of ……** 感激的，感谢的（形容词）
+  ✎ I<u>’m</u> most <u>appreciative of</u> your concern for my health. 我特别感激您对我健康的关心。
+  **in appreciation of ……** 以感激……；以感谢……（名词）
+  ✎ I sent him a gift <u>in appreciation of</u> his help. 我给他寄了一件礼物以感谢他的帮助。
+  近义搭配：
+  **be thankful/ grateful (to sb.) (for sth.)** 因为某事而感谢某人（如果已知某人，则“to sb.”可省略；如果已知某事，则“to sth.”可省略，下同）
+  ✎ I<u>’m thankful/ grateful to</u> you <u>for</u> your help. 我非常感激您对我的帮助。
+  **be obliged (to sb.) (for sth.)** 
+  ✎ I<u>’m</u> much <u>obliged to</u> you <u>for</u> your advice.
+  **be indebted (to sb.) (for sth.)** 
+  ✎ I<u>’m</u> deeply <u>indebted to</u> you <u>for</u> your encouragement.
+  **I owe you (one). / I owe you a lot. / I owe you a big favor.** 我欠你的。（用于熟人之间）
++ **pocket money** n.零用钱，零花钱（多指给孩子的）
+  **beer money** （多指给老公、男友的）
+  + 相关搭配：
+  **pick one’s pocket** 偷某人的钱 **pickpocket** [C]扒手
+  **money burns a hole in one’s pocket** 形容存不住钱
+  ✎ W: Have you saved enough to buy that new printer for your computer yet?
+  M: You know <u>money seems to be burning a hole in my pocket</u> lately. Maybe next month.
+  Q: What does the man mean?
+  Answer: He doesn’t have enough money to buy a printer now.（听力真题）
++ **rattle** v.&n. 硬物碰撞时当当作响
+  ✎ The coins <u>rattled</u> in the money box when he shook it. 当他摇晃存钱罐时，硬币在里面当当作响。
+  + 相近词：
+  ◇ **tinkle** 硬物碰撞时发出的叮叮声
+  ✎ I rang the bell and heard it <u>tinkle</u> inside. 我摁响了铃，听到了里边叮叮声。（作动词）
+  ✎ the <u>tinkle</u> of glass and china 玻璃和瓷器碰撞发出的叮叮声（作名词）
+  ◇ **clatter** 硬物落地发出的声音
+  ✎ the <u>clatter</u> of hooves 马蹄声
+  ◇ **chime** 大钟的声音
+  ✎ The church bells <u>chimed</u> in the square. 教堂的钟声在广场上响起。
+  ◇ **slam/ bang** 砰的一声（L13）
+  ✎ Don’t <u>slam/ bang</u> the door. 不要咣当摔门。（作动词）
+  ✎ The door shut with a <u>slam/ bang</u>. 门咣当一声关上了。（作名词）
++ **thrifty** a.节俭的，节约的
+  ✎ a <u>thrifty</u> housewife 一个勤俭持家的家庭主妇
+  同义近义反义：
+  **frugal** 节约的，节省的
+  **economical** 节约的，节省的（economic 经济的）
+  **miserly** 吝啬的，抠门的，财迷的（miser 守财奴，吝啬鬼，铁公鸡）
+  **stingy** 吝啬的
+  **wasteful** 浪费的
+  **extravagant** 浪费的
+  ✎ ……, he was so <u>extravagant</u> that he was always in debt.（L21）
+  **save on ……/ economize on ……** 节约……（不及物动词，可以跟搭配的介词一起记）
+  ✎ <u>save on/ economize on</u> water/ electricity 节约用水/电
++ **nephew** n.侄子；外甥
+  亲属相关称谓：
+  **niece** 侄女；外甥女
+  **cousin** 堂/表兄弟姐妹
+  **sibling** [C] 亲兄弟姐妹
+  ✎ <u>sibling</u> rivalry 兄弟姐妹间的竞争
+  ✎ He has two <u>siblings</u>, a brother and a sister. 他有两个兄弟姐妹，一个哥哥和一个姐姐。
+  ┏ **aunt** 姨，婶，舅母
+  ┗ **uncle** 叔，姨父，舅舅
+  **parental** 父母亲的 **maternal** 母亲的 **paternal** 父亲的
+  ✎ <u>parental/ maternal/ paternal affection</u> 父母亲的爱/母爱/父爱
+  **filial** 子女的
+  ✎ <u>filial</u> duty 子女的责任/义务
+  ✎ <u>filial</u> piety 子女的孝顺（piety 虔诚）
++ **bounce = bound** v./ n. 弹起，弹跳
+  ✎ The ball <u>bounced</u> when it hit the ground. 这个球碰到地面弹起来了。
+  ✎ She came <u>bouncing</u> in and told me the good news. 这个女孩蹦蹦跳跳地进来告诉我好消息。
+  ✎ That’s the way the ball <u>bounces</u>. 本来就是这样的。/这是天经地义的。（习语）
+  **by leaps and bounds**: very quickly 非常快速地（习语）
+  ✎ Her health is improving <u>by leaps and bounds</u>. 她的健康状况正在迅速地改善。
++ **stick** v.卡住；粘住；伸出
+  ✎ The drawer <u>sticks</u> badly. 这个抽屉卡得死死地。
+  **stick to…… / cling to…… / adhere to……** 粘到……上；维持……/坚持……不放弃
+  ✎ I’ll <u>stick to</u> my job until I find a better one. 直到我找到更好的工作以前，我还坚持我现在的工作不放弃。
+  ✎ <u>Stick</u> your tongue. 伸出你的舌头。
+  ✎ ‘<u>Stick</u>’em up!’（“them”缩略）（偏俚语）举起手来！（常见于劫匪或警察之口）
+  ✎ —— Freeze! Stick’em up! Your money or your life? 不许动！举起手来！要钱还是要命？
+  —— Definitely my life! 当然要命！
+
+
+### 🕹️ **课文讲解**
++ **money + worth of + sth.** 价值……的东西
+  ✎ They had got away with <u>thousands of pounds worth of diamonds</u>.（L6）
++ small gifts of money = pocket money = extra income 零用钱（为避免重复，用了三种表达）
++ **supply** 用名词更显正式
+  常见 “动词表达” 换作 “名词表达”：
+  ◇ 做出了巨大贡献：greatly contribute to…… → make great contributions to……
+  ◇ 特别强调……：specially emphasize/ stress…… → lay/ put special emphasis/ stress on……
+  ◇ 完全理解了……：fully understand…… → have a full understanding of……
+  ◇ 仔细地考虑……：carefully consider…… → give careful consideration to……
+  ◇ 强烈反对……：strongly object to…… → have a strong objection to……
+  ✎ 这份报告特别强调了必须要吃充足的新鲜蔬菜和水果。
+  ↓ The report specially stresses that it is necessary to eat plenty of fresh fruit and vegetables.
+  ↳ The report <u>lays special stress on</u> <u>the necessity of</u> consuming adequate fresh fruit and vegetables.
++ **source** 来源（原意：江河湖海的发源地/源头）
+  ✎ <u>the source</u> of the Yangtze River 长江的源头
+  **resource** 资源
+  ✎ natural <u>resources</u> 自然资源
+  ✎ mineral <u>resources</u> 矿产资源
+  **origin** （事物的）起源
+  ✎ the <u>origin</u> of mankind 人类的起源
+  ✎ the <u>origin</u> of the universe 宇宙的起源
+  **originate in……= stem from……= have its roots in ……** 源于……，来自于……
+  ✎ Printing <u>originates in/ stems from/ has its roots in</u> China. 印刷术起源于中国。
+  ✎ However, a new type of humour, which <u>stems</u> largely <u>from</u> America, has recently come into fashion.（L29）
+  ✎ Learning English <u>is always a source of pleasure</u> for me. 学习英语对我来说总是一种乐趣。
++ **With** some children
+  with ……/ for…… / to…… 对某人来说
+  ✎ <u>For</u> most of them, ……（本文）
++ **go a long way** 延续很长时间（比喻意）
+  ✎ The battery can <u>go a long way</u>. 这个电池可以用上很久。
+  **go a long way towards** 在某方面有很大的帮助
+  ✎ The book will <u>go a long way towards</u> solving your problems. 这本书在解决你的问题方面会有很大的帮助。
+  **come a long way** 取得了很大的进步
+  ✎ M: I saw some of your paintings at the student art exhibit. They are great.
+  W: Thanks. I feel as though I’ve <u>come a long way</u>.
+  Q: What does the woman mean?
+  Answer: She thinks her painting has improved.（托福听力真题）
++ **piece**: coin 硬币
++ **exchange** 兑换；交换
+  **exchange A for B** 把A换成B
+  ✎ Where can I <u>exchange</u> U.S. dollars <u>for</u> British pounds? 在哪能把我的美元换成英镑？
+  exchange rate 汇率
+  **change A into B** 把A变成B
+  ✎ The witch <u>changed</u> the prince <u>into</u> a frog. 女巫把王子变成了一只青蛙。
++ money boxes 存钱罐
+  = piggy-bank
++ **fill up sth.** 把……装满（up是副词，可放宾语前，也可放宾语后）
+  ✎ <u>Fill</u> her <u>up</u>! 请给我的车加满油！（近义口语表达：I need a full tank. 我需要一个满的油箱。）
+  **fill in/ out** the form 填表格
++ ┏ **be a small price to pay for sth.** 对于……来说算不了什么
+  ✎ The loss of money <u>is a small price to pay for</u> the rise in status. 损失点钱对于提高地位来说算不了什么。
+  ┗ **be a high price to pay for sth.** 对于……来说不值得/代价太高
+  ✎ The sacrifice of health <u>is a high price to pay for</u> success. 为了成功而牺牲健康是不值得的。
++ **a nice big bar of chocolate**
+  形容词的排列顺序：**大 形 年 新 颜 国 材 用 + 中心名词**（大小，形状，年龄，新旧，颜色，国籍，材料，用途）（此8类以外的，不做明确要求，一般放最前面）
+  ✎ a heavy big round new black Chinese wooden dining table 一张新的很沉的黑色的中国式的圆形的大木餐桌
+  纯巧克力不可数；巧克力制品可数，如巧克力糖。
+  **名词前面有量词时，如果量词需形容词修饰，则形容词要放在量词之前**
+  ✎ a <u>nice</u> cup of tea 一杯好茶
+  ✎ a <u>beautiful</u> stretch of field 一片美丽的原野
+  ✎ a <u>stagnant</u> pool of water 一潭死水
++ **find one’s way**
+  ① **物作主语：到达某地**
+  ✎ The river <u>finds its way</u> to the sea. 河流最终到达了大海。
+  ✎ How did my money <u>find its way</u> in your pocket? 我的钱怎么会到你的口袋里去了？
+  ✎ They had mysteriously <u>found their way</u> there from the wine cellar!（L49）
+  ② **人作主语：找到/发现了去某地的道路**
+  ✎ Specially-made lanterns are hung outside each house to help the dead to <u>find their way</u>.（B2L96）
+  **lose one’s way** 迷路
+  ✎ I love travelling in the country, but I don’t like <u>losing my way</u>.（B2L50）
+  **feel one’s way** 摸索着前进
+  ✎ The room was dark, so I had to <u>feel my way</u> along the wall to the door. 屋子里一片漆黑，所以我不得不沿着墙摸索着前进到门那里。
+  **make one’s way** 向某个方向/地方走去
+  ✎ The hospital had been bombed and Hans had <u>made his way</u> back into Western Germany on foot.（L36）
+  ✎ Turning back down the main street, we quickened our pace and <u>made our way</u> rapidly towards the stream where we hoped the boatman was waiting.（L48）
+  **<u>force/ elbow</u> one’s way** 挤着/推搡着往前走
+  ✎ He <u>forced/ elbowed his way</u> through the crowd. 他从人群中硬生生地挤了过去。
+  **<u>trace/ wind</u> one’s way** 蜿蜒前进
+  ✎ We expected the path to end abruptly, but we found that it <u>traced its way</u> through the trees.（L48）
+  ✎ The river <u>winds its way</u> through the valley. 这条河蜿蜒穿过山谷。
+  **edge one’s way** 侧身前进
+  ✎ They had to <u>edge their way</u> along this, sometimes wading across shallow streams, or swimming across deep pools.（L42）
++ **advise sb. to do sth.** (+ 动词不定式) 建议某人做某事
+  **advise (that) ……**(+ 宾语从句，需用**虚拟语气**👇) 
+
+#### 👾 **“should do” 型的虚拟语气**
+（可与 L12 “wish” 型的虚拟语气对照学习）
+1. 下列动词后的宾语从句中用 **(should) do**（“should”英式可加可不加；美式必须不加）
+  order, ask, decide, demand, require, advise, recommend, suggest, insist ……（多译为“应该”）
+  ✎ He <u>suggested</u> <u>that we (should) help them with English</u>. 他建议我们应该帮助他们来学英语。
+  ✎ The teacher <u>ordered</u> <u>that the homework (should) be finished within half an hour</u>. 老师命令这个作业应该在半小时之内完成。
+  ✎ Even though the noble was expected to read the letter at each performance, he always <u>insisted</u> <u>that it should be written out in full</u>.（L22）
+2. 下列名词后的同位语从句中用 **(should) do** （“should”英式可加可不加；美式必须不加）
+  suggestion, order, request, demand, proposal ……（多译为“应该”）
+  ✎ He made a <u>suggestion</u> <u>that we (should) have a fancy dress party</u>. 他建议我们应该举行一次化妆晚会。
+  ✎ The <u>proposal</u> <u>that John (should) be dismissed</u> is unacceptable. 约翰应该被解雇这个建议是不能接受的。
+3. 下列形容词后的主语从句中用 **(should) do** （“should”英式可加可不加；美式必须不加）
+  important, necessary, natural, essential, advisable, strange, surprising ……（多译为“应该；竟然”）
+  ✎ It’s <u>strange</u> <u>that you (should) say such a thing</u>. 你竟然会说出这种话，这很奇怪。
+  ✎ It was <u>important</u> <u>that you (should) tell me all the information</u>. 你应该把所有情况都告诉我，这很重要。
+
++ **Instead of doing ……, ……** 本该……，结果却……
+  ↓ <u>Instead</u> he bought ……（原文此处有缩略） →
+  ↳ <u>Instead of saving it ,</u> he bought ……（补全）
+  ✎ <u>Instead of becoming</u> a doctor, however, he became a successful writer of detective stories.（L24）
+  ✎ <u>Instead of being</u> five new family members, these children had immediately become a commodity.（L45）
+  ✎ <u>Instead of</u> taking the lift/ elevator, we walked down the stairs. 本该乘电梯的，我们却走楼梯下去了。（lift[英]/ elevator[美]）
+  ✎ <u>Instead of</u> studying, he wastes his time chasing girls. 本该好好学习的，他却浪费时间来追女孩子。
++ **on one’s way** 在某人去某地的路上/半路途中
+  **in one’s way** 挡住了某人的去路
++ **push** 推（阻力在全面）
+  **pull** 拉（阻力在后面）
+  **drag** 拖，拽（劲大一点）
+  **haul** 薅
++ …… took off…… rolled up…… pushed……
+  连续使用动词而无主次区分：可表达一种急切的心情，增强紧迫感。
+  ✎ Acting on a sudden impulse, I <u>collected</u> several dozen, <u>put</u> them in a paper bag, and <u>took</u> them to Robert.（L23）
++ **what is more (书) / what’s more (口)** 而且；还；更有甚者（仅表示递进，无感情色彩）
+  ✎ <u>What is more</u>, they will not have to rely solely on the written word.（L38）
+  其它表示递进且无感情色彩的词：
+  **moreover/ furthermore**
+  **besides**
+  **in addition**
+  **additionally**
+  更糟/倒霉的是：
+  **to make things worse**
+  **to make matters worse**
+  （以上两词属非谓语动词，因为是固定搭配，可当作习语来用，所以不要求逻辑主语跟主句主语统一）
+  ✎ The team has lost the last two games and, <u>to make matters worse</u>, two of its best players are injured. 这个队伍已经输掉了最近的两场比赛，并且更糟的是，他们的两位最好的选手还受伤了。
++ **gather**
+  表示人群聚集的词（皆可作不及物动词使用）：
+  **gather; assemble; collect; mass; congregate**
+  ✎ While Alfred’s little army slowly began to <u>gather</u> at Athelney, the king himself set out to penetrate the camp of Guthrum, the commander of the Danish invaders.（B4L9）
+  ✎ A large crowd had <u>assembled</u> outside the American embassy. 一大群人聚集在了美国大使馆的外面。
+  ✎ A crowd soon <u>collected</u> at the scene of the accident. 一群人很快聚集在了这个事件发生的现场。
+  ✎ Demonstrators had <u>massed</u> outside the embassy. 示威者聚集在了大使馆的外面。
+  ✎ A crowd quickly <u>congregated</u> around the speaker. 一群人很快聚集在了演讲者的周围。
++ soap, butter 
+  都是不可数，表示数量：
+  ◇ a <u>bar/ cake</u> of soap 一块肥皂
+  ◇ a <u>slice</u> of butter 一片黄油
+  香皂：<u>perfumed / scented</u> soap（参见L11笔记）
++ 消防队：the fire brigade (英联邦) the fire department (北美) 
+  消防员：firefighter/ fire fighter (英) fireman (美) 
++ …… and two fire fighters freed George using a special type of grease.（原文，评价：主要动作——谓语动词；次要动作——非谓语动词）
+  …… and two fire fighters used a special type of grease to free George.（中式写法，评价：动作的主次不符合英文表达习惯）
++ **hear of/ about ……** 获悉……；听说……
+  = **know of/ about ……**
+  = **learn of/ about ……**
++ **reward sb. with sth.** 用……报答/奖励
+  ✎ The audience <u>rewarded</u> the performer <u>with</u> thunderous applause. 观众们对这位表演者报以雷鸣般的掌声。
+  reward n. 酬金
+  ✎ a <u>reward</u> of ￡1,000 一笔一千英镑的酬金
+  **award sb. sth.** 授予某个奖项/头衔
+  ✎ She <u>was awarded</u> the Nobel Prize for her work in medical research. 因为她医学研究方面的工作，她被授予了诺贝尔奖。
+  award n. （具体的某个）奖项
+  ✎ the Academy <u>Award</u> 奥斯卡奖/学院奖
+> 文章评析
+◇ 本文体裁：记叙文（narrative）
+◇ 文章线索：
+题目：新颖有趣，引人注意；
+第一段：作铺垫：孩子喜欢零花钱 → 来源(父母/亲属) → 少数节俭，多数立刻花掉；
+第二段：叙述事情经过：(when, where, who, why, what, and result)，照应题目。
+
+---
+
+## **Lesson 16 - Mary had a little lamb**
+### **课文原文**
+<font color=gray size=4>Mary and her husband Dimitri lived in the tiny village of Perachora in southern Greece. One of Mary’s prize possessions was a little white lamb which her husband had given her. She kept it tied to a tree in a field during the day and went to fetch it every evening. One evening, however, the lamb was missing. The rope had been cut, so it was obvious that the lamb had been stolen.
+
+When Dimitri came in from the fields, his wife told him what had happened. Dimitri at once set out to find the thief. He knew it would not prove difficult in such a small village. After telling several of his friends about the theft, Dimitri found out that his neighbour, Aleko, had suddenly acquired a new lamb. Dimitri immediately went to Aleko’s house and angrily accused him of stealing the lamb. He told him he had better return it or he would call the police. Aleko denied taking it and led Dimitri into his backyard. It was true that he had just bought a lamb, he explained, but his lamb was black. Ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him. While they were talking it began to rain and Dimitri stayed in Aleko’s house until the rain stopped. When he went outside half an hour later, he was astonished to find that the little black lamb was almost white. Its wool, which had been dyed black, had been washed clean by the rain!</font>
+
+
+### 🌻 **单词讲解**
++ **prize/ prized** a. 心爱的，受珍视的（未必是值钱的）
+  ✎ The idea never appealed to me very much, but one day, after a heavy shower, I happened to be walking in my garden when I noticed a huge number of snails taking a stroll on some of my <u>prize</u> plants.（L23）
+  + 同义词：
+  **valued/ treasured/ cherished** a.
+  以上词都是过去分词，来自相应的及物动词：
+  **prize/ value/ treasure/ cherish** vt. 珍爱，珍视
+  ✎ I’ll <u>prize/ value/ treasure/ cherish</u> our friendship for ever. 我将永远珍视我们之间的友谊。
+  ✎ This is a lesson you’re going to <u>prize/ value/ treasure/ cherish</u>. 这节课大家一定会珍视的。
+  + **valuable/ priceless/ precious** a. 宝贵的，价值连城的
+  <u>precious</u> stone 宝石
+  ✎ It was very old and <u>precious</u> even then.（L3）
++ **tie** v.拴，系，捆，绑
+  ✎ <u>tie</u> a <u>tie</u> 系领带
+  **tie…… to……** 把某人/某物拴/捆在某个东西上
+  ✎ <u>Tie</u> the horse <u>to</u> a tree. 把这匹马拴在树上。
+  ✎ The thief <u>was tied/ bound (原形bind)/ chained (原形chain) to</u> a tree. 这个贼被绑到了一棵树上。
++ **theft** n. 盗窃
+  **thief** n. 贼
+  ✎ He is guilty of <u>theft</u>. 他犯有盗窃罪。（be guilty of…… 犯有……罪行；犯了……罪（L11））
+  + 多种贼：
+  **burglary** n. 入户行窃
+  **burglar** n. 梁上君子
+  ✎ <u>Burglar</u> alarms going off at any time of the day or night serve only to annoy passers-by and actually assist <u>burglars</u> to burgle.（L47）
+  **pickpocket** 扒手
+  **shoplifter** 商店窃贼
+  + 动词
+  **steal sth. from sb.** 从某人那里偷来某物
+  **rob sb. of sth.** 抢劫某人的某物
+  **help oneself to sth.** 请自便；派生意：偷/抢
+  ✎ One of the thieves was struck by a heavy statue, but he was too busy <u>helping himself to diamonds</u> to notice any pain.（L6）
+  **poach** 盗捕；盗猎
+  ✎ Deer have <u>been poached</u> here for years. 鹿在这里被偷猎多年了。
+  **embezzle** 贪污
+  ✎ The official was charged with <u>embezzling</u> enormous government funds. 这位官员被指控贪污了巨额的公款。
++ **accuse** v. 指控；（愤怒地）指责
+  **accuse sb. of sth.** 指控，控告/（愤怒地）指责某人
+  ✎ I <u>accused</u> him <u>of</u> stealing my sheep. 我控告/气愤地指责他偷了我家的绵羊。
+  ✎ They may even <u>accuse</u> them <u>of</u> disloyalty, or make some spiteful remark about the friends’ parents.（B4L34）
+  + “批评” 的相关表达：
+  **criticize sb. for sth.** 因为某事而批评某人（正式地，无感情色彩）
+  ✎ He <u>was criticized for</u> his delay in dealing with the matter. 他因为在处理这个事件中耽搁了而受到了批评。
+  **censure sb. for sth.** 严厉地批评某人（措辞重，不一定有感情色彩）
+  ✎ Ministers <u>were censured for</u> their lack of decisiveness during the crisis. 因为在危机期间不够果断，部长们受到了严厉的指责。
+  **scold sb. for sth.** 因为某事指责某人（多用于长辈对晚辈）
+  ✎ His mother <u>scolded</u> him <u>for</u> breaking her favorite vase. 因为他打碎了妈妈最心爱的花瓶，他的妈妈批评了他。
+  **<u>blame sb. for sth. / blame sth. on sb.</u>** 强调把某事归咎于某人，强调某人应该为此负责
+  ┏ 他们把这次的失败归咎到了乔治头上。
+  ┗ They <u>blamed</u> George <u>for</u> the failure.
+  ┗ They <u>blamed</u> the failure <u>on</u> George.
+  **reprimand sb. for sth.** （多用于上下级之间的责备）
+  ✎ I <u>was reprimanded</u> by my manager <u>for</u> being late. 我因为迟到而受到了经理的批评。
+  ✎ Recognizing who the customer was, the manager was most apologetic and <u>reprimanded</u> the assistant severely.（L31）
+  **condemn A <u>for/ as</u> B** 因为B而谴责A / 把A谴责为是B（大家一致地批评）
+  ✎ The movie <u>was condemned for</u> its sexism. 这部电影因为性别歧视而受到谴责。
+  ✎ The terrorist attack <u>was condemned as</u> an act of barbarism and cowardice. 这次恐怖袭击被谴责为是野蛮和懦弱的行径。（barbar 野蛮人）
++ **deny** v. 否认
+  **deny + sth./ doing/ that……**
+  ✎ He <u>denied</u> the charge. 他否认了这项指控。
+  ✎ He <u>denied</u> knowing about it. 他否认了解这个事情。
+  ✎ He <u>denied</u> that he had stolen the sheep. 他否认他偷走了这只绵羊。
+  反义搭配：
+  **admit/ acknowledge + sth./ doing/ that……**
+  ✎ He <u>admited/ acknowledged</u> the charge. 他否认了这项指控。
+  ✎ He <u>admited/ acknowledged</u> knowing about it. 他否认了解这个事情。
+  ✎ He <u>admited/ acknowledged</u> that he had stolen the sheep. 他否认他偷走了这只绵羊。
++ **ashamed** a. 惭愧的，羞耻的（常作表语）
+  **be ashamed of……** 对……感到羞耻/羞愧
+  ✎ You should <u>be ashamed of</u> your behavior. 你应该对自己的行为感到羞耻。
+  **be ashamed to do** 耻于去做某事
+  ✎ Their behavior makes me <u>ashamed to</u> be Chinese! 他们的行为让我耻于做中国人！
+  同根词：
+  **shame** 
+  vt. 使丢脸；使蒙羞 同义词：**disgrace, humiliate**
+  **bring shame/ disgrace on ……**（名词搭配，习语）
+  ┏ 他的行为使他的家人蒙羞。
+  ┗ His behavior <u>shamed</u> his family.
+  ┗ His behavior <u>disgraced</u> his family.
+  ┗ His behavior <u>humiliated</u> his family.
+  ┗ His behavior <u>brought shame on</u> his family.
+  ┗ His behavior <u>brought disgrace on</u> his family.
+  n. 羞耻；可惜
+  ✎ ‘Shame on you!’ “真丢人！”
+  ✎ ‘What a shame!’ “真可惜！”
+  ✎ —— John is sick and can’t come to class. —— What a shame!
+  ✎ M: Just as Sarah was opening the present I realized the camera wasn’t working.
+  W: What a shame!
+  Q: What does the woman mean?
+  Answer: It’s too bad the camera didn’t work.（听力真题）
+  **put sb./ sth. to shame** 使……相形见绌
+  ✎ They have all <u>been put to shame</u> by a boy who, while playing truant, travelled 1,600 miles.（B2L73）
++ **apologize** v. 道歉
+  **apologize to sb. for sth.** 因为某事而向某人道歉
+  ✎ I <u>apologized to</u> him <u>for</u> being late. 我因为迟到而向他道歉
+  “因为某事而某人道歉” 的类似表达：
+  **make an apology to sb. for sth.**
+  **say sorry to sb. for sth.**
+  **be apologetic about sth.**（形容词表达）
+  ✎ He <u>was apologetic about</u> his late arrival. 他因为迟到而表示歉意。
+  ✎ Recognizing who the customer was, the manager was most <u>apologetic</u> and reprimanded the assistant severely.（L31）
+
+
+### 🕹️ **课文讲解**
++ in southern Greece = in the south of Greece
+  southern…… = the south of……
+  northern…… = the north of……
+  eastern…… = the east of……
+  western…… = the west of……
+  ┏ 她来自中国西部。
+  ┗ She comes from <u>western China</u>.
+  ┗ She comes from <u>the west of China</u>.
+  扩展：
+  northeastern…… = the northeast of…… 在……的东北的
+  northwestern…… = the northwest of…… 在……的西北的
+  southeastern…… = the southeast of…… 在……的东南的
+  southwestern…… = the southwest of…… 在……的西南的
+  ┏ Jane和父母亲住在中国东北一个叫丹东的小城市里。
+  ┗ Jane and her parents live in the tiny town of Dandong in <u>northeastern China</u>.
+  ┗ Jane and her parents live in the tiny town of Dandong in <u>the northeast of China</u>.
++ Greece 希腊
+  Greek 希腊的；希腊人；希腊语
+  ✎ <u>Greek</u> mythology 希腊神话
+  ✎ ‘It’s all <u>Greek</u> to me.’ 我完全看不懂。（直译：这对我来说完全是希腊文。因希腊语难学，故有此比喻。）
++ …… a little white lamb which her husband had given her. =
+  …… a little white lamb <u>which had been a present **from** her husband</u>.
++ **keep + 宾语 + 宾补（a./ 分词/ 介词短语）**
+  ✎ The coat will <u>keep you **warm**</u>. 这件外套会让你保持温暖。（a.）
+  ✎ He <u>kept the fire **burning**</u>. 他让火一直燃烧着。（现在分词）
+  ✎ It’s rude to <u>keep people **waiting**</u>. 让别人一直等你，是粗鲁的。（现在分词）
+  ✎ <u>Keep your nose **out of my affairs**</u>! 少管闲事！（介词）
++ **fetch** 表示一个来回（美国一般用get，对狗用fetch）
+  ✎ Please <u>fetch/ get</u> me some coffee. 请给我拿点咖啡。
+  ✎ ‘Go <u>fetch</u>!’ “去给我叼回来！”
+  辨：
+  **bring** 表示带过来
+  ✎ He <u>brought</u> a friend to my home. 他带了个朋友到我家来。
+  **take** 表示带走
+  ✎ Don’t forget to <u>take</u> an umbrella. 不要忘记带伞。
++ was missing
+  表示“丢了”：
+  **be missing/ be lost/ disappear (without trace)**（最后一个译为：消失得无影无踪）
+  …… the lamb <u>was missing</u>.（原文） =
+  …… the lamb <u>was lost</u>. =
+  …… the lamb <u>disappeared (without trace)</u>.
++ …… so **it was clear/ obvious/ apparent that** the lamb had been stolen. 某事是很明显的/显然的
+  …… so **clearly/ obviously/ apparently** the lamb had been stolen.（或用副词表达）
+  ┏ 所有我仔细放在包里的东西都乱成了一团，所以显然珠宝是被偷了。
+  ┗ All the things I had packed so carefully were in a dreadful mess, so <u>it was clear/ obvious/ apparent that</u> the jewels had been stolen.
+  ┗ All the things I had packed so carefully were in a dreadful mess, so <u>clearly/ obviously/ apparently</u> the jewels had been stolen.
+  （借鉴自L11：All the things I had packed so carefully were soon in a dreadful mess.）
++ **set out to do** （带着目的）去做某事
+  The journalist immediately <u>set out to obtain</u> these important facts, but he took a long time to send them.（L5）
+  近义搭配（开始做某事）：
+  **begin to do/ doing**
+  **start to do/ doing**
+  **come to do**
+  ✎ Future historians will be in a unique position when they <u>come to record</u> the history of our own times.（L38）
+  ✎ When you <u>come to</u> think about it, there are only four ways you can deal with rubbish: dump it, burn it,turn it into something you can use again, attempt to produce less of it.（L47）
+  **get to do/ to doing**
+  ✎ I <u>get to like</u> her over the months. 经过这几个月来，我开始喜欢她了。
+  ✎ He<u>’s got to thinking</u> it was all his fault. 现在他已经开始认为这都是他的错了。
+  ✎ They had a definite meaning, for they were as near as early man could <u>get to writing</u>.（L38）
+  **embark on sth.** 上船/飞机；开始某个任务
+  ✎ Armed with the right tools and materials, newlyweds gaily <u>embark on</u> the task of decorating their own homes.（L46）
++ **prove** 系动词，“被证明是”
++ **such** a small village（such修饰名词短语）
+  **so** small a village（so修饰形容词、副词）
+  ✎ <u>such</u> an interesting book
+  ✎ <u>so</u> interesting a book
+  **many/ much/ few/ little** 这些表示多少的形容词前面，只能加so，即便后面是名词短语（特例：little表示小、可爱的时候除外）
+  ✎ so many people
+  ✎ so much time
+  ✎ so few students
+  ✎ so little money
+  ┏ so little a boy
+  ┗ such a little boy
++ **tell sb. (about) sth.** 告诉某人某事（一般不说 tell sth. to sb.）
+  近义搭配：
+  **report/ relate/ recount sth. to sb.** 把某事告诉某人
+  ✎ After <u>reporting/ relating/ recounting</u> the theft <u>to</u> several of his friends, ……（原文替换）
+  ✎ We know instinctively, just as beekeepers with their bees, that misfortune might overtake us if the important events of our lives <u>were not related to</u> it.（L56）
++ Dimitri found **out** that…… 此处 out 为副词
+  介词后面必须加宾语，宾语再短也必须放后面；副词位置则灵活。
+  ✎ The experts <u>were</u> now fully <u>convinced (of) that</u> the animal was a puma, but where had it come from?（L1）（省略的介词of 跟了that 从句）
+  特例：
+  **in that ……** 复合词，译作：因为
+  **except that …… = but that ……** 除了……情况之外；要不是……的话
+  （如果把这三个看作复合连词，不看作介词+that，那就没有特例了）
++ **had better do sth. or (else) ……** 最好……否则就……（常见的威胁语气）
+  ✎ You<u>’d better</u> go out at once <u>or (else)</u> I’ll throw you out of the window. 你最好马上给我出去，否则我就把你从窗户扔出去。
+  + 其它威胁语气的结构：
+  **do sth. before ……** 在我……之前你来做某事
+  ✎ Get away from here <u>before</u> I call the police. 在我报警之前你赶紧给我离开。/你再不走我就报警了。
+  + 相关搭配：
+  **otherwise** 否则，要不然的话（无威胁语气）
+  ✎ Put on a heavy coat, <u>otherwise/ or (else)</u> you’ll catch a cold. 穿上一件厚外套吧，不然你就感冒了。
+  + 单独使用一般表示建议（用于长辈对晚辈，上级对下级，至少是同辈同级。不可用于晚辈对长辈，下级对上级）
+  **had better do sth.** 最好做某事
+  ✎ You<u>’d better</u> pay him a visit tomorrow. 你明天最好去看看他。
+  客气的说法：
+  **You might as well do ……**
+  **It might be better to do ……**
+  **I suggest you do ……**
++ call the police / go to the police 报警
+  ✎ At first, she decided to <u>go to the police</u>, but fearing that she would never see Rastus again — the letter had made that quite clear — she changed her mind.（L19）
+  inform the police 通知警方
+  ✎ Mrs. Ramsy was not to <u>inform the police</u> and had to pay £1,000.（L19课后题）
++ Aleko <u>denied taking</u> it（原文）
+  = Aleko <u>denied the accusation/ charge</u>.
+  = Aleko <u>denied that</u> he had taken it.
+  “承认”例句略。
++ **led sb.** 领着某人
+  同义词：
+  **show sb.**
+  ✎ George <u>showed</u> me <u>to</u> the guestroom which, he said, was rarely used.（L24）
+  **usher sb.**（usher （剧场、影院的）领座员）
+  ✎ The secretary <u>ushered</u> me <u>into</u> his office. 这位秘书引领我到了他的办公室。
++ **It is/was true that ……, but ……** 诚然……但是……（让步转折句型）
+  ✎ <u>It is true that</u> China is still a developing country, <u>but</u> she is full of potential. 诚然中国还是一个发展中国家，但是她却充满了潜力。
+  ✎ <u>It is true that</u> during their explorations they often faced difficulties and dangers of the most perilous nature, equipped in a manner which would make a modern climber shudder at the thought, <u>but</u> they did not go out of their way to court such excitement.（B4L3）
+  同义替换：
+  **Admittedly, ……, but ……**
+  **Granted, ……, but ……**
+  ✎ <u>Admittedly,</u> I could have tried harder, <u>but</u> I still don’t think all this criticism is fair. 诚然，我确实能够更努力些，但是我依然认为所有的批评是不公平的。
+  ✎ <u>Granted,</u> he doesn’t look too bad for his age, <u>but</u> I don’t fancy him. 诚然，以他的年龄来看，他看起来还不错，但我不喜欢他。
+  ✎ <u>Granted,</u> a snobbery of camping itself, based upon equipment and techniques, already exists; <u>but</u> it is of a kind that, if he meets it, he can readily understand and deal with.（B4L47）
+  前部不动，丰富后部，得到以下结构：
+  **It is true that / Admittedly, / Granted, ……, + ①/②/③/④**
+  **① but that is not to say that ……** 但这并不是说……
+  **② but it does not follow that ……** 但这并不能得出……的结论
+  **③ but it does not necessarily mean that ……** 但这并不一定意味着……
+  **④ but there is no guarantee that ……** 但这并不能保证……
+  ✎ <u>It is true that</u> many college students choose to pursue their graduate studies, <u>but it does not necessarily mean that</u> they want to be scholars. 确实很多大学生选择继续读研究生，但这并不意味着他们都想做学者。
++  **be ashamed of**
+  Being ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him.（原文）（being在非谓语动词、独立主格中，一般可省略）
+  ✎ The gaoler looked on eagerly, <u>(being) anxious</u> to see if his fellow actor had at last learnt his lines.（L22）
+  ✎ He used to sleep during the day and work at night, <u>(being) quite unaware</u> of the fact that he had become the ghost of Endley.（L30）
+  ✎ <u>(Being) Tired</u> of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed.（B2L49）
++ Ashamed of <u>having acted</u> so rashly, Dimitri apologized to Aleko for <u>having accused</u> him.（原文：完成时的主动）→
+  Ashamed of <u>acting</u> so rashly, Dimitri apologized to Aleko for <u>accusing</u> him.（一般时的主动）（参见L4：动名词的时态和语态）
++ **apologize to sb. for sth.**
+  Dimitri apologized to Aleko for having accused him.（原文）
+  = Dimitri <u>made an apology to</u> Aleko <u>for</u> having accused him.
+  =  Dimitri <u>said sorry to</u> Aleko <u>for</u> having accused him.
+> 仿写第2段倒数第4句
+  Ashamed of having acted so inattentively, I apologized to Mary for having broken her favorite vase.
+  对自己如此不小心而感到不好意思，我为打碎了May最喜欢的花瓶而向她道款。
++ **half an hour** 半小时
+  **an hour and a half** 一个半小时
++ **be surprised/ amazed/ astonished/ astounded + to find that/ to learn that/ etc.** 因为某事而惊讶（固定搭配，一定是原因状语）
+  ✎ When the archaeologists reconstructed the fragments, they <u>were amazed to find that</u> the goddess turned out to be a very modern-looking woman.（L3）
+  ✎ A short time ago, villagers <u>were astonished to learn that</u> the ghost of Endley had died.（L30）
++ **dye sth. black/ blue/ blone/ etc.** 把……染成……颜色
+  ✎ Jane has <u>dyed her hair blonde</u>. 珍把她的头发染成了淡金色。
+
+---
+
+## **Lesson 17 - The longest suspension bridge in the world**
+### **课文原文**
+<font color=gray size=4>Verrazano, an Italian about whom little is known, sailed into New York Harbour in 1524 and named it Angoulême. He described it as ‘a very agreeable situation located within two small hills in the midst of which flowed a great river.’ Though Verrazano is by no means considered to be a great explorer, his name will probably remain immortal, for on November 21st, 1964, the longest suspension bridge in the world was named after him.
+
+The Verrazano Bridge, which was designed by Othmar Ammann, joins Brooklyn to Staten Island. It has a span of 4,260 feet. The bridge is so long that the shape of the earth had to be taken into account by its designer. Two great towers support four huge cables. The towers are built on immense underwater platforms made of steel and concrete. The platforms extend to a depth of over 100 feet under the sea. These alone took sixteen months to build. Above the surface of the water, the towers rise to a height of nearly 700 feet. They support the cables from which the bridge has been suspended. Each of the four cables contains 26,108 lengths of wire. It has been estimated that if the bridge were packed with cars, it would still only be carrying a third of its total capacity. However, size and strength are not the only important things about this bridge. Despite its immensity, it is both simple and elegant, fulfilling its designer’s dream to create ‘an enormous object drawn as faintly as possible’.</font>
+
+
+### 🌻 **单词讲解**
++ **suspention** n. 悬挂；暂停；（因违规而）停职，停课
+  ✎ <u>suspention</u> bridge 吊桥
+  ✎ the <u>suspension</u> of the peace talks 和平谈判的中止/暂停
+  ✎ Annie got a 3-day <u>suspension</u> for smoking in school. 安妮因为在学校里抽烟受到了3天的停课处分。
+  + **suspend** 
+  ◇ v1 悬挂
+  **suspend sth. from sth.** 把某物挂在某物上
+  ✎ A lamp <u>was suspended from</u> the ceiling 天花板上吊着一盏灯。
+  ✎ Oddly shaped forms that <u>are suspended from</u> the ceiling and move in response to a gust of wind are quite familiar to everybody.（L18）
+  近义词：
+  **hang from sth.**
+  ✎ In the corner of the room was a large lamp, <u>hanging from</u> the ceiling. 在房间的角落有一盏巨大的灯，挂在天花板上。（可将 hanging from the ceiling 看作非谓语动词作后置定语修饰 lamp）
+  ◇ v2 暂停；中止
+  ✎ The ferry service has <u>been suspended</u> for the day because of bad weather. 由于天气不好，渡轮服务今天被暂停。
+  ✎ A tiny asterisk conducted me to a footnote at the bottom of the page. It said:‘This service has <u>been suspended</u>.’（L37）
+  ◇ v3 （因违规而）停职，停课
+  ✎ The policeman <u>was suspended</u> while the complaint was investigated. 当投诉在被调查期间，这位警察被停职了。
+  ✎ Dave <u>was suspended from</u> school for a week. 戴夫被学校停课一周。
++ **situation** n. 地点，位置；情况，处境
+  n1 地点，位置 = **location**
+  ✎ a beautiful situation location overlooking the valley 可以俯瞰山谷的一个优美的位置
+  ✎ His apartment is <u>in</u> a really good <u>situation/ location</u>. 他的公寓处在一个特别好的位置。
+  n2 情况，处境
+  ✎ She found herself <u>in</u> an embarrassing <u>situation</u>. 她发现自己处在一个非常尴尬的处境。
+  ✎ This can give rise to curious <u>situations</u>, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.（L4）
+  ✎ She tried to explain the <u>situation</u>, saying ‘It’s only me’, but it was too late.（L13）
+  v **situate = locate = site** 使位于某地（被动）
+  ✎ The monastery <u>is situated/ located/ sited</u> in a valley. 这所修道院位于一座山谷之中。
+  **stand/ sit/ lie** 矗立，站；坐，坐落；躺（主动）（参见L3）
+  ✎ Near the railway station <u>stood</u> a hotel. 火车站附近有一家酒店。（全部倒装语序）
+  ✎ The house <u>sits</u> on top of a hill. 这座房子位于山顶。
+  ✎ The town <u>lies</u> on the coast. 这座城镇位于海滨。
++ **immortal** a. 永生的；流芳百世的
+  ✎ Plato believed that the soul is <u>immortal</u>. 柏拉图认为灵魂是不会死的。
+  ✎ the <u>immortal</u> Shakespeare 不朽的莎士比亚
+  ✎ Emily Bronte’s <u>immortal</u> love story 艾米莉·勃朗特的《不朽的爱情故事》
+  ✎ His telescopic observations are justly <u>immortal</u>; ……（B4L32）
+  反义词：
+  **mortal** 
+  a1 会死的，终有一死的；肉身的
+  ✎ All human beings are <u>mortal</u>. 人皆终有一死。
+  a2 致命的（派生义）
+  ✎ a <u>mortal</u> wound 一处致命的外伤
+  ✎ He became <u>mortally</u> ill a few months before we had planned to go and, when he knew that he was dying, he made me promise to go on my own.（L57）
+  形近词：
+  **immoral** 不道德的
+  ✎ It’s <u>immoral</u> to steal. 偷东西是不道德的。
+  **moral** 道德的；道义上的
+  ✎ the decline of <u>moral</u> standards 道德标准的下降
+  ✎ <u>moral</u> support/ obligation 道义上的支持/责任
+  ✎ I know only that what is <u>moral</u> is what you feel good after and what is <u>immoral</u> is what you feel bad after. ——Ernest Hemingway 我这知道这么一件事：那些道德的事即事后觉得好的事情；而那些不道德的事即事后觉得糟糕的事情。——海明威
++ **span** n. 跨度；一段时间
+  **have a span of……** 有……的跨度
+  ✎ The arch has <u>a span of</u> 60 meters. 这个拱有60米长的跨度。
+  ✎ I worked with him over <u>a span of</u> six years. 我跟他一起共事6年了。
+  ✎ The project must be completed within a specific <u>time span</u>. 这个项目必须在一段具体的时间段之内完成。
+  ✎ Small children have a short <u>attention span</u>. 小孩子的注意力持续时间很短。
+  同根字：
+  **wingspan** 翼展
+  ✎ a bird with a two-foot <u>wingspan</u> 一只翼展两英尺的鸟
+  **lifespan** 寿命
+  ✎ Men have a shorter <u>lifespan</u> than women. 男人的寿命通常比女人短。
+  ✎ A TV set has an average <u>lifespan</u> of 11 years. 一台电视机的平均寿命为11年。
++ **concrete** 
+  + n. 混凝土
+  ✎ modern buildings made of <u>concrete</u> 混凝土构造的当代建筑
+  ✎ The towers are built on immense underwater platforms made of <u>steel and concrete</u>.（原文）钢筋混凝土（固定搭配）
+  + a. 混凝土制造的
+  ✎ a <u>concrete</u> floor/ wall/ building 一个混凝土制造的地板/墙/建筑物
+  + a. 具体的；确凿的
+  ✎ <u>concrete</u> evidence/ proposals/ examples 具体的/确凿的证据/建议/例证
+  ✎ Even if one didn’t know from <u>concrete examples</u> (the 1936 Olympic Games, for instance) that international sporting contests lead to orgies of hatred, one could deduce it from general principles.（B4L6）
+  反义词：
+  **abstract** 抽象的
+  ✎ Beauty itself is <u>abstract</u>. 美丽本身是抽象的。
+  ✎ There are rare instances when justice almost ceases to be an <u>abstract</u> concept.（L35）
++ **capacity** n. 容量，承受量；能力
+  n1 容量，承受量（一般不可数，即便可数也只用于单数）
+  **capacity of ……** ……的容量
+  ✎ The jug has a <u>capacity of</u> half a liter. 这个大罐子有半升的容量。
+  ✎ The stadium has a <u>seating capacity of</u> 50,000. 这个体育馆能坐得下5万人。（前面可加形容词修饰）
+  ✎ The new truck has a <u>loading capacity of</u> 2.5 tons. 这辆新卡车能装得下2.5吨的货物。
+  n1 能力
+  **capacity for ……** 做……的能力
+  ✎ He has a great <u>capacity for</u> work. 他有非常强的工作能力。
+  ✎ My <u>capacity for</u> mathematics is negligible. 我的数学能力非常差劲。
+  **capacity to do ……** 做……的能力
+  ✎ her <u>capacity to</u> read and write 他的读写能力
+  ✎ We would lay less stress on ‘facts and figures’ and more on a good memory, on applied psychology, and on the <u>capacity</u> of a man <u>to</u> get along with his fellow-citizens.（B4L33）
+  相关搭配：
+  **ability to do ……** 做……的能力
+  ✎ Our <u>ability to</u> think and speak makes us different from other animals. 我们思考和说话的能力使得我们不同于其它动物。
+  **capability to do ……** 做……的能力
+  **capability of doing sth.** 做……的能力
+  ✎ You have the <u>capability to do/ of doing</u> this job well. 
+  **powers of ……**
+  ✎ Teachers have the responsibility to develop students’ <u>powers of</u> critical thinking. 教师有责任培养学生的批判性思维能力。
+  ✎ If parents were prepared for this adolescent reaction, and realized that it was a sign that the child was growing up and developing valuable <u>powers of</u> observation and independent judgment,they would not be so hurt, and therefore would not drive the child into opposition by resenting and resisting it.（B4L34）
+  **aptitude for ……** （强调天赋，不能指后天习得的能力）
+  ✎ At an early age Susan showed an <u>aptitude for</u> languages. 在年纪很小的时候苏珊就表现出了语言天赋。
+
+
+### 🕹️ **课文讲解**
++ **know of/ about ……** 获悉……；听说……（同见L15）
+  = **hear of/ about ……**
+  = **learn of/ about ……**
+  ✎ I don’t <u>know</u> him personally, though I <u>know of/ about</u> him. 尽管我听说过他，但我个人并不认识他。
+  ✎ George was not too upset by his experience because the lady who owns the sweet shop <u>heard about</u> his troubles and rewarded him with a large box of chocolates.（L15）
++ **about** <u>whom little **is known**</u>
+  **在正式书面语中，若关系代词作介词的宾语，则须将介词置于关系代词之前，不能放到定语从句中。非正式文体无此限制。**
+  ✎ They support the cables **from** <u>which the bridge has **been suspended**</u>.（原文）
+  ┏ 这是一栋我住了10年的房子。
+  ┗ This is the house **in** <u>which I **lived** for 10 years</u>.（正式）
+  ┗ This is the house <u>which I **lived in** for 10 years</u>.（非正式）
+  ┏ 我读过她正在谈到的那首诗。
+  ┗ I have read the poem **of** <u>which she is speaking</u>.（正式）
+  ┗ I have read the poem <u>which she is **speaking of**</u>.（非正式）
++ **about whom/ which little is known** 鲜为人知的人/事物
+  ✎ Mary and her husband Dimitri lived in Perachora, a tiny Greek village <u>about which little is known</u>. Mary和她的丈夫Dimitri住在Perachora,一个鲜为人知的希腊小村庄。
+  ✎ Zhang Ji, a Chinese poet <u>about whom little is known</u>, once wrote a famous poem *Mooring by Maple Bridge at Night*. 张继，一位鲜为人知的中国诗人，曾经写过一首著名的诗歌，《枫桥夜泊》
++ **name sb. ……** 给某人起名叫……（指事物也可）
+  ✎ We named our daughter Sarah. 我们给我们的女儿起名叫莎拉。
+  **name …… after ……** 按照……给某人/某事起名叫……
+  ✎ He was named after his father. 他是按照他爸爸的名字起的名字。
+  ✎ Tasmania was named after its discoverer, A.J.Tasman. 塔斯马尼亚岛是以它的发现者AJ塔斯曼来命名的。
+  ✎ Though Verrazano is by no means considered to be a great explorer, his name will probably remain immortal, for on November 21st, 1964, the longest suspension bridge in the world <u>was named after</u> him.（原文）
++ **describe…… as (being)……** 把……描述成……（即可加名词也可加形容词，如果直接加形容词，可看作是省略了being（形容词作介词宾语时可视为其前省略了动名词being，即“介词 (+being) + 形容词”的形式。参见L10））
+  ✎ The man <u>was described as (being)</u> tall and dark, and aged about 20. 这个男人被描述成是又高又黑，年纪大概20岁。
+  ✎ Jim <u>was described</u> by his colleagues <u>as (being)</u> ‘unusual’. 吉姆被同事描述成“不同寻常”。
+  ✎ The old lady thought he was a fussy creature, but since the porter agreed with him, she rang up her daughter and asked for her help in what she <u>described as</u> a little spot of bother.（L58）
+  ✎ Those who never have to move house become indiscriminate collectors of what can only <u>be described as</u> clutter.（L59）
++ **aggreable** a. 令人愉快的，宜人的 ≈ pleasant
+  ✎ We spent a most <u>agreeable</u> evening by the river. 我们在河畔度过了一个特别开心的夜晚。
++ **midst** 书面语，类似middle
+  ✎ <u>in the midst of</u> the crowd 在人群中间
+  类似构词：
+  **whilst** —— while 在……过程中
+  ✎ The days were hot <u>whilst</u> we were on vacation. 在我们度假期间天气特别热。
+  **amongst** —— among 在……之中
+  ✎ There is always hope that in its labyrinth of musty, dark, disordered rooms a real rarity will be found <u>amongst</u> the piles of assorted junk that litter the floors.（L34）
++ ┏ <u>In the midst of two small hills **flowed**</u> a great river.（原文：完全倒装）（参考L10完全倒装笔记）
+  ┗ A great river <u>**flowed** in the midst of two small hills</u>.（正常语序）
+  ┏ 一个地铁站矗立在一座大型购物中心的前面。
+  ┗ A subway station <u>**stands** in front of a huge shopping mall</u>.（正常语序）
+  ┗ <u>In front of a huge shopping mall **stands**</u> a subway station.（完全倒装）
+> 仿写第2句
+  这家饭馆的位置非常方便，位于一家大型购物中心的正中央，在购物中心前有一座地铁站。
+  The restaurant is in a very convenient situation. It is located right in the center of a huge shopping mall. A subway station stands in front of the shopping mall.（评价：散）
+  The restaurant is in a very convenient situation located right in the center of a huge shopping mall in front of which stands a subway station.（评价：紧凑）
++ by no means
+  “绝不”、“一点也不”的表达（都是否定结构表否定含义，都可作状语）。
+  置于句首起强调作用时，要部分倒装。
+  ~ | ~
+  ---- | ----
+  **by no means** | **not by any means**
+  **not at all** | **in no way**
+  **be no……** | **not remotely**
+  **on no account** | **not on any account**
+  **not a bit** | **not in the least**
+  **on no condition** | **under no circumstances**
+
+  ✎ She is <u>by no means</u> pretty. 她一点也不好看。
+  ✎ She’s <u>not</u> a bad kid, <u>by any means</u>. 她绝对不是一个坏孩子。
+  ✎ <u>By no means **can**</u> theory be separated from practice. 理论绝对不能与实践相分离。
+  ✎ She’s <u>not at all</u> happy about the current situation. 她对目前的情况非常不高兴。
+  ✎ This will <u>in no way</u> influence our original decision. 这绝对不会影响我们最初的决定。
+  ✎ I <u>am no</u> expert. 我绝对不是个专家。
+  ✎ That girl <u>is no</u> fool. 那个女孩一点也不傻。
+  ✎ Larry <u>is no</u> friend of mine. 拉瑞绝对不是我的朋友。
+  ✎ His arguments are <u>not remotely</u> convincing. 他的这些论断一点也没有说服力。
+  ✎ <u>On no account **must**</u> you disturb me when I'm working. 在我工作的时候你绝对不要打扰我。
+  ✎ Do <u>not on any account</u> leave the prisoner unguarded. 绝对不要让囚犯处于无人看管的状态。
+  ✎ I tried to convince them, but they were<u>n’t in the least</u> interested. 我试图说服他们，但是他们一点也没有兴趣。
+  ✎ ‘Was she annoyed?’ ‘<u>Not a bit</u>! She was delighted.’ “她是不是有点不高兴？”“一点也没有，她非常开心。”
+  ✎ <u>On no condition **should**</u> untrained personnel use the equipment. 绝不能让没有受过训练的人使用这个设备。
+  ✎ <u>Under no circumstances **will**</u> we agree to splitting up the company. 在任何情况下，我们都不会同意去分裂我们的公司。
++ **consider…… (to be)……** 把……认为是……
+  ✎ We <u>consider</u> this <u>(to be)</u> very important. 我们认为这个特别重要。
+  ✎ He <u>was considered (to be)</u> a weak leader. 他被认为是一个懦弱的领袖。（被动）
++ **will remain immortal** 将会流芳百世（可看作固定搭配，褒义，remain：系动词，表示保持这个状态）
+  ✎ The name of Lei Feng <u>will remain immortal</u>. 雷锋的名字将会流芳百世。
+  **will always be remembered**（指好事坏事都可以）（参见L10）
+  ✎ The tragic sinking of this great liner <u>will always be remembered</u>, for she went down on her first voyage with heavy loss of life.（L10）
+  ✎ The tragic missing of the Malaysian airliner <u>will always be remembered</u>. 人们将永远牢记这架马来西亚班机的失踪惨剧。
++ **sth. be named after sb.** [英美] 以某人的名字来命名（参见本课笔记↑）
+  **sth. be named for sb.** [美]
+  **sth. be named in honour of sb.**（含敬意）
+  ✎ The college <u>is named after/ for/ in honour of</u> George Washington. 这所大学是以乔治·华盛顿的名字来命名的。
++ **join A to B** 把A和B连接到一起（参见L8笔记）
+  ✎ The island <u>is joined to</u> the mainlandby a bridge. 这座岛被用一座桥与大陆连接到了一块。
++ **have a span of……** 有……的跨度（参见本课单词笔记）
+  **of**：引出数量值
+  ✎ It has a span <u>of</u> <u>4,260 feet</u>.（原文）
+  ✎ at the age <u>of</u> <u>52</u> 在52岁的年纪
+  ✎ an increase <u>of</u> <u>3%</u> 百分之三的增长
+  ✎ a revenue <u>of</u> <u>$3.4 billion</u> 34亿美元的收入（revenue一般指公司或政府的收入）
+  ✎ a pay raise <u>of</u> <u>4 percent</u> 百分之四的工资涨幅
+  ✎ a salary <u>of</u> <u>30,000 dollars a year</u> 年薪3万美元
+  ✎ The platforms extend to a depth <u>of</u> <u>over 100 feet</u> under the sea.（原文）
+  ✎ Above the surface of the water, the towers rise to a height <u>of</u> <u>nearly 700 feet</u>.（原文）
++ **so…… that……** 如此……以至于……
+  近义搭配：
+  **such that……**
+  + 第3句改写：
+  ◇ so放句首（产生部分倒装）
+  <u>So</u> long <u>is</u> the bridge that the shape of the earth had to be taken into account by its designer.
+  ◇ 换用“such that”
+  The length of the bridge is <u>such</u> that the shape of the earth had to be taken into account by its designer.
+  ◇ such放句首（产生部分倒装）
+  <u>Such</u> <u>is</u> the length of the bridge that the shape of the earth had to be taken into account by its designer.
+  ✎ <u>Such</u> <u>is</u> human nature, ……（L4）
+  ✎ The conditions of society are <u>such</u> that skills have to be paid for in the same way that goods are paid for at a shop.（L27）
++ **take …… into account** 考虑……因素/情况
+  **= take …… into account**
+  ✎ If you <u>take</u> *inflation* <u>into account</u>, we actually spend less now. 如果你考虑到通货膨胀，我们现在的支出实际上减少了。
+  ✎ We must <u>take into account</u> *the boy’s long illness*. 我们必须考虑到这个男孩长期患病的情况。（宾语长状语短，可先说状语后说宾语）
+  ✎ I always <u>take</u> *fuel consumption* <u>into consideration</u> when buying a car. 我买车时总是考虑油耗。
+  ✎ Before we come to a decision, we must <u>take into consideration</u> *all the relevant facts*. 在做出决定之前，我们必须考虑所有相关事实。（宾语后置）
+  ✎ The candidates’ experience will <u>be taken into consideration</u>. 候选人的经验将被考虑在内。
+  **take account of……**
+  ✎ These figures do not <u>take account of</u> changes in the rate of inflation. 这些数字没有考虑通货膨胀率的变化。
++ **platforms** 舞台、讲台、月台等各种各样的平台状的东西
+  The train will depart from <u>platform</u> 3. 火车将从3号站台出发。
+  The speaker mounted the <u>platform</u> to denounce the policy. 演讲者登上了讲台谴责这项政策。
++ **steel and concrete** = ferro-concrete 钢筋混凝土
++ **extend to a depth of……** 深达……（固定习语，强调特别深）
+  ✎ The deepest known cave in the world is the Gouffre Berger near Grenoble. It <u>extends to a depth of</u> 3,723 feet.（L42）
+  近义替换：
+  **go down to as much as……** 深达……
+  ✎ The deepest holes of all are made for oil, and they <u>go down to as</u> much as 25,000 feet.（B4L13）
+  相关搭配：
+  **stand…… high** 有……高（未必指特别高）
+  ✎ She <u>stood</u> three feet <u>high</u> and her hands rested on her hips.（L3）（指人时可以把high换成tall）
+  **rise to a height of……** 高达……（暗指特别高）
+  ✎ Above the surface of the water, the towers <u>rise to a height of</u> nearly 700 feet.（原文）
+  ✎ *How do I love thee?*: How do I love thee? / Let me count the ways. / I love thee <u>to the depth and breadth and height my soul can reach</u>. —— E.B.Browning
++ **alone** 单单是，光是，~~单独的，孤独的~~
+  ✎ These books <u>alone</u> cost me 2,000 yuan. 光是书就花了我2千
+  ✎ Time <u>alone</u> will tell. 时间会告诉你真相。（路遥知马力，日久见人心）
+  ✎ Persistence and determination <u>alone</u> are omnipotent. —— Calvin Coolidge（美国前总统）单单毅力和决心就是万能的。
++ **take (sb.) some time (to do sth.)** 花费时间做某事（参见L5）
+  ✎ These alone <u>took</u> *16 months* <u>to build</u>. （本文）
+  ✎ Even if you travel in ideal weather, sea journeys <u>take</u> *a long time*.（L44）
+  ✎ It <u>took me</u> *over half an hour* <u>to get rid of him</u>.（L28）
+  ✎ The journalist immediately set out to obtain these important facts, but he <u>took</u> *a long time* <u>to send them</u>.（L5）
++ **rise to a height of……** 高达
+  ✎ A tall steel tower <u>rising to a height of nearly 200 feet</u> will rest on the platform.（老版L47）
++ Each of the four cables <u>contains</u> 26,108 lengths of wire.（本文）（参见L13）
+  = Each of the four cables <u>consists of</u> 26,108 lengths of wire.
+  = Each of the four cables <u>is made up of</u> 26,108 lengths of wire.
+  = Each of the four cables <u>is composed of</u> 26,108 lengths of wire.
+  = Each of the four cables <u>comprises</u> 26,108 lengths of wire.
++ a <u>length</u> of rope/ pipe/ wire/ etc 一根/截/段绳子/管道/电线
+  类似的量词：
+  a <u>sum</u> of money 一笔钱
+  a <u>bar</u> of chocolate 一块巧克力（L15）
+  a <u>bar/ cake</u> of soap 一块肥皂（L15）
+  a <u>slice</u> of butter 一片黄油
+  a <u>loaf</u> of bread 一个面包
+  a <u>tube</u> of toothpaste 一管牙膏
+  a <u>cone</u> of ice-cream 一个冰淇淋蛋卷
+  a <u>bunch</u> of grapes/ bananas 一串葡萄/一盘香蕉
+  a <u>flash/ bolt</u> of lightning 一道闪电
+  a <u>peal</u> of thunder 一声雷
+  a <u>gust</u> of wind 一阵风
+  a <u>pane</u> of glass 一块玻璃
+  a <u>bouquet</u> of flowers 一束花
++ 据……（一般用被动。如果需要强调对现在有影响，可用完成时）
+  it is estimated that…… 据估计……
+  it is said that…… 据说……
+  it is believed that…… 据信……
+  it is reported that…… 据报道……
+  ✎ <u>It is said that</u> if anyone touches the tree, he will have bad luck; if he picks a leaf, he will die.（B2L58）
+  ✎ <u>It has been said that</u> everyone lives by selling something.（L27）
+
+#### 👾 **“if”型的虚拟语气**
+（wish型L12；should do型L15；if型为第3种，也是最后一种）
+1. **与现在事实相反：**
+   **If + S. + <u>did/ were</u>, S. + <u>would/ should/ could/ might</u> + do**
+   ✎ If you <u>lived</u> in the Mediterranean, for instance, you <u>would</u> consider octopus a great delicacy.（L23）
+   ✎ If she <u>were</u> alive today she <u>would</u> not be able to air her views on her favourite topic of conversation: domestic servants.（L49）
+2. **与过去事实相反：**
+   **If + S. + had done, S. + <u>would/ should/ could/ might</u> + have done**
+   ✎ If they <u>had</u> only <u>had</u> one more child, the fact <u>would have passed</u> unnoticed.（L45）
+   ✎ If the Houses of Parliament <u>had not been</u> burned down in 1834, the great clock <u>would never have been erected</u>.（B2L71）
+3. **与未来趋势相反：**
+   **If + S. + should do, S. + <u>would/ should/ could/ might</u> + do**
+   **If + S. + <u>did/ were to do</u>, S. + <u>would/ should/ could/ might</u> + do**（表示极其、甚至完全不可能发生）
+   ✎ If it <u>should</u> rain tomorrow, you <u>could</u> stay at home. 如果万一明天下雨，你就可以待在家了。
+   ✎ If the sun <u>were to</u> rise in the west, I <u>would</u> lend you the money. 如果太阳从西边升起，我就会借给你钱。
+   ✎ If you <u>were to</u> ask Harry what was in the bottle, he <u>would</u> tell you that it contained perfumed mud.（L52）
+
++ **be packed with……** 装/挤满了……（加人加物都行）
+  **= be crowded with……**
+  **= be crammed with……**
+  **= be thronged with……**
+  ✎ The island <u>was packed with</u> tourists. 岛上挤满了游客。
+  ✎ The narrow roads <u>were crowded with</u> holiday traffic. 狭窄的道路上挤满了假日的车辆。
+  ✎ The guide <u>is crammed with</u> useful information. 这本指南里充满了有用的信息。
+  ✎ The streets <u>were thronged with</u> Christmas shoppers. 大街上挤满了圣诞节的购物者。
++ **a third of…… / one-third of……** 3分之1的……
+  **two-thirds of……** 3分之2的……
+  ✎ <u>Two-thirds of</u> the profits are given to charities. 三分之二的利润捐给了慈善机构。
+  ✎ <u>Three-fourths of</u> the public say they favor a national referendum on the issue. 四分之三的公众表示，他们赞成就这个问题举行全民公投。
++ ┏ **Despite its immensity**, ……（本文，对比下句使用了名词，更显正式）
+  ┗ Although it is immense, ……
+  ✎ <u>Despite its importance</u>, the meeting has to be postponed. 尽管会议很重要，但不得不推迟。（指物）
+  ✎ <u>Despite its scarcity</u>, water is still wasted in the country. 尽管水资源匮乏，但该国的水资源仍然被浪费。（指物）
+  ✎ <u>Despite his cleverness</u>, he cannot figure out how to do it. 尽管他很聪明，但他不知道该怎么做。（指人）
++ **fulfil[英] / fulfill[美]** 圆了；实现了 fulfilling（进行时）
+  fulfill/ realize/ achieve one’s dream 圆梦
+  one’s dream come true 梦想成真
++ **dream of doing sth. / to do sth.** ……的梦想
+  ✎ He had finally <u>achieved his dream of becoming</u> a pilot. 他终于实现了当一名飞行员的梦想。
+  ✎ <u>Her dream to enter</u> the famous university <u>came true</u>. 她进入名牌大学的梦想实现了。
+
+---
+
+## **Lesson 18 - Electric currents in modern art**
+### **课文原文**
+<font color=gray size=4>Modern sculpture rarely surprises us any more. The idea that modern art can only be seen in museums is mistaken. Even people who take no interest in art cannot have failed to notice examples of modern sculpture on display in public places. Strange forms stand in gardens, and outside buildings and shops. We have got quite used to them. Some so-called ‘modern’ pieces have been on display for nearly eighty years.
+
+In spite of this, some people — including myself — were surprised by a recent exhibition of modern sculpture. The first thing I saw when I entered the art gallery was a notice which said: ‘Do not touch the exhibits. Some of them are dangerous!’ The objects on display were pieces of moving sculpture. Oddly shaped forms that are suspended form the ceiling and move in response to a gust of wind are quite familiar to everybody. These objects, however, were different. Lined up against the wall, there were long thin wires attached to metal spheres. The spheres had been magnetized and attracted or repelled each other all the time. In the centre of the hall, there were a number of tall structures which contained coloured lights. These lights flickered continuously like traffic lights which have gone mad. Sparks were emitted from small black boxes and red lamps flashed on and off angrily. It was rather like an exhibition of prehistoric electronic equipment. These peculiar forms not only seemed designed to shock people emotionally, but to give them electric shocks as well!</font>
+
+
+### 🌻 **单词讲解**
++ **current** n. 电流
+  电相关
+  ✎ alternating <u>current</u> (AC) 交流电
+  ✎ direct <u>current</u> (DC) 直流电
+  ✎ ls the wire <u>live</u>? 电线带电吗？
+  ✎ The plug broke, exposing <u>live</u> wires. 插头断了，露出了带电的电线。
+  a two-pin <u>plug</u> 两针插头；a three-pin <u>plug</u> 三针插头
+  socket 插座；插槽
+  流体相关
+  ✎ water <u>current</u> 水流； air <u>current</u> 气流
+  ✎ swim with the <u>current</u> 顺着水流游泳（随波逐流）
+  ✎ swim against the <u>current</u> 逆着水流游泳（逆流而行）
+  a. 当前的，现在的
+  ✎ the <u>current</u> president 现任总统
+  ✎ <u>current</u> affairs 时事
+  ✎ the <u>current</u> economic situation 当前的经济状况
++ **mistaken** a. 错误的
+  ✎ <u>mistaken</u> ideas 错误的观念/想法
+  ✎ a <u>mistaken</u> judgment 错误的判断
+  **be mistaken about……** 把……搞错了
+  ✎ I <u>was mistaken about</u> her age. 我弄错了她的年龄。
+  近义表达：
+  形容词：
+  **wrong, false**
+  **erroneous, fallacious**（两个都偏书面）
+  名词：
+  **mistake, error**（后者更正式）
+  ✎ a technical <u>error</u> 技术错误
+  **blunder** （强调由于粗心，一时不慎，而犯下的大错）
+  ✎ It was a <u>blunder</u> to marry such a lazy-bones. 嫁给这么一个懒汉是个错误。
+  **fault** （强调责任）
+  ✎ It’s your <u>fault</u>! 这是你的错！
+  **fallacy** 指错误的观念/想法；谬论
+  ✎ It is a common <u>fallacy</u> that women are worse drivers than men. 女人开车比男人差是一种常见的谬论。
+  动词：
+  **make a mistake** 犯了个错（事实错误）
+  **commit a fallacy**（思维、逻辑错误）
+  ✎ The author <u>commits a fallacy</u> of false analogy. 作者犯了错误类比的谬误。
+  **err**（偏书面）
+  ✎ To <u>err</u> is human, to forgive divine. 凡人多舛误，唯神能见宥。——Alexander Pope
++ **oddy** ad. 奇怪地，古怪地
+  **odd** a. 奇怪的，古怪的
+  ✎ What an <u>odd</u> man he is! 他真是个怪家伙！
+  ✎ an <u>odd</u> number 奇数
+  ✎ an <u>even</u> number 偶数
+  同义替换：
+  **strange unusual**
+  **peculiar**
+  ✎ a <u>peculiar</u> smell 一股怪味
+  ✎ a most <u>peculiar</u> story 一个极为离奇的故事
+  **be peculiar to ……** 是……所特有/独有的（peculiar作表语，to为介词）
+  ✎ Pandas <u>are peculiar to</u> China. 大熊猫是中国特有的动物。
+  近义词：
+  **weird** 奇怪的（略带阴森可怖意味）
+  ✎ I heard some <u>weird</u> noises coming from outside. 我听到外面有奇怪的声音。
+  **eccentric** a./n.（指**人**行为举止奇怪，特立独行）
+  ✎ Our neighbor is an <u>eccentric</u> old lady who has about 25 cats. 我们的邻居是一位古怪的老太太，她有大约25只猫。
+  **bizarre, outlandish**（书面，语气较重）
+  ✎ She came to the party wearing a <u>bizarre</u>/ an <u>outlandish</u> costume and a blond wig. 她穿着奇装异服，戴着金色假发来参加聚会。
++ **attach** v. 连上，系上，贴上，附加上
+  **attach…… to……** 
+  ①把（前者）和（后者）连/系/贴在一块
+  ✎ <u>attach</u> a photo <u>to</u> the form 在表格上贴/附上一张照片
+  ✎ <u>attach</u> a rope <u>to</u> the branch 在树枝上系一根绳子
+  ✎ They <u>attached</u> a number of conditions <u>to</u> the agreement. 他们给协议附加了一些条件。
+  ②认为…… 怎样
+  ✎ China <u>attaches great importance/ significance to</u> agriculture. 中国高度重视农业。
+  ✎ She <u>attaches great value to</u> financial independence. 她认为经济独立是非常宝贵的。
++ **sphere** n. 球体；领域
+  表示“领域”的词：
+  **in** the scientific/ political/ cultural/ educational…… **sphere/ area/ field/ world/ realm/ domain** 在科学/政治(政界)/文化/教育领域
+  表示“球体”的时候也是个字根：
+  atmosphere 大气层；空气；气氛
+  hemisphere 半球（大脑/地球等）
+  ✎ the northern/ southern/ eastern/ western <u>hemisphere</u> 北/南/东/西半球
++ **repel** v. 排斥
+  ✎ Oil repels water. 油排斥水。
+  反义词：
+  **attract** 吸引
+  派生义：令某人讨厌
+  ✎ His behavior <u>repels</u> me. 他的行为让我反感。
+  ✎ The food <u>repels</u> my stomach. 这食物让我反胃。/我不爱吃这个东西。
+  **be repelled by……** 某人讨厌某人/某事（用被动形式表达主动含义）
+  ✎ I <u>was repelled by</u> his behavior. 我讨厌他的行为举止。
+  **repellent** a. 令人厌恶的
+  <u>repellent</u> smell/ behavior 令人厌恶的味道/行为举止
+  近义词：
+  v. | a. 
+  ---- | ---- 
+  repel | repellent 
+  repulse | repulsive 
+  revolt | revolting 
+  disgust | disgusting 
+
+  注：以上表格单词表示厌恶某人/某事时，都要用被动（be ~ed by……）。
+  ✎ You would not be able to understand why some people find it <u>repulsive</u>.（L23）
+  ✎ （L21课后题11-c）
+  字根 **“pel” = push**
+  **repel** （推回去。re：back）
+  **compel/ impel**
+  **be/ feel compelled to do** 觉得必须做某事（迫于外力）
+  **be/ feel impelled to do** 觉得必须做某事（发自内心）
+  **expel** 开除
+  **propel** 向前推进
++ **flicker** v. （灯火）闪烁
+  ✎ The candle <u>flickered</u> in the wind. 蜡烛在风中闪烁。
+  **twinkle** 微弱地闪烁（尤指星光）
+  ✎ <u>Twinkle</u>, <u>twinkle</u>, little star, like a diamond in the sky. —— Jane Taylor
+  **sparkle, glitter** 明亮细碎地闪烁（多处光源）
+  ✎ The diamond <u>sparkled</u> in the sunlight. 钻石在阳光下闪闪发光。
+  ✎ All that <u>glitters</u> is not gold. 闪光的不一定都是金子。（部分否定） —— William Shakespeare
++ **flash** （突然发出的一道强光，转瞬即逝）
+  n.
+  ✎ a <u>flash</u> of lightning 一道闪电
+  **a flash in the pan** 昙花一现/短暂的成功（习语）
+  ✎ His first novel proved to be <u>a flash in the pan</u>. He never wrote another. 他的第一部小说被证明是昙花一现。他再也没有写过。
++ **emit** v. 放射，发出（多指感受到，但摸不着的东西，如气味、电流、光线等）
+  ✎ Fireflies <u>emit</u> light but not heat. 萤火虫发光但不发热。
+  近义替换：
+  **give off, discharge**
+  **launch**（指火箭、导弹等）
+  ✎ <u>launch</u> a rocket/ missile/ satellite 发射一枚火箭/导弹/卫星
+  词根：
+  emit：**e: out** & **mit: send**
+  submit: **sub: under** & **mit: send** 上交；屈服，服从（派生义）
+  transmit: **trans: across** & **mit: send** 传输，传播
+  ✎ sexually <u>transmitted</u> diseases 性传播疾病
+  ✎ The US open will <u>be transmitted live</u> via satellite. 美国网球公开赛将通过卫星进行现场直播。
+  vomit: **vo: eat** & **mit: send** 呕吐
+  omit: **o = ob: away** &  **mit: send** 省略；删除
+
+
+### 🕹️ **课文讲解**
++ **rarely** 很少（时间频度副词）
+  同义替换：**seldom, almost never, hardly ever**
+  ✎ Though he owned a large car, he <u>hardly ever</u> used it, preferring always to go on foot.（L31）
+  ✎ Rarely/ Seldom <u>does</u> modern sculpture <u>surprise</u> us any more.（将原文中的rarely提前，形成部分倒装）
+  **surprise** 使惊讶（使役动词）
+  使役动词：
+  **astonish** 使大吃一惊
+  **disturb** 使不安
+  **remind** 使回忆起
+  **confuse** 使迷惑
+  **convince** 使相信
+  ↓ His reaction made me feel deeply disappointed. 他的反应使我深深地失望。（评价：使役动词与make意思重复，显得啰嗦）
+  ↳ His reaction <u>deeply disappointed</u> me.
+  ↓ What he said made me totally confused. 他的话让我完全糊涂了。
+  ↳ What he said <u>totally confused</u> me.
++ **圆周句（掉尾句）** 
+  作用：故意将非重点内容往句首堆砌，而将重点放到句尾，引起悬念。
+  仅用于书面语，且不宜多用。
+  ┏ The idea <u>that modern art can only be seen in museums</u> is mistaken.（原文：圆周句）
+  ┗ The idea is mistaken that modern art can only be seen in museums.（通常情况下，为避免头重脚轻，将较长的从句放到句尾）
+  ✎ When <u>reports</u> came into London Zoo <u>that a wild puma had been spotted forty-five miles south of London</u>, they were not taken seriously.（L1）
+  ┏ <u>That all great art has this power of suggesting a world beyond</u> is <u>undeniable</u>.（B4L24）（强调undeniable）
+  ┗ It is undeniable <u>that all great art has this power of suggesting a world beyond</u>.
+  ✎ Although Tchaikovsky himself thought of the Pathetic Symphony as his crowning masterpiece,the premiere on October 28th 1893 in St.Petersburg proved a <u>disappointment</u>. 尽管柴可夫斯基本人认为《悲怆交响曲》是他的巅峰之作，但1893年10月28日在圣彼得堡的首演却令人失望。
++ **take…… interest in……** 对……产生兴趣（比 **be interested in……** 更正式）
+  take <u>an</u> interest in…… 对……产生兴趣
+  take <u>no</u> interest in…… 对……没有产生兴趣
+  take <u>little</u> interest in…… 对……没有产生多少兴趣
+  take <u>a lot of</u> interest in…… 对……产生浓厚的兴趣（偏口语，正式表达见下方例句）
+  ✎ Kidnappers <u>are</u> rarely <u>interested in</u> animals, but they recently <u>took considerable interest in</u> Mrs. Eleanor Ramsay’s cat.（L19）
+  相同结构的表达：
+  **take pride in……** 对……很骄傲（类似于be proud of……）
+  ✎ You should <u>take pride in</u> your work. 你应该为你的工作感到自豪。
+  **take pleasure/ delight in……** 喜欢……（相当于动词like、enjoy）
+  ✎ College students seem to <u>take pleasure/ delight in</u> practical jokes. 大学生似乎喜欢恶作剧。
+  **take comfort in……** 对某事感到很欣慰
+  ✎ I know she goes out a lot at night, but I <u>take comfort in</u> the fact that she’s always with friends. 我知道她晚上经常外出，不过让我感到欣慰的是她总是和朋友在一起。
+  **take pity on……** 同情/怜悯……（搭配的介词为on）
+  ✎ I <u>took pity on</u> the beggar and gave him some change. 我同情那个乞丐，给了他一些零钱。
++ **cannot** 表示“不能”的唯一书面语
++ cannot have failed to notice…… 双重否定，一般表达肯定的语气
+  = must have noticed……
+  ✎ Cats <u>never fail to</u> fascinate human beings.（L9）
++ **on + n.** 表示处于某种状态
+  ✎ <u>on display/ show/ exhibition</u> 正在陈列
+  ✎ The house is <u>on sale</u>. 这房子正在出售中。
+  ✎ The workers are <u>on strike</u>. 工人正在罢工中。
+  ✎ I’m here <u>on vacation</u>. 我正在这度假。
+  ✎ I’m here <u>on business</u>. 我正在这出差。
+  ✎ The nurse is <u>on call</u> 24 hours a day. 护士24小时随叫随到。
++ Strange forms (of sculpture) stand in gardens（原文有省略）
++ **be/ get/ become used to(介词)……** 习惯了……/习惯于……（get偏口语；become偏书面语）（L2复习）
+  ✎ ‘We’ll <u>get used to</u> that, Bill,’said the vicar.（L2）
+  替换：
+  **be/ get/ become accustomed to(介词)……**（更正式）
+  ✎ We have <u>got quite accustomed to</u> them.（原文替换）
+  ✎ M: I<u>’m</u> not <u>accustomed to</u> using a gas stove.
+  W: It’s simple.Just turn the knob until the burner lights then adjust the flame.
+  Q: What is the man going to do?
+  Answer: Cook some food.（托福听力真题）
+  近义表达：
+  **be/ get/ become familiar with……** 熟悉了……
+  ✎ We have <u>got quite familiar with</u> them.（原文替换）
+  **be adapted to(介词)……** 适应了……
+  ✎ I <u>am adapted to</u> Beijing’s dry climate. 我已经适应了北京干燥的气候。
++ **so-called** 所谓的（表示名不副实）
+  ✎ Where are your <u>so-called</u> friends now? 你所谓的朋友现在在哪里？
++ **— including myself —**
+  插入语：多放置于两个破折号/逗号/括号之间。
+  同义替换：
+  **— as well as myself —**
+  **— no less than myself —**
++ **say** v. 上面写着……
+  ✎ The sign <u>says</u> ‘Keep Out’. 标牌上写着“请勿入内”。
+  ✎ What did the letter <u>say</u>? 信上说了什么？
+  ✎ My watch <u>says</u> four o’clock. 我的表显示四点钟。
+  ✎ A tiny asterisk conducted me to a footnote at the bottom of the page. It <u>said</u>: ‘This servise has been suspended.’（L37）
+  辨析：
+  **go** v. 一句话一个故事是怎么说的；一首歌是怎么唱的
+  ✎ As the old saying <u>goes</u>,‘look before you leap’. 正如一句老话说的，“三思而后行”。
+  ✎ The story <u>goes</u> that the prince was turned to a frog. 据说王子变成了一只青蛙。
+  ✎ How does the song <u>go</u>? 这首歌是怎么唱得来着？
++ Do not touch the exhibits.（原文）
+  = <u>Keep away from</u> the exhibits.
++ **shaped** 表示某种形状的
+  ✎ a strangely <u>shaped</u> carrot 一根奇形怪状的萝卜
+  ✎ She has a perfectly <u>shaped</u> figure 她有一个完美的体型
+  ✎ heart-<u>shaped</u> 心形的
+  ✎ pear-<u>shaped</u> 梨形的
+  ✎ V-<u>shaped</u> v字型的
++ **be suspended from……** 悬挂……；暂停……；中止……（L17）
+  **hang from ……**
+  ✎ His driver’s license <u>was suspended</u>. 他的驾照被吊销了。
++ **in response to……** 作为对……的反应/回应（to 是介词）
+  ✎ The president stepped down <u>in response to</u> public pressure. 总统迫于公众压力辞职。
++ a **gust** of wind 一阵风
+  类似量词复习：
+  ✎ a <u>flash</u> of lightning 一道闪电
+  ✎ a <u>peal</u> of thunder 一声雷
+  ✎ a <u>fit</u> of coughing 一阵咳嗽（fit表示疾病突然间地发作）
+  ✎ a <u>round</u> of applause 一阵掌声
+  ✎ <u>peals/ gales</u> of laughter 阵阵笑声
++ **be familiar to……** 对某人来说……很熟悉
+  辨：**be familiar with……** 对某事很熟悉
+  ✎ Many readers <u>are familiar with</u> the name Harry Potter. 许多读者都熟悉哈利·波特这个名字。
+  ✎ The name Harry Potter <u>is familiar to</u> many readers. 哈利·波特这个名字对许多读者来说都很熟悉。
++ **line sth. up** 把……排成一排
+  ✎ The books <u>are lined up</u> on the shelf. 书在架子上被排成一排。
+  **line up** 排队
+  ✎ <u>Line up</u>, everybody! 大家排好队！
+  **cut in line** 加塞
++ **attach sth. to sth.** 把某物附在某物上
+> 仿写第2段第6句
+  Lined up on the table, there are a number of brand-new computers connected to printers.
+  在桌上排列着一些崭新的电脑，而电脑上又连着打印机。
++ **all the time** 一直……；不停地……
+  类似表达：
+  **on and on**
+  **continuously**
+  **constantly**
+  **without stopping**
++ **coloured** lights 有颜色的
+  辨：**colourful** lights 五颜六色的，鲜艳的
+  ✎ …… <u>colourful</u> rugs from Persia（L28）
++ **continuously** 强调一刻不停地，一直持续下去地
+  辨：**continually** 表示频繁地发生（一般带贬义）
+  **be always/ continually doing** 总是做某事
+  ✎ He is <u>continually</u> being late. 他总是迟到。（参见L2笔记）
+  ✎ He is <u>continually</u> asking me for money. 他总是管我要钱。
++ **go mad** 变疯（go意为“变得”，是系动词，一般指往坏的方向变。）
+  近义表达：
+  **go crazy**
+  **go wild**
+  **go bananas**（俚语）
+  **go nuts**
+  **go insane**（书面语）
++ **on and off** = **off and on** 断断续续地
+  反义：
+  **on and on** 持续不停地
++ **prehistoric** 史前的；老掉牙的，过时的，老套的（固定的夸张的修辞）
+
+#### 👾 **hyperbole 夸张（修辞）**
+✎ I’d love to buy a Rolls-Royce, but it <u>costs (me) an arm and a leg</u>. 我很想买一辆劳斯莱斯，但它实在太贵了。
+✎ Everybody <u>was clapping their hands off</u>. 每个人都在鼓掌，鼓到手都要掉了。
+✎ I <u>didn’t sleep a wink</u> last night. 我昨晚眼都没合一下。
+✎ He has <u>a skeleton of a wife</u>. 他有一个瘦如骷髅的妻子。（介词of作比喻：of前是喻体，of后是本体。例：a boy of a girl 一个像男孩的女孩）
++ **not only……, but…… as well.** 不但……，而且还……。
++ shock 双关
+  第一个指让某人大吃一惊、震惊；第二个指电击。
+
+#### 👾 **pun 双关**
+一种是谐音双关；一种是多义双关（本文）。
+✎ Lesson 19 A very <u>dear</u> cat 即表示亲密，又表示昂贵（多义双关）
+✎ More <u>sun</u> and <u>air</u> for your <u>son</u> and <u>heir</u>.更多的阳光和空气给你的儿子和继承人。（谐音双关）
+✎ We must all <u>hang together</u> or we shall all <u>hang separately</u>. 我们必须团结一致，否则我们将被逐个绞死。（[美]富兰克林于南北战争期间）（多义双关）
+✎ ——What do lawyers do when they die? —— <u>Lie still</u>.
+  ——律师死后会做什么？——静静地躺着/依然在撒谎。
+✎ The professor tapped on his desk and shouted,‘Gentlemen, <u>order</u>!’ The entire class yelled,‘Beer!’ 
+教授敲了敲桌子，喊道：“各位，安静/点餐！” 全班同学大喊：“啤酒！”
+
+---
+
+## **Lesson 19 - A very dear cat**
+### **课文原文**
+<font color=gray size=4>Kidnappers are rarely interested in animals, but they recently took considerable interest in Mrs. Eleanor Ramsay’s cat. Mrs. Eleanor Ramsay, a very wealthy old lady, has shared a flat with her cat, Rastus, for a great many years. Rastus leads an orderly life. He usually takes a short walk in the evenings and is always home by seven o’clock. One evening, however, he failed to arrive. Mrs. Ramsay got very worried. She looked everywhere for him but could not find him.
+
+Three days after Rastus’ disappearance, Mrs. Ramsay received an anonymous letter. The writer stated that Rastus was in safe hands and would be returned immediately if Mrs. Ramsay paid a ransom of £1,000. Mrs. Ramsay was instructed to place the money in a cardboard box and to leave it outside her door. At first, she decided to go to the police, but fearing that she would never see Rastus again — the letter had made that quite clear — she changed her mind. She withdrew £1000 from her bank and followed the kidnapper’s instructions. The next morning, the box had disappeared but Mrs. Ramsay was sure that the kidnapper would keep his word. Sure enough, Rastus arrived punctually at seven o’clock that evening. He looked very well, though he was rather thirsty, for he drank half a bottle of milk. The police were astounded when Mrs. Ramsay told them what she had done. She explained that Rastus was very dear to her. Considering the amount she paid, he was dear in more ways than one!</font>
+
+
+### 🌻 **单词讲解**
++ **dear** a. 亲爱的；昂贵的
+  ✎ <u>Dear</u> Mr.Smith, 亲爱的史密斯先生（常见于信件）
+  ✎ my <u>dear</u> daughter 我亲爱的女儿
+  ✎ Come on, <u>dear</u>. 快过来，亲爱的。
+  + 表示“亲爱的人” n.：
+  **dearest** 最最亲爱的
+  **darling**
+  **honey**
+  **sugar**
+  **sweetheart**
+  + 表示“昂贵的” a.：
+  **expensive**
+  **costly**
+  **pricy/ pricey**
+  **cost sb. an arm and a leg** 使某人下血本（直译：让某人花了一只胳膊一条腿）（习语-夸张）
+  ✎ M: Did you see the diamond ring Bill gave to Linda?
+  W: I sure did. It must have <u>cost him an arm and a leg</u>.
+  Q: What does the woman imply about the ring?
+  Answer: It was very expensive.（托福真题）
+  **daylight/ highway robbery**光天化日之下抢劫（习语）
+  ✎ $10 for an orange juice? That’s just <u>daylight robbery</u>！
++ **kidnapper** n. 绑架者，绑匪
+  **kidnap** v. 绑架（kid：小孩、小山羊；nap：打盹）
+  ✎ The boy was <u>kidnapped</u> by a terrorist.
+  近义词：
+  **abduct** v.
+  **abductor** n.
+  **hijack** 劫持
+  **hijacker** 劫匪
+  相关词：
+  **ransom** n.[C]赎金 ✎ a ransom 一笔赎金；a ransom of ￥100 一笔一百块钱的赎金
+  **hostage** 人质
++ **anonymous** a. 匿名的（an-：无，没有；ous：形容词后缀：的）
+  ✎ an <u>anonymous</u> donor/ phone call/ letter 一个匿名的捐助者/来电/信件
+  词根 **onym**：name
+  **synonym** 同义词
+  **antonym** 反义词 （anti：对抗，对立）
+  **pseudonym** 假名；化名（pseudo：假的）
+  **pseudo-science** 伪科学
+  ✎ O. Henry is the <u>pseudonym</u> of William Sydney Porter. 欧·亨利是威廉·西德尼·波特的笔名。
++ **withdraw** v.（从银行）取款
+  **withdraw…… from……**
+  ✎ I’d like to <u>withdraw</u> 2,000 yuan <u>from</u> my account. 我想从我的账户中提取2000元。
+  反义搭配：
+  **deposit…… in……**
+  ✎ I’d like to <u>deposit</u> 2,000 yuan <u>in</u> my account. 我想把2000元存到我的账户里。
+  相关表达：
+  I’d like to **open an account**. 开户
+  **current account** 活期账户
+  = **checking account** 支票账户
+  **deposit account** 定期账户
+  = **savings account** 
+  I’d like to **close my account** because I’m moving. 销户（am moving：马上就要搬家了）
+  Can I **cash a cheque** here? 兑现（cheque[英]/ check[美]）
+  What’s the **balance** in my account? 余额
+  What’s the **interest rate**? 利率
+  I’d like to **transfer** $2,000 **from** my savings account **to** my checking account. 转账（transfer也可表示工作调动，见L13）
+  Can I **wire** some money to China from here? 电汇
+  Is it possible for me to **exchange** some British pounds **for** U.S.dollars? 兑换另一个币种
+  What’s today’s **exchange rate for** U.S. dollars? 汇率
+
+
+### 🕹️ **课文讲解**
++ A very **dear** cat （多义双关：① treasured/ valued；② expensive/ costly）
+  ✎ Stephen hawking is a <u>star</u> scientist.（① His expertise is related to cosmology.② He is a celebrity.）
++ **rarely** （参见L18笔记）
+  ┏ Kidnappers are rarely interested in animals,……（原文）
+  ┗ Rarely <u>are</u> kidnappers interested in animals,……（部分倒装）
++ 对……产生了兴趣（参见L18）
+  + **take an interest in……** 对……产生兴趣
+  **take no interest in……** 对……没有产生兴趣
+  **take little interest in……** 对……几乎没有产生兴趣
+  **take considerable interest in……** 对……产生浓厚兴趣
+  + **have an interest in……** 对……有兴趣
+  **have no interest in……** 对……没兴趣
+  **have little interest in……** 对……几乎没有兴趣
+  **have considerable interest in……** 对……有浓厚兴趣
+  + **show an interest in……** 表现出对……的兴趣
+  **show no interest in……** 没表现出对……的兴趣
+  **show little interest in……** 没表现出多少对……的兴趣
+  **show considerable interest in……** 表现出了对……浓厚的兴趣
+> 仿写第1句
+  Children are rarely interested in history, but little John recently took considerable interest in ancient sculpture.
+  孩子们很少对历史感兴趣，但是小约翰最近却对古代雕塑产生了浓厚的兴趣。
++ **wealthy** 富裕的，有钱的
+  同义替换：
+  **rich, affluent, well-off, well-to-do**
++ **share a house/ apartment [美]/ flat [英]/ room with……** 与某人合住（非亲非故非恋人）
+  ✎ I <u>shared an apartment with</u> Kim when I first came to Beijing. 我第一次来北京时和金合住一套公寓。
+  **room with……** 与某人住在一块（同屋住，尤其暗示同宿舍）
+  ✎ I <u>roomed with</u> him at college. 我大学时和他住一个宿舍。
+  **live with……** （无特殊含义）
+  **cohabit with……** 与某人同居（未婚）（词根：**habit**：住；inhabit：住在某个地方；habitat：(动植物的) 栖息地）
++ **share** 分享；分担；有共同的（参见L9）
+  ✎ A sorrow <u>shared</u> by two is half sorrow; a happiness <u>shared</u> by two is double happiness. 两个人分担的悲伤是一半的悲伤；两个人共享的幸福是双倍的幸福。（过去分词作后置定语）
+  ✎ We <u>share</u> an interest in history. 我们俩对历史有着共同的兴趣。（相当于have sth. in common）
+> 仿写第2句
+  Alfred Bloggs, a dustman for the Ellesmere Corporation, has shared an apartment with his colleague, George, for a great many years.
+  Alfred Bloggs是Ellesmere公司工作的一名垃圾工，他和他的同事George合住一个公寓已经很多年了。
++ **lead/ live a…… life** 过着……样的生活（参见L9）
++ **orderly** 有秩序的；有规律的（n. + ly = a.）
+  = **regular**
++ **take a walk/ stroll** 散步（stroll表示慢悠悠）
+  = **have a walk/ stroll**
+  = **go for a walk/ stroll**
+  ✎ I happened to be walking in my garden when I noticed a huge number of snails <u>taking a stroll</u> on some of my prize plants.（L23）
+  ✎ —— What do you want to do after breakfast? ——Why don’t we <u>take a walk</u> down to the river？（《走遍美国》）
+  ✎ —— Hey, is Chandler here? —— No, no he <u>went for a walk</u>.（《老友记》）
+  近义表达：
+  **walk the dog** 遛狗（walk作动词，表示陪某人散步）
+  **stretch one’s legs** （坐得太久）出去走走（习语）
+  ✎ You can <u>stretch your legs</u> on the spacious decks, ……（L44）
++ 到处找也找不到
+  She looked everywhere for him but could not find him.（本文）
+  He could not find his fifty pence anywhere, ……（L15）
+  She could not find him anywhere.（将本文换用L15的写法）
++ Three days after Rastus’ disappearance, ……（本文）之前/之后多久
+  <u>Four days after setting out</u>, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a look-out.（L10）
++ 收到信
+  **receive sth. from sb.** 从某人那收到了信/电话/短信等（书面语）
+  = **get sth. from sb.** （口语）
+  **hear from sb.** 有某人的音信
++ **in safe hands** 被照顾得很安全（固定搭配）
+  ✎ Don’t worry about the children. They are <u>in safe hands</u>. 不用担心孩子们。他们现在被照顾得很安全。
+  ✎ You can be sure your children are <u>in good hands</u>. 你可以确信你的孩子得到了妥善的照顾。
+  ✎ I am afraid that nuclear weapons could <u>fall into the wrong hands</u>. 我担心核武器会落入坏人之手。（固定搭配）
+  **safe and sound** 安然无恙（直译：安全和硬朗/健康，首韵）（习语）
+  ✎ The hostage now is <u>safe and sound</u>. 人质目前安然无恙。
++ a ransom of £1,000 一千英镑的一笔赎金
+  ✎ In 1908 Lord Northcliffe offered <u>a prize of ￡1,000</u> to the first man who would fly across the English Channel.（L20）奖金
+  ✎ a reward of￡1,000 酬金
+  ✎ a fund of￡1,000 基金
+  ✎ a debt of￡1,000 债务
+  ✎ an investment of ￡1,000 投资
+  ✎ a scholarship of ￡1,000 奖学金
++ **instruct sb. to do** 命令/指示某人做某事
+  ✎ Last year a journalist <u>had been instructed</u> by a well-known magazine <u>to</u> write an article on the president’s palace in a new African republic.（L5）
++ **go to the police** 报警（强调去警察局）
+He told him he had better return it or he would **call the police**. 电话报警（L16）
+**inform the police** 通知警方（不强调方式）
++ but fearing that…… 担心
+  同义表达：
+  **be afraid of……**
+  **be afraid that……**
+  ┏ ……but fearing that she would never see Rastus again……（原文）
+  ┗ …… but <u>afraid of</u> never seeing Rastus again……
+  ┗ …… but <u>afraid that</u> she would never see Rastus again……
+  **for fear of……** 因为担心……会发生（固定搭配）
+  **for fear that……**
+  I didn’t turn on the light, for fear of waking the baby. 我没有开灯，生怕吵醒婴儿。
+  I didn’t turn on the light, for fear that it would wake the baby.
+  ┗ …… but <u>for fear of</u> never seeing Rastus again……
+  ┗ …… but <u>for fear that</u> she would never see Rastus again……
++ **make sth. clear/ explicit** 说清楚/讲明白（习语）
+  ✎ Possible side effects must <u>be made clear/ explicit</u>. 必须明确指出可能的副作用。
+  **clarify**
+  ✎ Could you <u>clarify</u> your remarks? 你能澄清一下你的话吗？
+  ✎ <u>clarify</u> one’s position 表明某人的立场
++ **the next/ following/ succeeding morning** 次日上午
+  = **the morning after**
+  **the next/ following/ succeeding day** 次日
+  = **the day after**
++ **keep one’s word/ promise** 守信用
+  **break one’s word/ promise** 未守信用；没有兑现诺言
+  He is **a man of his word** 守信的人
+  She is **a woman of her word**
++ **sure enough** 果然，不出所料
+  ✎ The man took heart and, <u>sure enough</u>, on New Year’s Eve he was able to hobble along to a party.（L29）
+  ✎ <u>Sure enough</u>, a policeman arrived on the scene and politely asked the workmen to go away.（L40）
++ **astounded**
+  The police <u>were astounded</u> when Mrs. Ramsay told them what she had done. （原文）
+  其它 “惊讶”：
+  When the archaeologists reconstructed the fragments, they <u>were amazed</u> to find that the goddess turned out to be a very modern-looking woman.（L3）（使某人迷惑不解）
+  When he went outside half an hour later, he <u>was astonished</u> to find that the little black lamb was almost white.（L16）（不敢相信自己的眼睛）
+  A short time ago, villagers <u>were astonished</u> to learn that the ghost of Endley had died.（L30）
++ **considering** 考虑到（习语-介词：来自于非谓语动词，用得太多久而久之就直接当介词用了，其后可直接加宾语）
+  + **如果非谓语动词本身是习语，那么其主语跟主句主语可以不统一**
+  ✎ **Strictly speaking**, the whale isn’t a fish. 严格来说，鲸鱼其实并不是鱼。
+  ✎ **Judging from** his face, he must be ill. 从他脸上来判断，他肯定是病了。
+  ✎ **To make a long story short**, he wanted money, and tried to get it without working. 长话短说，他想要钱，并试图在不工作的情况下获得它。
+  ✎ The team has lost the last two games and **to make matters worse**, two of its best players are injured. 球队在最近两场比赛中输了，更糟糕的是，两名最好的球员受伤了。
+  + 类似用法的词：
+  **including** 包括； **excluding** 不包括
+  **concerning, regarding, respecting** 关于
+  ✎ China’s foreign policy <u>concerning/ regarding/ respecting</u> Japan 中国关于日本的外交政策
++ **in more ways than one** 有不止一方面的含义（习语）
+  ✎ Known to millions, far and wide, for his book ‘A Brief History of Time’, Stephen Hawking is a <u>star</u> scientist <u>in more ways than one</u>. 因其著作《时间简史》而鼎鼎有名，闻名遐迩，斯蒂芬·霍金在多个方面都是一位明星科学家。
++ ‘empty nest’ problem 空巢问题
+  ‘empty nesters’ 空巢者
+  ‘empty nest’ syndrome 空巢综合症
+
+---
+
+## **Lesson 20 - Pioneer pilots**
+### **课文原文**
+<font color=gray size=4>In 1908 Lord Northcliffe offered a prize of £1,000 to the first man who would fly across the English Channel. Over a year passed before the first attempt was made. On July 19th, 1909, in the early morning, Hubert Latham took off from the French coast in his plane the ‘Antoinette IV’. He had travelled only seven miles across the Channel when his engine failed and he was forced to land on the sea. The ‘Antoinette’ floated on the water until Latham was picked up by a ship.
+
+Two days later, Louis Bleriot arrived near Calais with a plane called ‘No. XI’. Bleriot had been making planes since 1905 and this was his latest model. A week before, he had completed a successful overland flight during which he covered twenty-six miles. Latham, however, did not give up easily. He, too, arrived near Calais on the same day with a new ‘Antoinette’. It looked as if there would be an exciting race across the Channel. Both planes were going to take off on July 25th, but Latham failed to get up early enough. After making a short test flight at 4,15 a.m., Bleriot set off half an hour later. His great flight lasted thirty-seven minutes. When he landed near Dover, the first person to greet him was a local policeman. Latham made another attempt a week later and got within half a mile of Dover, but he was unlucky again. His engine failed and he landed on the sea for the second time.</font>
+
+
+### 🌻 **单词讲解**
++ **pioneer** n. 先驱；v. 开拓，探索
+  ✎ Young <u>Pioneers</u> 少先队（直译：青年探索者）
+  ✎ Henry Ford was a <u>pioneer</u> in the auto industry. 亨利·福特是汽车工业的先驱。
+  ✎ The Wright brothers <u>pioneered</u> in early aviation. 莱特兄弟在早期航空领域做了开拓性的工作。
+  同义习语替换：
+  **break new ground**
+  ✎ Deng Xiaoping’s reform programs <u>broke new ground</u> in China. 邓小平的改革方案在中国开辟了新天地。
+  **lead the way**
+  ✎ The company <u>led the way</u> in developing environment-friendly products. 该公司在开发环保产品方面是先行者。
++ **lord** n. 对(英国)贵族(noble/ aristocrat)的尊称，勋爵
+  ✎ <u>Lord</u> Northcliffe 诺斯克里夫勋爵（本文）
+  ✎ <u>Lord</u> Byron 拜伦勋爵（L21）
+  贵族的阶层-爵位：
+  duke 公爵
+  marquis 侯爵
+  earl 伯爵
+  viscount 子爵
+  baron 男爵
+  辨：
+  **sir** n. 对爵士(knight)的尊称，属平民而非贵族
+  ✎ <u>Sir</u> John Hawkwood（L14）
++ **overland** a. 陆上的；ad. 通过陆路
+  a.
+  ✎ an <u>overland</u> journey 一次陆上的旅行
+  ad.
+  overland 通过陆路 = **by land**
+  ✎ We travelled <u>overland/ by land</u> to Hangzhou. 我们通过陆路去杭州。
+  by sea 通过海路； by air 通过空中
+  **by** bus/ train/ car/ ship/ boat/ plane etc. 更具体的出行方式
+  **in** my car 具体到某个交通工具
+  **on** foot
+  动词表达：
+  **drive (from……) to……**
+  **fly (from……) to……**
+  **sail (from……) to……**
+  **take a bus/ taxi/ train/ ship/ boat/ plane etc.**
+
+
+### 🕹️ **课文讲解**
++ **offer sb. sth. = offer sth. to sb.** 给某人提供某物（一般根据长短来确定人在前还是物在前）
+  ┏ In 1908 Lord Northcliffe **offered** <u>a prize of £1,000</u> **to** <u>the first man who would fly across the English Channel</u>.（本文）
+  ┗ An aeroplane **offers** <u>you</u> <u>an unusual and breathtaking view of the world</u>.（L44）
+  ┗ Shops cater for the do-it-yourself craze not only by running special advisory services for novices, but by **offering** <u>consumers</u> <u>bits and pieces which they can assemble at home</u>.（L46）
+  辨：
+  **offer to do = volunteer to do** 主动提出做某事
+  ✎ In times of peace, when business was bad, Hawkwood and his men would march into a city-state and, after burning down a few farms, would <u>offer to go away</u> if protection money was paid to them.（L14）
+  ✎ He <u>offered to train Mendoza</u> and his young pupil was quick to learn.（L21）
++ 【✔】 a prize of £1,000
+  【✘】 a £1,000 of prize
++ ┏ the first man who would fly across the English Channel.（定语从句）（原文）
+  ┗ the first man to fly across the English Channel.（非谓语动词作后置定语）（课后题-4）
++ ┏ <u>fly across</u> the English Channel 用某个方式穿越某个地方（动词 + 介词 + 地点）
+  ┗ <u>cross</u> the English channel <u>by plane</u>（参见L12）
+  ┏ **动词 + across + 宾语**
+  ┗ **cross + 宾语 + 方式状语**
++ the (English) Channel 英吉利海峡
+  **strait** 海峡
+  ✎ the Bering <u>Strait</u> 白令海峡（地理名词前一般要加定冠词the）
+  ✎ the Taiwan <u>Strait</u> 台湾海峡
++ **before**
+  **才…… / 就……**（表示时间特别长，译为“才”；反之，译为“就”）
+  ✎ Over a year passed **before** the first attempt was made.（本文） **才**
+  ✎ Looking at his watch, he saw that it was one o’clock, but the bell struck thirteen times <u>before</u> it stopped.（L2）才
+  ✎ I hadn’t waited long <u>before</u> he came. 我没等多久，他<u>就</u>来了。
+  **然后……**
+  ✎ I shaved <u>before</u> I went to the party. 我刮了胡子然后去参加了聚会。
+  ✎ Alfred stayed in the camp a week <u>before</u> he returned to Athelney.（B4L9）
+  **when** 也能译为“才”、“就”、“然后”
+  ✎ He had travelled only seven miles across the Channel <u>when</u> his engine failed and he was forced to land on the sea. 就（可替换为before）（本文）
+  ✎ The plane had been planting seed for nearly a month <u>when</u> it began to rain. 才（可替换为before）（B2L62）
+  ✎ Shrugging my shoulders, I began to walk away <u>when</u>, a moment later, he ran after me and thrust the pen into my hands. 然后（L28）
++ **make…… attempt to do** 做尝试
+  **make an/ no/ little/ the first/ another attempt to do**
+  ✎ Latham <u>made another attempt</u> a week later and got within half a mile of Dover, but he was unlucky again.（本文）
+> 仿写第2句
+  Over a month passed <u>before</u> the body was found.
+  过了一个多月才有人发现了这具尸体。
+  Over a decade passed <u>before</u> the secret was revealed.
+  过了十年多才有人出来揭示了这个秘密。
++ in the **early/ late** morning/ afternoon/ evening
+  at **dawn/ the crack of dawn/ daybreak/ sunrise** 在凌晨
+  at **dusk/ sunset/ sundown/ twilight** 在黄昏
++ ┏ **take off** 起飞
+  ┗ **land** 着陆
+  ✎ Flight No.714 <u>took off/ landed</u> at 8:30 a.m. 714航班于上午8时30分起飞/降落。
+  ┏ **take off sth.** 脱衣服
+  ┗ **put on sth.** 穿衣服
+  ✎ He <u>took off/ put on</u> his coat. 他脱下/穿上外套。
+  **take…… off……** 使（前者）脱离（后者）
+  ✎ It is almost impossible to <u>take</u> your mind <u>off</u> the journey. 转移注意力，不再想某事（L44）
+  ✎ She was so pretty — I couldn’t <u>take</u> my eyes <u>off</u> her. 目不转睛
+  ✎ — Have you seen James without his beard?
+  — I know — it <u>takes</u> years <u>off</u> him! 年轻了好几岁
+  **take time off** 请假
+  ✎ — Do you still live there?
+  — Oh yes, yes. My husband’s there now. He couldn’t <u>take time off</u> to come to New York with me. 他请不下假陪我一起去纽约。（《走遍美国》）
+  I have to **take time off from work/ school** to go to the dentist. 从某个地方请假
+  **take a day off** 请一天的假
+  **take the afternoon off** 请一下午的假
++ **travel** 走/行驶过了……的距离（不限交通方式）
+  ✎ He has to <u>travel</u> 20 miles to work every day. 他每天必须走20英里去上班。
++ **fail** v.(fml.) （零部件）失灵
+  ✎ The brakes <u>failed</u> and the car crashed into a tree. 刹车失灵了，汽车撞到了一棵树上。
+  **break down** v.（交通工具，大型机器）抛锚，停止工作
+  ✎ The car/ bus/ train/ washing machine <u>broke down</u>. 汽车/公共汽车/火车/洗衣机坏了。
+  **malfunction** v.(fml.) 出故障（mal：不好的；function：功能，作用；发挥作用）
+  ✎ The satellite entered the orbit and quickly <u>malfunctioned</u>. 卫星进入轨道后很快发生故障。
+  **sth. goes wrong with……** 出故障（多指复杂、精密的仪器）
+  ✎ <u>Something’s gone wrong with</u> my computer. 我的电脑出故障了。
+  辨：**fail to do** 没能完成某事
+  ✎ When the journalist again <u>failed to reply</u>, the editor reluctantly published the article as it had originally been written.（L5）
+  **be forced to do** 被迫/不得不做某事
+  ✎ She <u>was forced to retire</u> early due to ill health. 由于健康状况欠佳，她被迫提前退休了。
+  ✎ …… and he had to <u>make a forced landing</u>.（原文换用）（forced landing：迫降（术语））
+  **be/ feel obliged to do** 被迫做某事（出于道义或责任）
+  However, as the evidence began to accumulate, experts from the Zoo <u>felt obliged to investigate</u>, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.（L1）
+  **be/ feel compelled to do** 被迫做某事（迫于外界压力）
+  ✎ President Nixon <u>felt compelled to resign</u>. 尼克松总统觉得必须要辞职。
+  **be/ feel impelled to do** （由于内心的动力，如良知、正义感）
+  ✎ I <u>felt impelled to tell</u> her the truth. 我觉得必须得告诉她真相。
+  **be/ feel bound to do** （强调由于法律、协议的约束。bind：绑定）
+  ✎ All the countries <u>are bound to submit</u> to the regulations. 所有国家都必须遵守这些规定。
+  【✘】be/ feel necessary to do
+  【✔】**It is necessary for…… to do**
+  **must do / have to do**（这两个表达比较普通，可用上方表达替换升级）
++ **float on the water** 漂在水面上（固定用法）
+  **ride the waves** 漂在水面上（直译：骑着波浪）（习语）
++ **pick up ⇔ sb.** 用车把某人接回来/开车去接某人
+  （副词up位置比较灵活，sb.如果较长，可放pick up后边；sb.如果较短，可放pick up中间）
+  ✎ —— I’d really like to <u>pick up Grandpa</u> at the railroad station. 我真的很想去火车站接爷爷。
+  —— Railroad stations or airports, Grandpa always tells us he’ll get here by himself. 火车站或机场，爷爷总是告诉我们他会自己到的。
+  —— He’s something! 他真了不起！（《走遍美国》）
+  表示救某人：
+  **save/ rescue** （宾语既可以是人也可以是某个东西）
+  ✎ When you <u>rescued</u> your trousers, did you find the note was whiter than white?（L7）
+  ✎ When a passing tanker <u>rescued</u> them five days later, both men were genuinely sorry that they had to leave.（L12）
+  **salvage**（只能表示救东西）
+  ✎ He tried desperately to <u>salvage</u> belongings from the burning house. 他拼命地试图从着火的房子里抢救财物。（belongings 动产）
+  ✎ The <u>salvage</u> operation had been a complete failure. 打捞行动彻底失败了。（L32）
+  **pick up ⇔ sth.**
+  （同上，sth.如果较长，可放pick up后边；sth.如果较短，可放pick up中间）
+  ① 拿起来，捡起来，拾起来
+  ✎ The phone rang and I <u>picked</u> it <u>up</u>. 电话铃响了，我接了起来。
+  = The phone rang and I <u>picked up</u> the phone. 
+  ② 买到便宜货
+  ✎ He has often described to me how he <u>picked up</u> a masterpiece for a mere ￡50. 他经常向我描述他是如何用仅仅50英镑买到一件杰作的。（L34）
+  **pick up where we left off** 从中断的地方继续（习语）
+  ✎ After lunch shall we <u>pick up where we left off</u>? 吃完午饭我们接着干吧？
++ Louis 路易（法国人名，法语中单词末尾的s、x不发音）
+  ✎ lllinois 伊利诺伊（美国一州名）~~伊利诺伊斯~~
+  ✎ Calais 加莱（法国港口城市）
+  ✎ Charles 查理 ~~查尔斯~~
+  ✎ Chamonix 夏木尼（法国城市）（B4L3）
++ 路易简介-略
++ **model** n. (车辆、机器的)型号
+  the latest model 最新型号
+  the most popular model 最受欢迎的型号
+  ✎ My car is <u>the latest model</u>.
+  ✎ They produce a range of different computers, but this is <u>the most popular model</u>. 他们生产一系列不同的电脑，但这是最受欢迎的型号。
++ ┏ flight [C] 表示一次、两次空中的航行
+  ┗ aviation [U] 航空
+  ┏ voyage [C] 表示一次、两次海上的航行（参见L10）
+  ┗ navigation [U] 航海
++ **stick it out** 坚持下去（习语）
+  ┏ Latham, however, <u>did not give up easily</u>.
+  ┗ Latham, however, <u>stuck it out</u>.
++ **It <u>seems/ looks</u> <u>as if/ as though</u>……** 看似，好像……（固定句型，可视作表语从句）
+  ✎ <u>It seemed/ looked as if/ as though</u> there would be a heated argument between them. 看似他们之间将有一次激烈的争吵。
+  近义搭配：
+  **promise to do** 很可能……（**主语必须是物**；主语若是人，则译为：承诺/答应做某事）（注意时态，promise本身就有将来时意味）
+  ✎ It <u>promised to be</u> an exciting race across the Channel.（原文换用，课后题-7）
+  ✎ It <u>promises to be</u> warm today. 今天可能很暖和。
+  ✎ Groundbreaking research by two French geophysicists <u>promises to shed</u> some light on the mystery. 两位法国地球物理学家的突破性研究有望揭开这一谜团。（六级）（shed light on 揭示（固定搭配）（L38））
++ **race** 比赛（单位距离内，比谁用时最短的竞赛）
+  ✎ a car/ boat/ horse/ swimming race
+  **match [英] / game [美]**（双方正面对垒的竞赛）
+  ✎ a boxing/ basketball/ football/ volleyball <u>match/ game</u>
+  ✎ <u>Boxing matches</u> were very popular in England two hundred years ago.（L21）
+  **contest**（强调由裁判打分的比赛）
+  ✎ a speech/ beauty/ dance <u>contest</u>
+  + 比赛相关：
+  **open** 公开赛 ✎ the US Open 美国公开赛（四大网球公开赛之一）
+  **tournament** 巡回赛，系列赛，锦标赛
+  **championship** 冠军赛
+  **games** 大型运动会 ✎ the Olympic Games 奥林匹克运动会 ✎ the Goodwill Games 友好运动会
++ **set out/ off** 动身，出发（不强调方式）（参见L10）
+  = **start out/ off**
+  ✎ Four days after <u>setting out</u>, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout.（L10）
++ the first person <u>to greet him</u> was a local policeman. （动词不定式作后置定语）
+  ✎ The next man <u>to approach me</u> was selling expensive pens and watches.（L28）
++ **within…… of……** 离……不到……（固定结构）
+  ✎ I live <u>within</u> a mile <u>of</u> the city center. 我住在离市中心不到一英里的地方。
+  ✎ The company is <u>within</u> a week <u>of</u> bankruptcy. 这家公司离破产不到一周。
++ ┏ **for the second time** 某事第二次发生
+  ┗ **at the second time** 在第二次的时候
+  ┏ **for the first time** 第一次做某事
+  ┗ **at the first time** 在第一次的时候
+  ✎ In 1929, three years after his flight over the North Pole, the American explorer, R.E.Byrd, successfully flew over the South Pole <u>for the first time</u>. 首次飞跃南极（B2L43）
+  ✎ —— Going away to college <u>for the first time</u> always makes one a little nervous. 第一次上大学总是让人有点紧张。
+  —— I guess so. I’ll be OK. I just need time to think.（《走遍美国》）
+
