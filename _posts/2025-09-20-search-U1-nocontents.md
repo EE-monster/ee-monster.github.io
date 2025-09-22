@@ -1,11 +1,9 @@
 ---
 title: U1 no contents
-description: >-
-  Developing skills
+author: Knight
 date: 2024-01-12
 categories: [新概念英语第三册, 笔记2]
 tags: [英语学习]
-author: Knight
 ---
 
 
@@ -5806,6 +5804,7 @@ Two days later, Louis Bleriot arrived near Calais with a plane called ‘No. XI�
   ✎ In 1929, three years after his flight over the North Pole, the American explorer, R.E.Byrd, successfully flew over the South Pole <u>for the first time</u>. 首次飞跃南极（B2L43）
   ✎ —— Going away to college <u>for the first time</u> always makes one a little nervous. 第一次上大学总是让人有点紧张。
   —— I guess so. I’ll be OK. I just need time to think.（《走遍美国》）
+
 
 
 
