@@ -1,5 +1,5 @@
 ---
-title:  recommend
+title:  Source Recommend
 author: K
 date: 2026-08-02 00:00:00 +0800
 categories:
@@ -37,6 +37,6 @@ tags:
 
 # 资源
 
-## Z-library
+[Z-library](https://z-library.sk/)
 
-https://z-library.sk/
+
