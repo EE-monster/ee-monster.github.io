@@ -1,5 +1,5 @@
 ---
-title: YouTube recommend
+title:  recommend
 author: K
 date: 2026-08-02 00:00:00 +0800
 categories:
@@ -7,7 +7,9 @@ categories:
 tags:
   - 其它
 ---
-# 📺 博主
+# YouTube
+
+## 📺 博主
 
 [徒步的騎手•劉宗坤](https://www.youtube.com/@LiuTalks)
 
@@ -30,3 +32,11 @@ tags:
 袁腾飞（高中历史）
 
 老罗语录
+
+---
+
+# 资源
+
+## Z-library
+
+https://z-library.sk/
