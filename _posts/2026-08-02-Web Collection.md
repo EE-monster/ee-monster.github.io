@@ -1,12 +1,14 @@
 ---
-title: Web Collection
+title: 🦉 Web Collection
 author: K
 date: 2026-08-02 00:00:00 +0800
 categories:
   - 资源
 tags:
   - 其它
+pin: true
 ---
+
 # 一、视频（YouTube）
 
 ## 📺 博主
