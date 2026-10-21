@@ -43,15 +43,16 @@ pin: true
 
 ## 外刊
 
-| 中文名   | 网站                                                 | 相关                                   | 备注    |
-| ----- | -------------------------------------------------- | ------------------------------------ | ----- |
-| 经济学人  | [The Economist](https://www.economist.com/)        |                                      |       |
-| 纽约时报  | [The New York Times](https://www.nytimes.com/)     | [纽约时报中文网](https://m.cn.nytimes.com/) |       |
-| 华尔街日报 | [The Wall Street Journal](https://www.wsj.com/)    | [华尔街日报中文网](https://cn.wsj.com/)      |       |
-| 大西洋月刊 | [The Atlantic](https://www.theatlantic.com/)       |                                      |       |
-| 纽约客   | [The New Yorker](https://www.newyorker.com/)       |                                      |       |
-| 外交事务  | [Foreign Affairs](https://www.foreignaffairs.com/) |                                      |       |
-|       | [联合早报](https://www.zaobao.com.sg/)                 |                                      | 可直接访问 |
+| 中文名   | 网站                                                   | 相关                                   | 备注    |
+| ----- | ---------------------------------------------------- | ------------------------------------ | ----- |
+| 经济学人  | [The Economist](https://www.economist.com/)          |                                      |       |
+| 纽约时报  | [The New York Times](https://www.nytimes.com/)       | [纽约时报中文网](https://m.cn.nytimes.com/) |       |
+| 华尔街日报 | [The Wall Street Journal](https://www.wsj.com/)      | [华尔街日报中文网](https://cn.wsj.com/)      |       |
+| 大西洋月刊 | [The Atlantic](https://www.theatlantic.com/)         |                                      |       |
+| 纽约客   | [The New Yorker](https://www.newyorker.com/)         |                                      |       |
+| 外交事务  | [Foreign Affairs](https://www.foreignaffairs.com/)   |                                      |       |
+| 商业内幕  | [Business Insider](https://www.businessinsider.com/) |                                      |       |
+|       | [联合早报](https://www.zaobao.com.sg/)                   |                                      | 可直接访问 |
 
 ### 外刊阅读工具
 
