@@ -6,7 +6,8 @@ categories:
   - 外刊阅读
 tags:
   - 播客
-image: https://www.economist.com/cdn-cgi/image/width=960,quality=80,format=auto/content-assets/images/20261107_CND001.jpg
+image:
+  path: https://www.economist.com/cdn-cgi/image/width=960,quality=80,format=auto/content-assets/images/20261107_CND001.jpg
 ---
 # Rewriting the script
 
