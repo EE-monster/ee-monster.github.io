@@ -9,31 +9,8 @@ tags:
 pin: true
 ---
 
-# 一、视频（YouTube）
 
-## 📺 博主
-
-| 博主账号                                                           | 简介             |
-| -------------------------------------------------------------- | -------------- |
-| [徒步的騎手•劉宗坤](https://www.youtube.com/@LiuTalks)                 | 社会、法律、政治、哲思    |
-| [我是文婷WenTing](https://www.youtube.com/@wentingting)            | 古今中外、名人轶事      |
-| [安争鸣（Stella An）](https://www.youtube.com/@anzhengming)         | 读书；女性主义        |
-| [张内咸脱口秀](https://www.youtube.com/@NeixianZhang)                | 社会观察           |
-| [李承鹏](https://www.youtube.com/@%E6%9D%8E%E6%89%BF%E9%B9%8Fdyg) | 社会观察           |
-| [马方说管理](https://www.youtube.com/@Ma-Fang)                      | 人生建议；职场生存；职业规划 |
-| [宇文老師](https://www.youtube.com/@missyuwen1)                    | 社会观察           |
-
-## 🔍搜索
-
-| 关键词   | 简介             |
-| ----- | -------------- |
-| 锵锵三人行 | 访谈             |
-| 袁腾飞   | 高中历史课          |
-| 老罗语录  | 罗永浩早年 GRE 课堂闲聊 |
-
----
-
-# 二、图文资讯
+# 一、图文资讯
 
 ## 电子书相关
 
@@ -48,7 +25,9 @@ pin: true
 | 经济学人  | [The Economist](https://www.economist.com/)          |                                      |       |
 | 纽约时报  | [The New York Times](https://www.nytimes.com/)       | [纽约时报中文网](https://m.cn.nytimes.com/) |       |
 | 华尔街日报 | [The Wall Street Journal](https://www.wsj.com/)      | [华尔街日报中文网](https://cn.wsj.com/)      |       |
+| 金融时报  | [Financial Times](https://www.ft.com/)               |                                      |       |
 | 大西洋月刊 | [The Atlantic](https://www.theatlantic.com/)         |                                      |       |
+| 卫报    | [The Guardian](https://www.theguardian.com/)         |                                      |       |
 | 纽约客   | [The New Yorker](https://www.newyorker.com/)         |                                      |       |
 | 外交事务  | [Foreign Affairs](https://www.foreignaffairs.com/)   |                                      |       |
 | 商业内幕  | [Business Insider](https://www.businessinsider.com/) |                                      |       |
@@ -62,7 +41,7 @@ pin: true
 
 ---
 
-# 三、在线影视剧
+# 二、在线影视剧
 
 ## 综合
 
